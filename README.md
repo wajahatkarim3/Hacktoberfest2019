@@ -18,7 +18,6 @@
     
 </div>
 
-<br/>
 <div align="center">
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/WajahatKarim">Wajahat Karim</a> and
