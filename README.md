@@ -10,6 +10,9 @@
     <a href="https://hacktoberfest.digitalocean.com/">
             <img src="https://img.shields.io/badge/Hacktoberfest%202019-Win%20a%20T--Shirt-critical"></img>
 </a>
+<a href="https://wajahatkarim.com">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></img>
+</a>
     <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/fork">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
