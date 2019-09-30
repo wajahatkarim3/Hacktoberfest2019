@@ -56,6 +56,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 3. Edit the file and insert your short profile with the following text
 ```
 ### YOUR FULL NAME
+- Photo: YOUR PHOTO URL
 - Location: YOUR CITY, COUNTRY
 - Bio: YOUR 1-2 LINES BIO
 - Github: YOUR GITHUB URL
@@ -64,6 +65,7 @@ Here's an example of my profile
 
 ```
 ### Wajahat Karim
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
