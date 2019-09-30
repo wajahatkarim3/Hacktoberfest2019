@@ -7,6 +7,9 @@
 <br/>
 
 <div align="center">
+    <a href="">
+            <img src="https://img.shields.io/badge/Hacktoberfest%202019-Win%20a%20T--Shirt-critical"></img>
+</a>
     <a href="https://wajahatkarim.com">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
