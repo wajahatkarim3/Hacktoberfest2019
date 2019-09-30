@@ -7,22 +7,19 @@
 <br/>
 
 <div align="center">
-    
-    <!-- Donate -->
-    <a href="https://www.paypal.me/WajahatKarim/5">
+    <a href="https://wajahatkarim.com">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
     </a>
     
     <!-- Say Thanks! -->
-    <a href="https://saythanks.io/to/wajahatkarim3">
+   <a href="https://saythanks.io/to/wajahatkarim3">
         <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"/>
     </a>
     
     <!-- Donate -->
-    <a href="https://www.paypal.me/WajahatKarim/5">
+   <a href="https://www.paypal.me/WajahatKarim/5">
         <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
     </a>
-   
     
 </div>
 
