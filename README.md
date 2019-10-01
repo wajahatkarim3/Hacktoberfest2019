@@ -1,3 +1,7 @@
+<div align="left"><p><a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68"><img alt="New" align="center" src="https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg" /></a>&nbsp;
+A full beginner's guide about Hacktoberfest 2019 is now published. You can <a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68">read it on this link here. →</a>.
+</p></div>
+
 ![](https://res.cloudinary.com/wajahatkarimcom/image/upload/v1569872594/AwesomeContributors_cover.jpg)
 
 <h1 align="center"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fwajahatkarim3%2FHacktoberfest2019&text=Are%20you%20ready%20for%20%23Hacktoberfest%202019%3F%20Support%20Open%20Source%20in%20October%20and%20earn%20a%20limited%20edition%20T-shirt%21%20by%20contributing%20your%20profile%20in%20Awesome%20Contributors%20by%20@WajahatKarim&hashtags=DigitalOcean%2CThePracticalDev%2Copensource%20">
@@ -50,7 +54,7 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 ***
 
 # 👍 This is Awesome! How Can I Contribute? 
-It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your (maybe) first pull request within few minutes.
+It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/wajahatkarim3/Hacktoberfest2019/fork).
 2. Navigate to `CONTRIBUTORS.md` file
 3. Edit the file and insert your short profile with the following text
@@ -76,7 +80,7 @@ Here's an example of my profile
 5. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 8. Wait for your Pull Request review and merge approval!
 9. Star this repository if you had fun!
-10. Enjoy and welcome to Hacktoberfest 2019
+10. Enjoy and welcome to Hacktoberfest 2019 and Keep Contributing :)
 
 ***
 
