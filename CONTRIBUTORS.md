@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Leonardo Sena
+- Location: Salvador, Brasil
+- Bio: Computer engineering student
+- Github: https://github.com/leosena21
+***
