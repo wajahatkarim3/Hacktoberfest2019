@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### İsmet Batansu
+- Photo:
+- Location: İstanbul, Turkey
+- Bio: 💻 Software Developer .
+- Github: https://github.com/ismetbatansu
