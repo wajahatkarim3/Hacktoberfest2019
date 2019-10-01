@@ -1,7 +1,3 @@
-<div align="left"><p><a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68"><img alt="New" align="center" src="https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg" /></a>&nbsp;
-A full beginner's guide about Hacktoberfest 2019 is now published. You can <a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68">read it on this link here. →</a>.
-</p></div>
-
 ![](https://res.cloudinary.com/wajahatkarimcom/image/upload/v1569872594/AwesomeContributors_cover.jpg)
 
 <h1 align="center"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fwajahatkarim3%2FHacktoberfest2019&text=Are%20you%20ready%20for%20%23Hacktoberfest%202019%3F%20Support%20Open%20Source%20in%20October%20and%20earn%20a%20limited%20edition%20T-shirt%21%20by%20contributing%20your%20profile%20in%20Awesome%20Contributors%20by%20@WajahatKarim&hashtags=DigitalOcean%2CThePracticalDev%2Copensource%20">
@@ -35,6 +31,11 @@ A full beginner's guide about Hacktoberfest 2019 is now published. You can <a hr
     contributors
   </a>
 </div>
+  
+<div align="left"><p><a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68"><img alt="New" align="center" src="https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg" /></a>&nbsp;
+The pull requests on this repository will not be considered for Hacktoberfest 2019 as per their guidelines on [their core values](https://hacktoberfest.digitalocean.com/details). This repository is a simple example for begginers who can learn to create their first pull request. A full beginner's guide about Hacktoberfest 2019 is now published. You can <a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68">read it on this link here. →</a>.
+</p></div>  
+  
   
 # ❓ What's Hacktoberfest 2019?
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2019.
