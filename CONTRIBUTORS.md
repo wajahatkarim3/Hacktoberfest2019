@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------------
+
+### KETAN VISHWAKARMA
+- Photo: https://avatars3.githubusercontent.com/u/42869168?s=460&v=4
+- Location: Ahmedabad, India
+- Bio: Computer Engineering Student,Competitive Coder (Beginner), Quora writer.
+- Github: https://github.com/ketanvishwakarma
+***
