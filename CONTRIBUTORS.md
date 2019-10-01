@@ -8,6 +8,14 @@
 
 -----------
 
+### Sebastian Figg
+- Photo: https://avatars3.githubusercontent.com/u/38180375?s=40&v=4
+- Location: Sydney, Australia
+- Bio: Came for the shirt, stayed for the community.
+- Github: https://github.com/mrillusion
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
