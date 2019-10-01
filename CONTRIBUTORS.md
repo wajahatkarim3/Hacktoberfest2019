@@ -1,10 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+### Larissa Yasin
+- Photo: https://avatars2.githubusercontent.com/u/13264695?s=460&v=4
+- Location: Porto Alegre, Brazil
+- Bio: Mobile Developer
+- Github: https://github.com/larissayasin
 
 -----------
 
