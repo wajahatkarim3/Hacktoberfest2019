@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Christian Torres
+- Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
+- Location: Connecticut, United States
+- Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
+- Github: https://github.com/phyre1337
+
 -----------
 
 ### Year-In-Review
