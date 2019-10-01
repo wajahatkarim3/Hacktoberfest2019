@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Ayesha Tahir
+- Location: Faisalabad, Pakistan
+- Bio: Beginner, Interested in web development and graphic designing, 3rd semester student from University of Engineering and Technology, Lahore.
+- Github: https://github.com/ayeshatahirme
+***
