@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+
+### Nishant Raj
+- Photo: 
+- Location: Banaglore, India
+- Bio: 📱 Android Developer 
+- Github: https://github.com/coolnishant
