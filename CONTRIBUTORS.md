@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Ameer Hamza
+- Photo: https://avatars0.githubusercontent.com/u/26673662?s=400&u=26e15fd2c9b26dc37437ace365213930c5afc148&v=4
+- Location: Islamabad, Pakistan
+- Bio: Currently an undergraduate student doing Software Engineering. MERN Stack Developer . ML enthusiast
+- Github: https://github.com/ameerhamza619
+***
