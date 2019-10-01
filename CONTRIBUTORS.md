@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+
+-----------
+### P. Pelin Uyar
+- Photo: 
+- Location: Izmir,Turkey
+- Bio: Junior Software Developer
+- Github: https://github.com/p2uyar
