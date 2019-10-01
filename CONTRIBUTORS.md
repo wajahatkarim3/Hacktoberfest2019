@@ -16,7 +16,7 @@
 
 
 -----------
-### Wajahat Karim
+### P. Pelin Uyar
 - Photo: 
 - Location: Izmir,Turkey
 - Bio: Junior Software Developer
