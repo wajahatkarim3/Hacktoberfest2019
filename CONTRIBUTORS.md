@@ -1,15 +1,7 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
-
------------
-
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Alex Salomatin
+- Photo: https://avatars2.githubusercontent.com/u/41446232?s=460&v=4
+- Location: Tel Aviv, Israel
+- Bio: 📱 Android Developer. Started developing in 2018, have several projects published on Google Play.
+- Github: https://github.com/ASalomatin47
