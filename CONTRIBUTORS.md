@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Emmanuel Ezenwigbo
+- Photo: https://res.cloudinary.com/skycoder/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1567289385/IMG-20181016-WA0040_tnatg9.jpg
+- Location: Edo, Nigeria
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/SkyC0der
+
 -----------
 
 ### Year-In-Review
