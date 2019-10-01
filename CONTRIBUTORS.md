@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Wajahat Karim
+- Photo: https://avatars0.githubusercontent.com/u/5537822?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Expert in Software Professional Services
+- Github: https://github.com/kamransarwar
+
 -----------
 
 ### Year-In-Review
