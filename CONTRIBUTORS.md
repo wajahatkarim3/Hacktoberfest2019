@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+- Photo: 
+- Location: Greater Noida,India
+- Bio: Web Developer . 💻 Open Source Contributor . Writer. Badminton Player
+- Github: https://github.com/akku15999
+
