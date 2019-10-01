@@ -8,6 +8,13 @@
 
 -----------
 
+### José Matheus do Nascimento Gama
+- Photo: https://avatars3.githubusercontent.com/u/50168539?s=460&v=4
+- Location: Paraiba, Brasil
+- Bio: Science Computer Student. Open Source Contributor.
+- Github: https://github.com/mixmaxze
+***
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
