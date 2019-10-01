@@ -66,8 +66,7 @@ Here's an example of my profile
 
 ```
 ### Muhammad Adnan
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
+- Location: Islamabad, Pakistan
 - Bio: 📱 Senior iOS Developer . 💻 Open Source Contributor . 📝Consultant at HackHands
 - Github: https://github.com/Adnan1990
 ***
