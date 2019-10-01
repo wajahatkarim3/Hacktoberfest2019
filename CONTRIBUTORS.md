@@ -13,9 +13,3 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
-
-### Christopher Chung
-- Photo: https://avatars3.githubusercontent.com/u/48533021?v=4
-- Location: Los Angeles, United States
-- Bio: Data Analyst
-- Github: https://github.com/maxutil
