@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Hatice Erdağı
+- Photo: 
+- Location: İstanbul, Turkey
+- Bio: 💻 Softwear Developer . 
+- Github: https://github.com/haticeerdagi
