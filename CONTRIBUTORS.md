@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Muhammad Ahad
+- Photo: https://avatars3.githubusercontent.com/u/47399266?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Software Developer
+- Github: https://github.com/muhammadahad96
+***
