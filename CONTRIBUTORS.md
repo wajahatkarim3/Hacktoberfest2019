@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Pratik Butani
+- Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
+- Location: Ahmedabad, India
+- Bio: Android/Flutter Developer . Open Source Contributor . Writer . Speaker .
+- Github: https://github.com/pratikbutani
+***
