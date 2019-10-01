@@ -8,6 +8,14 @@
 
 -----------
 
+### Ajay Jha
+- Photo: https://avatars0.githubusercontent.com/u/42214918?s=460&v=4
+- Location: Haryana, India
+- Bio: Avid learner and Computer Vision enthusiast. 
+- Github: https://github.com/ajayjha5899
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
