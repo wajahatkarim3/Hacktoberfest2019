@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+## Jasch Shah
+- Location: Pune, India
+- Bio: 📱 Android Developer  📝Writer 
+- Github: https://github.com/jasch-shah
+***
