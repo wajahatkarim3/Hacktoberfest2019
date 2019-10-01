@@ -17,5 +17,5 @@
 ### Santatra
 - Photo: https://live.staticflickr.com/4650/39942062092_67b1487df6_b.jpg
 - Location: Antananarivo, Madagascar
-- Bio: Communication Student
+- Bio: Student in Communication
 - Github: https://github.com/nirinarisantatra
