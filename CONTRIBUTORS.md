@@ -8,6 +8,13 @@
 
 -----------
 
+### Aayush Rawal
+- Location : Chennai, India
+- Bio : Web Dev, Comp Sci Major
+- Github: https://github.com/aayusss
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
