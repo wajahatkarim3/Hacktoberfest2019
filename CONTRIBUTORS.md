@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+------------
+
+### SHAIK SAIFUDDIN
+- Photo: https://avatars2.githubusercontent.com/u/31506305?s=460&v=4
+- Location: Hyderabad, INDIA
+- Bio: javascript:gift_heart: , Angular Fanboy:fire:
+- Github: https://github.com/sksaifuddin
+***
