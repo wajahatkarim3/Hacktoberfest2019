@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Alif Naufal
+- Photo: https://avatars3.githubusercontent.com/u/49275855?s=460&v=4
+- Location: Bandung, Indonesia
+- Bio: Student and want to be a Data Scientists
+- Github: https://github.com/alifnaufalyasin
