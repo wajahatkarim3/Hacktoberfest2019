@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### SEAN CHAMBERS
+- Photo: 
+- Location: AUSTIN, TEXAS
+- Bio: Software Engineering Manager at Indeed
+- Github: https://www.github.com/schambers
+***
