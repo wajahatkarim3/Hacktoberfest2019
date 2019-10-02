@@ -1,15 +1,8 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+### Muhammad Sameer Ali
+- Photo: https://ibb.co/hm0XT6G
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Bio: Beginner
+- Github: https://github.com/msali123
 
------------
-
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
