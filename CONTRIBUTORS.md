@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Dionysus Cho
+- Photo: https://avatars0.githubusercontent.com/u/6611743?s=460&v=4
+- Location: Toronto, Canada
+- Bio: CS Student / Architectural Designer / Things Maker / Stuff Learner
+- Github: https://https://github.com/dionysuscho
+
