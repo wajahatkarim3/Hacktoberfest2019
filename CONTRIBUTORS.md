@@ -7,6 +7,7 @@
 - Github: https://github.com/wajahatkarim3
 
 
+### Isaac Anohene
 - Photo: https://mobile.twitter.com/anohene1/photo
 - Location: Kumasi, Ghana
 - Bio: Android Developer . Web Developer 
