@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Kafui Alordo
+- Photo: https://avatars2.githubusercontent.com/u/14028900?s=460&v=4
+- Location: Volta, Ghana
+- Bio: Software developer - Web & Mobile . Avid volunteer . Traveller . 
+- Github: https://github.com/kafui4k
+
 -----------
 
 ### Year-In-Review
