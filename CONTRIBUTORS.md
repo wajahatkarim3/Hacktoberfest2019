@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Year-In-Review
+- Photo: 
+- Location: quebec, canada
+- Bio: Studen | awesome guy
+- Github: https://github.com/fref2
