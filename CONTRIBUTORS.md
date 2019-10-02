@@ -8,8 +8,10 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Haripriya
+- Photo: https://https://avatars1.githubusercontent.com/u/40045897?s=400&u=7eff51604a33f87c1095bab747ee215349574de8&v=4
+- Location: Colombo, Srilanka
+- Bio: Software Quality Engineer, Writer, Student, Beginner at Coding.
+- Github: https://github.com/echpee
+
+Thank youu Karim ! :)
