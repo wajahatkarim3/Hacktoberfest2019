@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Ezra Lazuardy
+- Photo: https://avatars2.githubusercontent.com/u/24422019?s=460&v=4
+- Location: Indonesia
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer
+- Github: https://github.com/ezralazuardy
