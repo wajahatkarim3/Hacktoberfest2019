@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 
 -----------
+### Ali Azaz Alam
+- Photo: https://avatars2.githubusercontent.com/u/12116478?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Android Application Developer 📱. Open Source Contributor . 📝Writer
+- Github: https://github.com/aliazaz
+
+-----------
 
 ### Year-In-Review
 - Photo: 
