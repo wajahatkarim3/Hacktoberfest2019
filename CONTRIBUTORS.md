@@ -6,6 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+
+- Photo: https://mobile.twitter.com/anohene1/photo
+- Location: Kumasi, Ghana
+- Bio: Android Developer . Web Developer 
+- Github: https://github.com/anohene1
 -----------
 
 ### Year-In-Review
