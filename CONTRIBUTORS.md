@@ -9,7 +9,7 @@
 -----------
 
 ### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Photo: https://3.bp.blogspot.com/-4vf21MEFRp4/VhEtQhBPfLI/AAAAAAAAAfw/KuZR_Af6EHI/s320/HOPE.jpg
+- Location: Jakarta, Indonesia
+- Bio: Web Developer . UI/UX Designer
+- Github: https://github.com/athallara
