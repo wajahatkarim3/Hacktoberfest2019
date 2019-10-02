@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Katherine Kee Wan Ting
+- Photo: 
+- Location: Singapore
+- Bio: Robotics & General Software Developer, Open Robotics Intern, Computer Engineering Undergrad
+- Github: https://github.com/leafgecko
+
 -----------
 
 ### Year-In-Review
