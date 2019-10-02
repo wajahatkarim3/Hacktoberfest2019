@@ -24,13 +24,7 @@
     
 </div>
 
-<div align="center">
-  <sub>Built with ❤︎ by
-  <a href="https://twitter.com/WajahatKarim">Wajahat Karim</a> and
-  <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/graphs/contributors">
-    contributors
-  </a>
-</div>
+
   
 ***  
   
@@ -74,13 +68,6 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 Here's an example of my profile
 
 ```
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
-***
-```
 4. Now click on Commit button.
 5. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 8. Wait for your Pull Request review and merge approval!
@@ -94,12 +81,3 @@ I am creating a simple website called as **Awesome Contributors of Hacktoberfest
 
 ***
 
-## 👨 Developed & Maintained By
-
-```
-Wajahat Karim
-```
-- Website (http://wajahatkarim.com)
-- Twitter (http://twitter.com/wajahatkarim)
-- Medium (http://www.medium.com/@wajahatkarim3)
-- LinkedIn (http://www.linkedin.com/in/wajahatkarim)
