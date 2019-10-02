@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+-----------
+
+### Year-In-Review
+- Photo: 
+- Location:delhi,India
+- Bio: passionate programmer
+- Github: https://github.com/passionateprogrammer
