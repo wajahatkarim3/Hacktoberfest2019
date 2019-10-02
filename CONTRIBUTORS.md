@@ -7,6 +7,12 @@
 - Github: https://github.com/wajahatkarim3
 
 -----------
+### Pasindu sandeepa
+-photo:https://drive.google.com/open?id=1GZPPEKlpbqfiZZqqabgPtNO4IVMaVAvb
+-Location :colombo ,sri lanka
+-Bio : Ungradutate Software Engineering at plymouth uni | Web Content Writer | arduino developer | IEEE member
+-Github : https://github.com/PasinduSan
+
 
 ### Year-In-Review
 - Photo: 
