@@ -54,7 +54,7 @@ If you’ve never contributed to open source before, this is the perfect time to
 Hacktoberfest has a simple and plain moto.
 > Support open source and earn a limited edition T-shirt!
 
-So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source and get the international exposure. 
+So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On the plus side, you will get into beautiful world of open source and get the international exposure. 
 
 ***
 
