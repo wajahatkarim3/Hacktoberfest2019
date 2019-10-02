@@ -13,3 +13,8 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Anshul Sharma
+- Location: Indore, India
+- Bio: Python Programmer, Student, Learner
+- Github - https://github.com/anshul1098
