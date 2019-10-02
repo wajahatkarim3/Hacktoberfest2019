@@ -5,6 +5,12 @@
 - Location: Karachi, Pakistan
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
+### Allen Joseph
+- Photo: https://avatars0.githubusercontent.com/u/22292781?s=460&v=4
+- Location: Kochi, India
+- Bio: 18
+- Github: https://github.com/AllenAJ
+***
 
 -----------
 
