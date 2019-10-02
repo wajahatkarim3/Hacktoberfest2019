@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Chathurangi Jayawardana
+- Photo: 
+- Location: SriLanka
+- Bio: Trainee Software Engineer
+- Github:https://github.com/ChathurangiJayawardana
