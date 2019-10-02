@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Pranesh S
+- Photo: 
+- Location: Coimbatore,India
+- Bio: Designer, Backend Developer, Gamer(R6S)
+- Github: https://github.com/pranesh-sp
+***
