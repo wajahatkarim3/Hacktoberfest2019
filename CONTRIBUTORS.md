@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Sahil Shende
+-Photo: #
+-Location: Surat, India
+-Bio: competitive programming, Student
+-Github: https://github.com/Sahil-Shende
