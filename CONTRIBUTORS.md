@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Wajahat Karim
+
+- Location: Italy
+- Bio: 📱  Developer . 💻 Open Source Contributor . 👶 Father 
+- Github: https://github.com/andreaq
+
 -----------
 
 ### Year-In-Review
