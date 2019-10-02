@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Abhijeet Singh Chauhan
+- Photo: https://avatars1.githubusercontent.com/u/20797673?s=460&v=4
+- Location: Noida, India
+- Bio: 📱 Android Developer . 💻 Flutter Developer . 📝CLean Architecture coder . 🎤 Node.js dev
+- Github: https://github.com/chauhan-abhi
