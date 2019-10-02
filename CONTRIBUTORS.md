@@ -6,7 +6,7 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
-### Year-In-Review
+### Sandro Pirtskhalava
 - Photo: https://avatars2.githubusercontent.com/u/2458353?s=460&v=4
 - Location: Tbilisi, Georgia
 - Bio: Full Stack Developer and IT Evangelist
