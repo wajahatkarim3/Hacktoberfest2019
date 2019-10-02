@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Eilidh Southren
+- Photo: https://avatars3.githubusercontent.com/u/15033982?s=460&v=4
+- Location: Aberdeen, Scotland
+- Bio: Love coding and getting others excited about it too.
+- Github: https://github.com/esouthren
+
 -----------
 
 ### Year-In-Review
