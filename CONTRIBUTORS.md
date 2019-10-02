@@ -9,7 +9,7 @@
 -----------
 
 ### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Photo: N/A
+- Location: Davis, California
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/judyz01
