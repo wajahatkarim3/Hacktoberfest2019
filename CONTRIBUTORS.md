@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### AAVESH KUMAR SINHA
+- Photo: https://avatars3.githubusercontent.com/u/28723058
+- Location: Deoghar, India
+- Bio: Programmer(Java, C, Python), Student(Engineering), Learner(Machine Learning, Cloud, Internet of Things)
+- Github: https://github.com/AaveshK
+***
