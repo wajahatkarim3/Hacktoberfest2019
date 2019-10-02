@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Istvan Kovacs
+- Photo: 
+- Location: Debrecen, Hungary
+- Bio: VBA and Excel
+- Github: https://github.com/Pittyolo
+***
