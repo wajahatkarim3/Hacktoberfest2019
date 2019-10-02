@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Jamie Lo
+- Photo: https://avatars2.githubusercontent.com/u/24484166?s=460&v=4
+- Location: United States
+- Bio: JavaScript Developer . Gamer . Coffee Lover
+- Github: https://github.com/jamielo52
