@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Magnus Paulsen
+- Photo:
+- Location: Norway
+- Bio: UX-design student trying to figure out some Git :)
+- Github: https://github.com/powni
+
+
