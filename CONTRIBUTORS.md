@@ -8,6 +8,12 @@
 
 -----------
 
+### Andrej Wallwitz
+- Photo: - Sorry -
+- Location: Munich, Germany
+- Bio: Android and embedded developer
+- Github: https://github.com/andilee111
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
