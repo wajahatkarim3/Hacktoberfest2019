@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Farhia M
+- Photo: 
+- Location: Stockholm, Sweden
+- Bio: 👩‍💻 Junior Web developer, 🎵Music lover, 💻 Tech enthusiast
+- Github: https://github.com/FarhiaM
+***
