@@ -1,10 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+### Ali Asghar Karani
+- Photo: https://drive.google.com/open?id=1hA5TCbHLM9wXAfY36D41ZOQ87cWFc1xR
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Bio: 📱 React Native Developer . 💻 Data Anaylst 
+- Github: https://github.com/aliasgharkarani
 
 -----------
 
