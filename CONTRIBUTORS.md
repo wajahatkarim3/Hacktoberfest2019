@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Nick Reisenauer
+- Photo: https://avatars2.githubusercontent.com/u/38516489?s=460&v=4
+- Location: Phoenix, America
+- Bio: Frontend Web Developer
+- Github: https://github.com/nickreisenauer
+
+-----------
