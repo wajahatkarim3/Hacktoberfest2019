@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-------------
+
+### Andrew Reid
+- Photo: https://avatars3.githubusercontent.com/u/23492426?s=460&v=4
+- Location: Auckland, New Zealand
+- Bio: First time for Hacktoberfest, first ever Git PR
+- Github: https://github.com/manxbiker
+
+------------
