@@ -10,6 +10,6 @@
 
 ### Year-In-Review
 - Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
+- Location: mumbai,maharashtra
+- Bio:student,btech
 - Github: https://github.com/Year-In-Review
