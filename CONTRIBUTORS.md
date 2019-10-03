@@ -8,6 +8,15 @@
 
 -----------
 
+### Hassan Shahid
+- Photo: https://avatars2.githubusercontent.com/u/45159800?s=400&u=ca475227ff942c9ef57d37ed35de18028e5c0d6a&v=4
+- Location: Kolkata, India
+- Bio: Web Developer, Spitter of Words
+- Github: https://github.com/BlazingNinja01
+
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
