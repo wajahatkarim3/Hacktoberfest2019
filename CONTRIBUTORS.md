@@ -8,8 +8,9 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Robin Trumpie
+- Photo: https://media.licdn.com/dms/image/C4E03AQGOl6fb8D3-ow/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=dUrRfcGFNyrVMLR9v9ktSvZNlw9R11tqsu3DCRz4dKM
+- Location: Hoevelaken, The Netherlands
+- Bio: 💻 System Engineer . Scripter . Automation . Cloud
+- Github: https://github.com/rtrumpie
+***
