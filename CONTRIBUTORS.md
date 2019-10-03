@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+
+### Bryant Hou
+- Photo: https://avatars3.githubusercontent.com/u/47344309?s=460&v=4
+- Location: Dallas, TX
+- Bio: UTD student, researcher, developer
+- Github: https://github.com/BryantH24
+***
