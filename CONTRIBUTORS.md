@@ -14,6 +14,7 @@
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
 
+***
 ### Farhia M
 - Photo: 
 - Location: Stockholm, Sweden
