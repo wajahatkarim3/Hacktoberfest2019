@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Christine Mecklenborg
+- Photo: 
+- Location: Austin, Texas
+- Bio: Senior QA Automation Engineer at Indeed.com
+- Github: https://github.com/cmecklenborg
