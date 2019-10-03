@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Anshu
+- Photo: https://avatars1.githubusercontent.com/u/4567941?s=400&v=2
+- Location: WB,India
+- Bio: Blockchain Enthusiast . Android Developer
+- Github: https://github.com/rpop67
