@@ -8,6 +8,13 @@
 
 -----------
 
+### Steven Siahaan
+- Photo: https://avatars1.githubusercontent.com/u/12742604?s=400&u=28c325e509a1205615ddda66500ba40a786863cb&v=4
+- Location: Jakarta, Indonesia
+- Bio: Android Developer 
+- Github: https://github.com/stevensiahaan
+***
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
