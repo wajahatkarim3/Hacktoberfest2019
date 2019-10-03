@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Anas Singularity
+- Photo: https://avatars1.githubusercontent.com/u/38077746?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: keen learner | sports person | passonate about arts and design
+- Github: https://github.com/anassalam
