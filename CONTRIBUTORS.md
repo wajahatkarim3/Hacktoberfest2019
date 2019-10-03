@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+
+### VINAYAK M R
+- Photo: 
+- Location: kerala,india
+- Bio: Machine Learning and django developer
+- Github: https://github.com/vmr1532
+
+
