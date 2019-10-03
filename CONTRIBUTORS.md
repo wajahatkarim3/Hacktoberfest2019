@@ -1,10 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+### Zubair Ansari
+- Photo: https://i.ibb.co/k4TBv1X/49388062-2158117051106295-3705954256960880640-n.jpg
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Bio: Web Application Penetration Tester | Bug Hunter | DSC Lead @ Google Developers
+- Github: https://github.com/officialzubairansari
 
 -----------
 
