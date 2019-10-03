@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Hilary Matusiak
+- Photo: YOUR PHOTO URL
+- Location: Michigan, USA
+- Bio: ‎‍💻 Developer .  ⚛️ React . 🎨
+Painter . 📷 Photographer
+- Github: https://github.com/hwilson2563
+***
