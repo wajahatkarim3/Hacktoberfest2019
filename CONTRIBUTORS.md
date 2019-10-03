@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+***
+
+### Antoine Sébert
+- Photo: https://avatars0.githubusercontent.com/u/14963156?s=460&v=4
+- Location: Nærum, Denmark
+- Bio: Master of Science in Computer Science and Engineering Student at DTU
+- Github: https://github.com/AntoineSebert
+
+***
