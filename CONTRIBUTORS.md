@@ -1,10 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+### Rao Daniyal Akram
+- Photo: https://avatars2.githubusercontent.com/u/26222495?s=460&v=4
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Bio: 📱 React Native Developer . 📝Student . 🎤 Social influencer .
+- Github: https://github.com/daniyalrajputt
 
 -----------
 
