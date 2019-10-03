@@ -1,4 +1,4 @@
-# Awesome Contributors of Hacktoberfest 2019
+# Amazing Contributors of Hacktoberfest 2019
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
@@ -9,6 +9,7 @@
 -----------
 
 ### Year-In-Review
+### keep track of activities
 - Photo: 
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
