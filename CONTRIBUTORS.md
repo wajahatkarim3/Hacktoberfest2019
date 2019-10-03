@@ -6,6 +6,13 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Leon Do
+- Photo: https://avatars0.githubusercontent.com/u/19412160?s=460&v=4
+- Location: USA
+- Bio: crypto, IPFS
+- Github: https://github.com/leon-do
+***
+
 -----------
 
 ### Year-In-Review
