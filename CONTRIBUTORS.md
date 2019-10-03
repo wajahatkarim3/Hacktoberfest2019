@@ -13,3 +13,7 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Khyati Gupta
+Location:Delhi,India
+Bio:Web developer,open source contributor,student.
