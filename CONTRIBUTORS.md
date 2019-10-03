@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Tony Stolsworth
+- Photo: https://bit.ly/2Oh35g0
+- Location: Tulsa, United States
+- Bio: Systems Administrator, ConfigMgr Admin, PowerShell enthusiast, 
+- Github: https://github.com/tstolswo
+- LinkedIn: https://www.linkedin.com/in/tstolswo/
+- Twitter: https://twitter.com/tstolswo
+***
