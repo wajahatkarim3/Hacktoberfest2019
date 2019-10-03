@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Jayesh Lokhande
+- Location: Mumbai, India
+- Bio: Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker  
+- Github: https://github.com/jlokhande46
+***
