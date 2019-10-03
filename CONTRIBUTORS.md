@@ -8,6 +8,17 @@
 
 -----------
 
+### Shagun Attri
+
+- Photo: https://user-images.githubusercontent.com/29366864/66127242-d6d63480-e608-11e9-9683-104509f137db.JPG
+- Location: Chennai,India
+- Bio: 📱 Flutter Enthusiast. 💻 Open Source Contributor . 📝Interested in Security and Development
+- Github: https://github.com/shagunattri/
+
+-----------
+
+
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
