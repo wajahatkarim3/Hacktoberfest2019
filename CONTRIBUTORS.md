@@ -7,7 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 
 -----------
+### rnzit ks
+- Photo: https://avatars1.githubusercontent.com/u/32677893?s=460&v=4
+- Location: BKK, TH
+- Bio: JAVA Developer
+- Github: https://github.com/rnzit
 
+-----------
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
