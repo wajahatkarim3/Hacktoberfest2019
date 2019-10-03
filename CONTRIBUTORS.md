@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### DewRose
+- Photo: 
+- Location: Sidoarjo, Indonesia
+- Bio: Keep Smile
+- Github: https://github.com/dewros
