@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Nick Roma
+- Photo: 
+- Location: Tokyo, Japan
+- Bio: Software Developer
+- Github: https://github.com/nikoandpiko
+
 -----------
 
 ### Year-In-Review
