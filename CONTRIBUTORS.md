@@ -13,3 +13,6 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Hardik Sharma
+- Bio: Ok
