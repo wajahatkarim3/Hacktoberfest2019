@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Christos Chr
+- Photo: YOUR PHOTO URL
+- Location: Swe
+- Bio: What should I write here??
+- Github: https://github.com/atipaHy/
