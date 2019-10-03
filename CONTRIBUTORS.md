@@ -13,3 +13,12 @@
 - Location: Kolkata, India
 - Bio: Web Developer, Spitter of Words
 - Github: https://github.com/BlazingNinja01
+
+
+-----------
+
+### Year-In-Review
+- Photo: 
+- Location: Karachi, Pakistan
+- Bio: Keep track of your activities throughout year
+- Github: https://github.com/Year-In-Review
