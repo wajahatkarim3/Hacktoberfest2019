@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Yusuf Duyar
+- Photo: https://avatars1.githubusercontent.com/u/30793320?s=460&v=4
+- Location: Istanbul, Turkey
+- Bio: .Net Backend Developer, Photographer
+- Github: https://github.com/yusufduyar
