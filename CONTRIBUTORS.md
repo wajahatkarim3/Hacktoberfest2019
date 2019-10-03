@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Nathan Atheton
+- Photo: https://avatars0.githubusercontent.com/u/32927596?s=96&v=4
+- Location: Manchester, UK
+- Bio: Frontend Developer
+- Github: https://github.com/NathanAvie
+
+-----------
