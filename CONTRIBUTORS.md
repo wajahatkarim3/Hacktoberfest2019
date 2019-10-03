@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Aayush Garg
+- Photo: https://avatars2.githubusercontent.com/u/43516535?s=400&u=3bb6f59adb57159b4440143f019a4ecb6891e6af&v=4
+- Location: Ranchi, Jharkhand
+- Bio: Competitive Programmer,Open Source Enthusiast
+- Github: https://github.com/aayushgarg-03
