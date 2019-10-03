@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Rahmat Hidayat
+- Photo: -
+- Location: Indonesia
+- Bio: College Student
+- Github: https://github.com/rahmat31
+
 -----------
 
 ### Year-In-Review
