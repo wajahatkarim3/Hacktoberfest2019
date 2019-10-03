@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### CryptoSingh
+-Photo:
+-Location: Kerela, India
+-Bio: Student 
+-Github: https://github.com/CryptoSingh1337/master
