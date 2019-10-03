@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Alejandra
+- Photo: https://pbs.twimg.com/profile_images/1115040788524593154/ZXtKoAfL_200x200.jpg
+- Location: Los Angeles, United States
+- Bio: Salesperson slowly but surely transitioning to a career in tech
+- Github: https://github.com/alejandra-gonzalez
