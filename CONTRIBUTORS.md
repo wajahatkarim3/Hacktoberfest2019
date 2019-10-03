@@ -8,6 +8,14 @@
 
 -----------
 
+### Arno Bornman
+- Photo: https://avatars3.githubusercontent.com/u/16000608?s=400&v=4
+- Location: Gauteng, South Africa
+- Bio: 💻 Web developer . 🎮 Gamer . 🎼 Drummer . 🚀 Tech explorer
+- Github: https://github.com/xxGizmoCodexx
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
