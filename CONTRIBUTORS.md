@@ -1,15 +1,11 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+### Himanshu Gusain
+- Photo: https://avatars2.githubusercontent.com/u/43572742?s=400&u=3efbd1936558323702a231d2381aa6e956d2d4aa&v=4
+- Location: Uttarakhand, India
+- Bio: Programmer, Computer Science Student, Learner
+- Github: https://github.com/HimanshuGusain04
 
------------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+
+
