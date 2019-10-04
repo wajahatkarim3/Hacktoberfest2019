@@ -9,7 +9,7 @@
 -----------
 
 ### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Photo: https://avatars1.githubusercontent.com/u/22858084?s=460&v=4
+- Location: Hyderabad, India
+- Bio: Competitive Programmer and Node.js Developer
+- Github: https://github.com/ritwikshanker
