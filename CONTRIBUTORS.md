@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Daniela Mazza
+- Photo: https://avatars1.githubusercontent.com/u/4403857?s=460&v=4
+- Location: Bologna, Italy
+- Bio: I'm an ever learning woman
+- Github: https://github.com/danielamazza
