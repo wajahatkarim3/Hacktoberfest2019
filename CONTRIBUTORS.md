@@ -11,5 +11,5 @@
 ### fathima shamsu
 - Photo: 
 - Location: kerala,india
-- Bio: Keep track of your activities throughout year
+- Bio: react native developer
 - Github: https://github.com/fathima-shamsu
