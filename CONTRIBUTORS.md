@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
+### fathima shamsu
 - Photo: 
-- Location: Karachi, Pakistan
+- Location: kerala,india
 - Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Github: https://github.com/fathima-shamsu
