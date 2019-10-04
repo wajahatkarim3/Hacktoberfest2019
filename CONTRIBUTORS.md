@@ -1,4 +1,4 @@
-# Awesome Contributors of Hacktoberfest 2019
+﻿# Awesome Contributors of Hacktoberfest 2019
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Arka Maji
+- Photo: https://www.facebook.com/photo.php?fbid=382937062646160&set=a.124724045134131&type=3&theater
+- Location: Kolkata, India
+- Bio: Loves making new experiences. CP enthusiast.
+- Github: https://github.com/Arka2000
