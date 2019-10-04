@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Rodrigo Ponzetto
+- Photo: https://avatars0.githubusercontent.com/u/37941790?s=460&v=4
+- Location: Jundiaí, Brazil
+- Bio: Statistician in the making. Aspiring Data Scientist. 
+- Github: https://github.com/rodrigopzt
