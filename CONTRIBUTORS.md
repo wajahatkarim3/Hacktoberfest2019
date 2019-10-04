@@ -1,15 +1,15 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+### Fauzi Zaki
+- Photo: https://avatars1.githubusercontent.com/u/13381092?s=460&v=4
+- Location: Yogyakarta, Indonesia
+- Bio: 📱 Mobile Developer . 💻 Open Source Contributor . 📝Writer
+- Github: https://github.com/ujikit
 
 -----------
 
 ### Year-In-Review
 - Photo: 
-- Location: Karachi, Pakistan
+- Location: Yogyakarta, Indonesia
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
