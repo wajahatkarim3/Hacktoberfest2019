@@ -8,6 +8,14 @@
 
 -----------
 
+### Yudha Pratama
+- Photo: https://avatars2.githubusercontent.com/u/23554323?s=460&v=4
+- Location: Yogyakarta, Indonesia
+- Bio: 📱 Android Developer 
+- Github: https://github.com/kudkud32
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
