@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
+### Kunal Jindal
 - Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Location: India
+- Bio: Beginner
+- Github: https://github.com/kunaljindal
