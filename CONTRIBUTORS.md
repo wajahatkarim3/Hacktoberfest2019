@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Achmad Fachrudin
+- Photo: https://avatars0.githubusercontent.com/u/19408400?s=460&v=4
+- Location: Jakarta, Indonesia
+- Bio: Happy Android Engineer 💙
+- Github: https://github.com/achmadfachrudin
+
 -----------
 
 ### Year-In-Review
