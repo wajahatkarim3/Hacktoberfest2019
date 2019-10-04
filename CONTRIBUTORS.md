@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Hitendrita Panda
+-Location: Bhubaneswar,India
+-Bio: Computer Science Undergraduate,web developer, open source contributer
+-Github: https://github.com/Hitendrita
+
+
 -----------
 
 ### Year-In-Review
