@@ -1,7 +1,7 @@
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Abhishek
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Photo: INTROVERT XD SO NO IMAGE XD
 - Location: bangalore, India
 - Bio: 📱 Android Developer begginer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker .GAMER 
 - Github: https://github.com/imaxisXD/
