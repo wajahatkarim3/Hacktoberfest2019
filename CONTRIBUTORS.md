@@ -6,6 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Mikah Reddy
+- Location: South Africa
+- Bio: Software Engineer. Mr Robot fan. Gamer. 
+- Github: https://github.com/Aeonwolf
+
 -----------
 
 ### Year-In-Review
