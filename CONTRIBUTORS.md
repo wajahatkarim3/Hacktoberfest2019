@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Anushka Raj
+
+Photo:https://avatars0.githubusercontent.com/u/43162561?s=460&v=4
+Location: Hajipur, India
+Bio: Codergirl , BCA student
+Github: https://github.com/Anushka-codergirl
