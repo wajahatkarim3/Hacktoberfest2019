@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Ayuth Mangmesap
+- Photo: https://avatars3.githubusercontent.com/u/6449655?s=460&v=4
+- Location: Bangkok, 🇹🇭 Thailand
+- Bio: Full Stack Developer, [GitKraken Ambassador](https://www.gitkraken.com/ambassador), Sometimes 💻 Open Source Contributor, [Writer](https://medium.com/@blacksourcez).
+- Github: https://github.com/blacksourcez
