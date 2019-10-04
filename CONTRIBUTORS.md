@@ -6,6 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Roux Vanessa
+- Photo: https://avatars2.githubusercontent.com/u/38477047?s=460&v=4
+- Location: Saint Gaudens, France
+- Bio: Digital animator and junior web developer. Open source contributor when I have the time, passionate about nature, martial arts and responsible technology!
+- Github: https://github.com/Vanoux
 -----------
 
 ### Year-In-Review
