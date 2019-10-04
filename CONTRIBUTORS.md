@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Amoruso Giuseppe Giovanni
+- Photo: https://avatars2.githubusercontent.com/u/52660037?v=4
+- Location: Milan, Italy
+- Bio: Front End Developer, Fan of movie
+- Github: https://github.com/pepsamo
