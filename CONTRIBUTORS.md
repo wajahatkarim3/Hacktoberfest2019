@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Vidz
+-Photo:
+-Location: Delhi,India
+-Bio: Competetive coder, Data Analyst, BlockChain enthusiast
+- Github: https://github.com/vidz-1
