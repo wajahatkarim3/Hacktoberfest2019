@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### YOUR FULL NAME
+- Photo: https://avatars0.githubusercontent.com/u/19243015?s=400&u=5258a6c688725c25157bef4bf0e6ee6d39e35f6b&v=4
+- Location: Skopje, Macedonia
+- Bio: Computer Science student, Music Producer
+- Github: https://github.com/ivche1337
+
 -----------
 
 ### Year-In-Review
