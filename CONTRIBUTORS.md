@@ -1,15 +1,15 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+### Devesh Lashkari
+- Photo: https://avatars0.githubusercontent.com/u/15869673?s=460&v=4
+- Location: Indore, India
+- Bio: Salesforce Developer, Community Enthusiast, Gamer 
+- Github: https://github.com/deveshlashkari
 
 -----------
 
 ### Year-In-Review
 - Photo: 
-- Location: Karachi, Pakistan
+- Location: Indore,India
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
