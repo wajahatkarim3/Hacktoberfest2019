@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Malik Fajar
+- Photo: https://avatars1.githubusercontent.com/u/43500332?v=4
+- Location: Central Java, Indonesia
+- Bio: New Programmer . Backend Developer
+- Github: https://github.com/ThemBig
