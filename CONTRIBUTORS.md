@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Matheus Holanda Matos
+- Photo: https://avatars1.githubusercontent.com/u/38573410?s=460&v=4
+- Location: Fortaleza, Brazil
+- Bio: Java Developer. JS student.
+- Github: https://github.com/ZeRl0l
+***
