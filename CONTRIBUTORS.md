@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Raysa Dutra
+- Photo: https://avatars0.githubusercontent.com/u/13999149?s=460&v=4
+- Location: Rio de Janeiro, Brazil
+- Bio: I like :unicorn: unicorns :rainbow: and :dog: dogs.
+- Github: https://github.com/hi-hi-ray
