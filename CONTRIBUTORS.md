@@ -13,3 +13,15 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### AviralX10
+- Photo: 
+- Location: Karachi, Pakistan
+- Bio: Keep track of your activities throughout year
+- Github: 
+
+### AviralX10
+- Photo:
+- Location: Delhi,India
+- Bio: just a sophomore student with a zest to learn
+- Github:
