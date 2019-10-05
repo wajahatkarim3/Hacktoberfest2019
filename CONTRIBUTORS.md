@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Jayendra More
+- Photo: 
+- Location: Mumbai, India
+- Bio: Product Manager, Single, 3 yrs of exp, Content Writer
+- Github: https://github.com/MoreJayendra
