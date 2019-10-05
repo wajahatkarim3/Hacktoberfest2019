@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Alok Raj
+- Photo: https://avatars2.githubusercontent.com/u/26534910?s=400&v=4
+- Location: Bangalore, India
+- Bio: Android Developer . MEAN stack web developer
+- Github: https://github.com/alok722
+***
