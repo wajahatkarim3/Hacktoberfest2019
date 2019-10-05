@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### YOUR FULL NAME
+- Photo: https://avatars3.githubusercontent.com/u/51843064?s=400&v=4
+- Location: Rio de Janeiro, Brazil 
+- Bio: Computer Engineering Degree. I love :coffee:.
+- Github: https://github.com/deploredeveloper
