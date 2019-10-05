@@ -13,3 +13,9 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Hemanshu Varma
+- Photo: https://avatars2.githubusercontent.com/u/36810824?s=460&v=4
+- Location: Hyderabad, India
+- Bio: 📱 Android Dev
+- Github: https://github.com/HemanshuVarma
