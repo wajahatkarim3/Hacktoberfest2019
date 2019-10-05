@@ -1,15 +1,7 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
-
------------
-
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Vladyslav Zaporozhskyi
+- Photo: https://ibb.co/4V78xb2
+- Location: Toronto, Canada
+- Bio: I am a 16 year-old iOS application developer. Currently on the journey of learning Swift 5 and all of its aspects.
+- Github: https://github.com/thezapovlad
