@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Joseph Ostroman
+- Photo: https://avatars0.githubusercontent.com/u/32800760?s=400&v=4
+- Location: New City, New York
+- Bio: Mathematics Teacher Aspiring Coder
+- Github: https://github.com/ostomaj
+***
