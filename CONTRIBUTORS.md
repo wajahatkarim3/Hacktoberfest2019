@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Antony Targett
+- Location: Melbourne, Australia
+- Bio: - Student . Software Engineer. Open-source Contributer
+- Github: https://github.com/anttargett
