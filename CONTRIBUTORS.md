@@ -5,7 +5,12 @@
 - Location: Karachi, Pakistan
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
-
+### Alesandro Fidelis
+- Photo: https://avatars0.githubusercontent.com/u/1299233?s=400&v=4
+- Location: Santa Catarina, Brasil
+- Bio: C# Developer. 💻 Open Source Contributor. 
+- Github: https://github.com/AlesandroF
+***
 -----------
 
 ### Year-In-Review
