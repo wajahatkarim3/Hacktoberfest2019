@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Artem Kovyryagin
+- Photo: https://avatars3.githubusercontent.com/u/30906495?s=400&u=dc3447c61910090f55eaae09fc165fd1831bedf4&v=4
+- Location: Russia, Moscow
+- Bio: Python Developer . Open Source Contributor 
+- Github: https://github.com/Artyko
+***
