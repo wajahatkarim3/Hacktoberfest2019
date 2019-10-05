@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Micah Nagel
+- Photo: https://avatars2.githubusercontent.com/u/25516657?s=460&v=4
+- Location: Eastern US
+- Bio: Developer
+- Github: https://github.com/mjnagel
+
 -----------
 
 ### Year-In-Review
