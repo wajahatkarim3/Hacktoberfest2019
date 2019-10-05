@@ -13,3 +13,12 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Lakshya Gupta
+- Photo: www.instagram.com/lakshyashoots
+- Location: Delhi, India
+- Bio: Call me 'x' till you know the rest!
+- Github: https://github.com/lakkshh
+***
