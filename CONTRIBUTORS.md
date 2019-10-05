@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+-----------
+
+### Stephen Wong
+- Photo: https://avatars1.githubusercontent.com/u/26337239?s=460&v=4
+- Location: Orlando, FL
+- Bio: Front-End Developer - Javascript, Kotlin, PHP
+- Github: https://github.com/swong87
+
+-----------
