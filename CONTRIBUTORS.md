@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+----------
+### Ayrton Ciancimino
+- Photo: N/A
+- Location: Tampa, Fl, United States
+- Bio: Aspiring data scientist | Current RPA developer/analyst
+- Github: https://github.com/ajciancimino
+***
