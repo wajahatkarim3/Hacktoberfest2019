@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Tamara Glidewell
+- Photo: https://i.imgur.com/PZJ8e6I.jpg
+- Location: San Diego, CA
+- Bio: Wife. Mom. Animal Lover. Maker of Things. 
+- Github: https://github.com/codetamaracode
+
 -----------
 
 ### Year-In-Review
