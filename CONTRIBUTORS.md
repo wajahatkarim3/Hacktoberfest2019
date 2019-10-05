@@ -13,3 +13,13 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+
+
+### Sallu 
+- Photo: Prefer not to reveal
+- Location: India
+- Bio: 📱 Android Developer  
+
+
+-----------
