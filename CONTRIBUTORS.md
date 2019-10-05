@@ -5,6 +5,10 @@
 - Location: Karachi, Pakistan
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
+### Luiz Gustavo
+- Location: Sao Paulo, Brasil
+- Bio: Developer . 💻  
+- Github: https://github.com/Lgptx
 
 -----------
 
