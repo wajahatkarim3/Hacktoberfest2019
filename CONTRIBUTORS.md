@@ -37,3 +37,10 @@
 - Bio: Android/Flutter Developer . Open Source Contributor . Writer . Speaker .
 - Github: https://github.com/pratikbutani
 ***
+
+### Nishant Raj
+- Photo: 
+- Location: Banaglore, India
+- Bio: 📱 Android Developer 
+- Github: https://github.com/coolnishant
+***
