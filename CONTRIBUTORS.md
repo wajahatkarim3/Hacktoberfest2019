@@ -6,6 +6,13 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 
+### Lienhardt Quentin
+- Photo: https://quentium.fr/+img/Photo.jpg
+- Location: Strasbourg, France
+- Bio: Hi! I'm a french Python developper, web designer, level designer and I like playing video games :D
+- Github: https://github.com/QuentiumYT
+***
+
 -----------
 
 ### Year-In-Review
