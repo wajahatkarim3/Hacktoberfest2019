@@ -8,6 +8,15 @@
 
 -----------
 
+### Salahudin Malik
+- Photo: https://github.com/account
+- Location: https://avatars0.githubusercontent.com/u/23012339
+- Bio: Web Developer, Nodejs, Micro Services
+- Github: https://github.com/SalahudinMalik
+***
+
+----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
