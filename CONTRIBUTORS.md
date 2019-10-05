@@ -8,6 +8,14 @@
 
 -----------
 
+### Samik Gandhi
+- Photo: https://avatars3.githubusercontent.com/u/46068563?s=460&v=4
+- Location: Manipal, India
+- Bio: Electronics Engineer
+- Github: https://github.com/caffeinatedfire
+
+-----------
+
 ### Year-In-Review
 - Photo: 
 - Location: Karachi, Pakistan
