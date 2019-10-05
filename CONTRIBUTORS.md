@@ -9,7 +9,7 @@
 -----------
 
 ### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- Photo: Nothing
+- Location: Vellore, India
+- Bio: Just Chill
+- Github: https://github.com/porkii
