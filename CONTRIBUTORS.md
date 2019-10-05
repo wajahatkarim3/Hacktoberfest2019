@@ -8,8 +8,8 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Rajat Gupta
+- Photo: https://avatars2.githubusercontent.com/u/21153758?s=400&v=4
+- Location: Chandigarh, India
+- Bio: Student at Chitkara University, Developer at CandyROMs
+- Github: https://github.com/rajatgupta1998
