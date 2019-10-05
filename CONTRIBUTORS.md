@@ -6,11 +6,5 @@
 - Bio: Computer Engineering Student . Entrepreneur . 
 Technology Enthusiast . Open Source Contributor . Intern/Learning Professional Skills at Explicador Inc, Lda. 
 - Github: https://github.com/FilipeMangue
-
------------
-
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+- LinkedIn: https://linkedin.com/in/filipe-mangue-614405143/
+- WhatsApp: +258 84 811 3245
