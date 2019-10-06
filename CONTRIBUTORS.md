@@ -77,4 +77,6 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+Emma Zang
+Location: Texas
+Bio: New CS Student wanting to pursue a goal
