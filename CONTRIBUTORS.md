@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Irvin Dominin
+- Photo: https://avatars3.githubusercontent.com/u/1533624?s=460&v=4
+- Location: Turin, Italy
+- Bio: 💻 FullStack Developer . 💻 Open Source Contributor . 📝Writer . 👶 Father 
+- Github: https://github.com/IrvinDominin
+***
