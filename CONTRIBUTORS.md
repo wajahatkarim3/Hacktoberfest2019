@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Hemant Upadhyay
+- Photo: https://avatars0.githubusercontent.com/u/44440137?s=460&v=4
+- Location: Mumbai, India
+- Bio: Purpose fuels Passion. 
+- Github: https://github.com/hemantupadhyay24
+***
+
 
