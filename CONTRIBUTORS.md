@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Pedro Rufino 🎃
+- Photo: hhttps://avatars1.githubusercontent.com/u/34519255?s=400&u=33cc82dcaa3dc7c4de0f865913b9774a0a348a14&v=4
+- Location: São Paulo, Brazil 🇧🇷
+- Bio: computer science student, loves nature and hip hop culture.
+- Github: https://github.com/pedrorufino
+***
+
 
