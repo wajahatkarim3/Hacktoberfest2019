@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Hillson Ghimire
+- Photo: https://avatars.githubusercontent.com/hillsonghimire
+- Location: Pokhara, Nepal
+- Bio: Geomatics Engineering Student, GIS
+- Github: http://github.com/hillsonghimire
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
