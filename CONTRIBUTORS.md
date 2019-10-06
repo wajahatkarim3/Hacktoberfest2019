@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Nicole 
+- Photo: 
+- Location: Falls Church, VA
+- Bio: 💻 Open Source Contributor .
+- Github: https://github.com/ns61817
+***
