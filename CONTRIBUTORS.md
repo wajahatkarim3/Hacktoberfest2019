@@ -77,9 +77,4 @@
 - Github: https://github.com/SkyC0der
 ***
 
-### Sara Khurana
-- Photo: https://avatars2.githubusercontent.com/u/56220288?s=400&u=36f6d673a0d0747204f5f6ff6d9b1fdaa5213763&v=4
-- Location: Delhi, India
-- Bio: 💻  Web Developer . 
-- Github: https://github.com/sarakh184
-***
+
