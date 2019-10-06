@@ -8,8 +8,7 @@
 
 -----------
 
-### Year-In-Review
-- Photo: 
-- Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
-- Github: https://github.com/Year-In-Review
+### Radhika Sharma
+- Location: Rohini, Delhi
+- Bio: Developer, ML & Web enthusiast
+- Github: https://github.com/SharmaRadhika
