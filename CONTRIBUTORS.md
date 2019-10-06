@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Rohit Chowdary
+- Photo: 
+- Location: Hyderabad, Telangana
+- Bio: Web Developer, IoT 
+- Github: https://github.com/urstrulyrohit
+***
 
 ### Tsung-Han Ho
 - Photo: 
