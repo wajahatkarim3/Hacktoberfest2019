@@ -78,3 +78,9 @@
 ***
 
 
+### Nicole Fafard
+- Photo: https://avatars3.githubusercontent.com/u/52558643?s=400&u=cf53740b5fdf15f9fa818f82fd932e486c2586b3&v=4
+- Location: Tucson, United States
+- Bio: Web Development Student
+-Github: https://github.com/nicole919
+***
