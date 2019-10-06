@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Sam Puckett
+- Photo: https://avatars3.githubusercontent.com/u/28467342?s=460&v=4
+- Location: San Fransisco, United States
+- Bio: I am a Senior in University. I'm aspiring to become a Front-end Web Developer!
+- Github: https://github.com/SamPuckett
+***
+
 
