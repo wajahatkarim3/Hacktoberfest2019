@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Nikhil Wadekar
+- Photo: https://avatars2.githubusercontent.com/u/26355782?s=400
+- Location: Vancouver, Canada
+- Bio: A creative web developer.
+- Github: https://github.com/nikhilrwadekar
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
