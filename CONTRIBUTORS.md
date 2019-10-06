@@ -78,3 +78,11 @@
 ***
 
 
+### İsmet Batansu
+- Photo: 
+- Location: İstanbul, Turkey
+- Bio: Software Engineer
+- Github: http://github.com/ismetbatansu
+***
+
+
