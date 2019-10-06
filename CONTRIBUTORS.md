@@ -77,4 +77,12 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Bishal Blue
+- Photo:
+- Location: Puducherry, India
+- Bio: Student
+- Github: https://github.com/bluesaiyancodes
+***
+
+
 
