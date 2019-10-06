@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jeffrey Camphens
+- Photo: https://avatars1.githubusercontent.com/u/25110799?s=460&v=4
+- Location: Naaldwijk, Nederland
+- Bio: Lead web developer
+- Github: https://github.com/JeffreyCamphens
+***
 
