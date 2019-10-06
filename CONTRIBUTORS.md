@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Tom Coudyzer    
+- Photo: https://avatars1.githubusercontent.com/u/909796?s=460&v=4
+- Location: Belgium
+- Bio: Software architect 
+- Github: https://github.com/xtbe
+***
 
