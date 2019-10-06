@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### Syntax Error
+- Photo: https://imgur.com/a/kKZAhJy
+- Location: Boston, United States
+- Bio: College student looking to get involved with GitHub
+- Github: https://github.com/SyntaxError-exe
+***
 
