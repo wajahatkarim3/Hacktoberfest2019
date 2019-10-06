@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Arnold.js
+- Photo: https://avatars2.githubusercontent.com/u/22978812?s=460&v=4
+- Location: Jakarta, Indonesia
+- Bio: Javascript developer, Learning vim. Inserting this profile purely through vim.
+- Github: https://github.com/nold2
+***
