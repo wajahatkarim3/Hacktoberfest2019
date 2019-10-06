@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### Omkar Diwan
+- Photo: 
+- Location: Hubli, India
+- Bio: Python developer
+- Github: https://github.com/omkardiwan
+***
 
