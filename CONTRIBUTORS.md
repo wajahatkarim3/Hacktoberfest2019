@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Guillermo Otegui
+- Photo: https://avatars.githubusercontent.com/guilleo03
+- Location: Minas, Uruguay
+- Bio: Web developer student
+- Github: https://github.com/Guilleo03
+***
+
 
