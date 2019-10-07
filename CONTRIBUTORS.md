@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Pranav Texas
+- Photo: https://scontent.fftw1-1.fna.fbcdn.net/v/t1.0-9/65852662_706585969762127_9212397587959644160_n.jpg?_nc_cat=111&_nc_oc=AQlF1I5mZTEdfNxV-ywzD1OvWJ3T10zqn2vdYEHsS6ehpqb0kEQA69vBq5CH8Vbde5M&_nc_ht=scontent.fftw1-1.fna&oh=0254a2ff045d1d8fc78fdb0e703ef2c1&oe=5E3BCB3E
+- Location: Austin, TX
+- Bio: BME at UT Austin
+- Github: github.com/Pergamon256
+***
