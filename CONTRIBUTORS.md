@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Srivatsan
+- Photo: https://raw.githubusercontent.com/foss-amritagiri/FossWebsite/master/imgs/team/img1.jpg
+- Location: Chennai, India
+- Bio: front-end developer
+- Github: https://github.com/kryptocodes
+***
 
