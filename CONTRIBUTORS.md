@@ -76,5 +76,9 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### Bhavesh Gupta
+- Photo: https://avatars1.githubusercontent.com/bhavesh-g
+- Bio: Python Developer . Competitive Programmar . Django . 
+- Github: https://github.com/bhavesh-g
+***
 
