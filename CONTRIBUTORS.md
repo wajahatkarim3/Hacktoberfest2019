@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jantrawat Srimakut
+- Photo: https://avatars2.githubusercontent.com/u/9164179?s=400&u=e8815ea87e83bd5603a8aa24f526ff1ab2b1c831&v=4
+- Location: Bangkok, Thailand
+- Bio: Web Deverloper, Desktop Deverloper (ElectronJs),  .
+- Github: https://github.com/oopangkungoo
+***
 
