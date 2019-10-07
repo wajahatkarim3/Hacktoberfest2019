@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### YOUR FULL NAME
+- Photo: https://linkedin.com/in/shvetarchhabra94/
+- Location: Edmonton, Canada
+- Bio: Recent Grad. Software Developer with knowledge of TCP/IP Stack & SQL. Working on GCP.
+- Github: https://github.com/thedowntownerd
+***
+
 
