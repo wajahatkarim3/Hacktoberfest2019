@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Meg Blaha
+- Photo: https://avatars3.githubusercontent.com/u/56272543?s=400&u=34a2f04c685058e100f3905e0d2abd1aa88312d1&v=4
+- Location: Lansing, United States
+- Bio: Software Engineer, Former Quality Assurance Analyst
+- Github: https://github.com/MegTheDev
+***
+
 
