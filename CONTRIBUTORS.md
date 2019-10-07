@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Lisa Canini
+- Photo:https://avatars1.githubusercontent.com/u/18077352?s=460&v=4
+- Washington State, USA
+- Bio: :computer: Full Stack Developer with Focus on Exceptional User Experience - :briefcase: Job Seeker - :book: Avid Reader
+- Github: https://github.com/lisacee
+***
+
 
