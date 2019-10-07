@@ -83,5 +83,3 @@
 - Bio: Android Developer, Avid Book Reader
 - Github: https://www.github.com/amilaneni99
 ***
-
-
