@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Abhinav A S
+- Photo: https://avatars1.githubusercontent.com/u/34275469?s=460&v=4
+- Location: Chennai, TamilNadu, India.
+- Bio: Android Developer, Avid Book Reader
+- Github: https://www.github.com/amilaneni99
+***
+
 
