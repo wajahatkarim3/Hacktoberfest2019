@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Tanya Mittal
+- Photo: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-YshmrAOAbsh4cO3_zYPyaJFb0WJK_LiCmm6qeAinQs5yZWKC
+- Location: Delhi, India
+- Bio: CS Student and open source enthusiasts
+- Github: https://github.com/tanyamittal
+***
