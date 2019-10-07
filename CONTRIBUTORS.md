@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Brody Barbour
+- Photo: https://avatars2.githubusercontent.com/u/48922257?s=96&v=4
+- Location: Baltimore, MD
+- Bio: Front End Web Developer and Avid Musician
+- Github: https://github.com/brodybarbour
+***
 
