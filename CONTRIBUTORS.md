@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Sokratis Fotkatzikis
+- Photo: https://avatars0.githubusercontent.com/u/12274096?s=40&v=4
+- Location: Blagoevgrad, Bulgaria
+- Bio: 📱 Android Developer. 💻 Open Source Contributor. 💻 Java Developer
+- Github: https://github.com/sokratis12GR
+***
 
