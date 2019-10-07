@@ -14,6 +14,14 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Rahul Gupta
+- Photo: https://avatars2.githubusercontent.com/u/12747985?s=400&u=1750407059a3643be490f379a6ea981b37260fce&v=4
+- Location: Bangalore, India
+- Bio: UX Engineer
+- Github: https://github.com/itch96
+
+-----------
+
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
 - Location: Karachi, Pakistan
