@@ -77,4 +77,12 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Mubarak Daha Isa
+- Photo: https://avatars3.githubusercontent.com/u/30758563?s=460&v=4
+- Location: Kano, Nigeria
+- Bio: 💻  Web Developer . 💻 Open Source Hobbist.
+- Github: https://github.com/bagwai
+***
+
+
 
