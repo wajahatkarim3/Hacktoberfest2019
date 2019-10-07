@@ -49,6 +49,13 @@
 - Github: https://github.com/SalahudinMalik
 ***
 
+### Aman Agarwal
+- Photo: 
+- Location: Ranchi, India
+- Bio: 📱 Web Developer 
+- Github: https://github.com/BeastMaster07
+***
+
 ### Sebastian Figg
 - Photo: https://avatars3.githubusercontent.com/u/38180375?s=40&v=4
 - Location: Sydney, Australia
