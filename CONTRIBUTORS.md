@@ -1,10 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Sitali Nasilele
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Photo: https://avatars0.githubusercontent.com/u/32141592?s=40&v=4
 - Location: Lusaka, Zambia
 - Bio: Web Developer . Android Developer . Student . Speaker . 
-- Github: https://github.com/wajahatkarim3
+- Github: https://github.com/nasitech
 ***
 
 
