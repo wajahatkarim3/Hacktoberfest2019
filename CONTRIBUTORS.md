@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Myron Pachakis
+- Photo: https://avatars3.githubusercontent.com/u/49375670?s=460&v=4
+- Location: Chania, Greece
+- Bio: Undergraduate Student of Mechanical Engineering
+- Github: https://github.com/MIP2000
+***
 
