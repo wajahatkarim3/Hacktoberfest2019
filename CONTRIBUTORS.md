@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Agyeya Mishra
+- Photo: https://avatars3.githubusercontent.com/u/53916781?s=400&v=4
+- Location: New Delhi, India
+- Bio: Open Source Contributor, Learner, Engineering Undergrad
+- Github: https://github.com/AgyeyaMishra
+***
+
 
