@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Lakshay Almadi
+- Photo: 
+- Location: Vellore,India
+- Bio: Front-end developer
+- Github: https://github.com/lakshayalmadi
+***
 
