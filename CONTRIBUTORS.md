@@ -76,5 +76,9 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### lnash
+- Photo:
+- Location: 
+- Bio : Undergraduate student in Computer Science
+- Github: https://github.com/lnash94
 
