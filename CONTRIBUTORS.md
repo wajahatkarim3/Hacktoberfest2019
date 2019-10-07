@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Alind Sharma
+- Photo: https://avatars1.githubusercontent.com/u/19500809?s=400&u=943a842f2a830373f85da8c5eb9aa6d463a22132&v=4
+- Location: New Delhi, India
+- Bio: ASP.Net Developer
+- Github: https://github.com/alindsharmasimply
+***
