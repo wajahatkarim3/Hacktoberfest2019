@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jayde Holbrook
+- Photo:
+- Location: Kentucky, United States
+- Bio: Computer Science student. Future video game creator!
+- Github: https://github.com/jayde225
+***
 
