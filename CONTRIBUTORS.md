@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Naveen Bandarage
+- Photo: https://avatars3.githubusercontent.com/u/37656114?s=460&v=4
+- Location: Wellington, New Zealand
+- Bio: 💻  Second year software engineering student . 💻 Learning React at the moment.
+- Github: https://github.com/thebanterage
+***
