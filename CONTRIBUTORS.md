@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Tarannum Ara
+- Photo: https://www.linkedin.com/in/tarannum-ara-15322212b/detail/background-image/
+- Location: Kolkata, India
+- Bio: i am passionate about coding, in spare time i play badminton,chess. tea lover who spends more time with her laptop!
+- Github: https://github.com/giTan7
+***
