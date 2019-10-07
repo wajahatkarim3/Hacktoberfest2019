@@ -78,3 +78,9 @@
 ***
 
 
+### Tyler G
+- Photo: N/A
+- Location: Florida
+- Bio: 💻 Student
+- Github: https://github.com/tgoody
+***
