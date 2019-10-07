@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Erik Waibel
+- Photo: https://avatars1.githubusercontent.com/u/2830686?s=40&v=4
+- Location: Arizona, USA
+- Bio: 💻 Frontend Engineer . 👶 Father (of 3) . 💔 Bereaved Dad . 🏳️‍🌈 Ally
+- Github: https://github.com/ejwaibel
+***
