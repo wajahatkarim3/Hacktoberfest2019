@@ -1,6 +1,6 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### NNoruka Emeka Chinedu
+### Nnoruka Emeka Chinedu
 - Photo: https://avatars2.githubusercontent.com/u/39815753?s=400&u=6bd301150bb0c5a3d3158b71a15778032f5d2bb2&v=4
 - Location: Jos, Plateau State, Nigeria
 - Bio: 💻  Web Developer. 💻 Data Scientist. 💻 Open Source Contributor.
