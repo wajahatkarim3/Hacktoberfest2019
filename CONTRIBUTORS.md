@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Cameron Holt
+- Photo:
+- Location: Troy, USA
+- Bio: Open Source Contributor
+- Github: https://github.com/cholt18
+***
 
