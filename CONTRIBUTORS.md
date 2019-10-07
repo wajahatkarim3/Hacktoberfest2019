@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jj Garay
+- Photo: https://avatars0.githubusercontent.com/u/35557824?s=460&v=4
+- Location: Manila, Philippines
+- Bio: Web Developer and Designer
+- Github: https://github.com/jjgaray
+***
 
