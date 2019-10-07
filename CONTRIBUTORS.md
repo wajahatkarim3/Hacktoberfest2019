@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Lau Xhika
+- Photo: https://avatars1.githubusercontent.com/u/29957573?s=460&v=4
+- Location: Gothenburg, Sweden
+- Bio: Student
+- Github: https://github.com/xhika
+***
+
 
