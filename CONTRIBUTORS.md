@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### John Smith
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: London, England
+- Bio: I really want a tshirt
+- Github: https://github.com/StackSmasher235
+***
 
