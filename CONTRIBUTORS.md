@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
+## Sankalp Godghate
+- Location-Delhi, India
+- Bio: Web developer, Machine Learning enthusiast
+- Github: https://github.com/sankalp24
+
 
