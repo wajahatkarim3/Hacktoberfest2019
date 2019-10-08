@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Lucas Rabiec
+- Photo: https://avatars3.githubusercontent.com/u/9741188?s=460&v=4
+- Location: Poland
+- Bio: Software Engineer, UAV Operator
+- Github: https://github.com/lucasrabiec
+***
+
 
