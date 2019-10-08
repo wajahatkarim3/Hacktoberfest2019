@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Manon Heine
+- Photo: https://avatars1.githubusercontent.com/u/30656550?s=400&u=1010629b29f3c8eb2e0b51b62fcc5ffe5ed58bfd&v=4
+- Location: The Hague, The Netherlands
+- Bio: Frontend Developer/Consultant, passionate about UI and UX design. Freerider in the Alps. T-shirt would be great! 
+- Github: https://github.com/manonheine
+***
