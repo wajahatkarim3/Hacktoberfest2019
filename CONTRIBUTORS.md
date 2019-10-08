@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Priyal Jain
+- Photo: https://avatars0.githubusercontent.com/u/28265431?s=400&u=80d1df45cfc895208b7eebe654b41c744bc82d91&v=4
+- Location: Indore, India
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/priyaljain919
+***
+
 
