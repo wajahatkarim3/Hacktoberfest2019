@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Aditya Mohan
+- Photo
+- Location: Colorado Boulder, USA
+-Bio: Open Source contributor
+- Github: https://github.com/TraXIcoN
 
 
