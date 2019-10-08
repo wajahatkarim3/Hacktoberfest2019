@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Muhammad Sameer Ali
+- Photo: https://ibb.co/hm0XT6G
+- Location: Karachi, Pakistan
+- Bio: 💻  Web Developer & a Student
+- Github: https://github.com/msali123
+***
+
 
