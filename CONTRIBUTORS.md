@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Covaate
+- Photo: https://covaate.io/covaate.png
+- Location: Australia
+- Bio: Providing remote consultancy for organisations who want to improve their security posture.
+- Github: http://github.com/covaate
+***
+
 
