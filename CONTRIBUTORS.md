@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### virendra patankar
+- Photo: https://avatars0.githubusercontent.com/u/46616214?s=400&u=c42cfe8bf204b49ce95031d276c46e3235b055c5&v=4
+- Location: Bhopal, India
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/veer11997
+***
+
 
