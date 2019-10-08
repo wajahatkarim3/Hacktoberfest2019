@@ -77,4 +77,8 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Pranesh A S
+- Location: India
+- Bio: Learner
+- Github: https://github.com/PraneshASP
+***
