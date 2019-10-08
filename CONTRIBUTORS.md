@@ -77,4 +77,13 @@
 - Github: https://github.com/SkyC0der
 ***
 
+]
+
+### Ajay Singhroha
+- Photo: https://avatars0.githubusercontent.com/u/40720549?s=460&v=4
+- Location:Delhi, India
+- Bio: 💻  Web Developer . 💻 Open Source Contributor . Android Developer . Graphic Designer. 
+- Github: https://github.com/singhrohaajay
+
+
 
