@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Fred Adams
+- Photo: https://avatars1.githubusercontent.com/u/36894883
+- Location: Earth
+- Bio: I make stuff with code. Mostly websites, but some apps and programs as well. I also love fonts.
+- Github: https://github.com/xtrp
+***
