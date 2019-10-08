@@ -76,5 +76,9 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
-
+### Suryaraj Bhaduri
+- Photo: https://avatars1.githubusercontent.com/u/55868588?s=400&u=93e75770d97c02b854a646113c70cbbc193d2226&v=4
+- Location: Kolkata, India
+- Bio: Love Number Theory,Data Structures and Algorithms
+- Github: https://github.com/suryaraj1
+***
