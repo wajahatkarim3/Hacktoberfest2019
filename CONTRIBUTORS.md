@@ -80,7 +80,7 @@
 ### Guillermo Otegui
 - Photo: https://avatars.githubusercontent.com/guilleo03
 - Location: Minas, Uruguay
-- Bio: Web developer student
+- Bio: Web developer student and web designer
 - Github: https://github.com/Guilleo03
 ***
 
