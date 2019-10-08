@@ -78,3 +78,10 @@
 ***
 
 
+### Erin Blad
+- Photo: https://seesparkbox.com/uploads/employee_images/erin-blad.jpg
+- Location: Colorado, USA
+- Bio: Project Manager | Problem Solver
+- Github: https://github.com/erin-sparkbox
+***
+
