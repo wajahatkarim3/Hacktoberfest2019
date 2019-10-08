@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jonathan de Z
+- Photo: https://avatars3.githubusercontent.com/u/16389624?s=460&v=4
+- Location: The Hague, Netherlands
+- Bio: 💻  Web Developer .
+- Github: https://github.com/jonathandezoete
+***
 
