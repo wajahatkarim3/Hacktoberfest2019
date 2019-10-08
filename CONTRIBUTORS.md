@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Brun khan
+- Photo: https://avatars2.githubusercontent.com/u/43763118?s=460&v=4
+- Location: Sofia, Bulgaria
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/brunnnka
+***
 
