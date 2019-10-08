@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Anirudh Jwala
+- Photo: https://avatars0.githubusercontent.com/u/25549847?s=460&v=4
+- Location: Telangana, India
+- Bio: Android Developer . Flutter Developer . Speaker . 
+- Github: https://github.com/anirudh-jwala
+***
