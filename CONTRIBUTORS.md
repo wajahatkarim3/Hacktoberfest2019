@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Eric Decanini
+- Photo: https://avatars2.githubusercontent.com/u/20701752?s=460&v=4
+- Location: Colchester, United Kingdom
+- Bio: 📱 Android Developer . 📝Blogger . 🎸 Guitarist 
+- Github: https://github.com/ericdecanini
+***
+
 
