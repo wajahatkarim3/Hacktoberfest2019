@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Billy Cyze
+- Photo: https://avatars0.githubusercontent.com/u/56272933?s=400&v=4
+- Location: Illinois, United States of America
+- Bio: Student learning to code 
+- Github: https://github.com/Gensis64
+***
