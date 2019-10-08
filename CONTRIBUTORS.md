@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+###Araganzo
+- Photo : https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.google.com%2Flogos%2Fdoodles%2F2015%2Fgoogles-new-logo-5078286822539264.3-hp2x.gif&imgrefurl=http%3A%2F%2Fwww.google.com%2Fdoodles%2Fgoogles-new-logo&docid=hWfwYn6E9UL_wM&tbnid=wNsZSiIPru5UcM%3A&vet=10ahUKEwiy3JzljozlAhWK6nMBHXpcCrAQMwh6KAIwAg..i&w=881&h=400&client=ubuntu&bih=897&biw=1920&q=google%20images&ved=0ahUKEwiy3JzljozlAhWK6nMBHXpcCrAQMwh6KAIwAg&iact=mrc&uact=8
+-Location - Spain
+- Bio  : Beginner in Programming in C and Python, Beginner in Open source Contribution
+- Github : https://github.com/janmejai2002 
 
+***
