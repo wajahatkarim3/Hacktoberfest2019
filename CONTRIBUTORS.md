@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Viktor Ermakov
+- Photo: https://github.com/account
+- Location: Minsk, Belarus
+- Bio: Came for the shirt, stayed for the community.
+- Github: https://github.com/EpmakJS
+***
