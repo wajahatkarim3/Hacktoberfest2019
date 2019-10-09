@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jordan Rey
+- Photo: https://avatars1.githubusercontent.com/u/55905781?s=460&v=4
+- Location: Paris, France
+- Bio: ☕ Java Developer/DevOps
+- Github: https://github.com/jordanamr
+***
+
 
