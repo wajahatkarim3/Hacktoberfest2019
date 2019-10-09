@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Vincenzo Conte
+- Photo: https://avatars2.githubusercontent.com/u/44366545?s=400&u=e3beefec7b6ab55fe53ba5f6ecfe1890912d2e57&v=4
+- Location: London, UK
+- Bio: Full-time Brewer looking for a tech career 👨🏻‍💻
+- Github: https://github.com/Brewno88
+***
