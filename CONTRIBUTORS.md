@@ -77,7 +77,7 @@
 - Github: https://github.com/SkyC0der
 ***
 
-### YOUR FULL NAME
+### Andin Fokunang
 - Photo: 
 - Location: Yaounde, Cameroon
 - Bio: UX/UI designer
