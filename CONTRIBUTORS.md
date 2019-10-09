@@ -6,7 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
-
+### Rovit Lawrence Fernandes
+- Location: Mangalore, India
+- Bio: Student
+- Github:https://github.com/rovit123
+***
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
