@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### TUSSHAR MANISH SINHA
+- Photo: 
+- Location: Silchar, India
+- Bio: Android App Developer,Web Developer,Currently exploring and solving the problems in the field of Electronics & Quantum Computing.
+- Github: https://github.com/tussharTMS
+***
 
