@@ -64,11 +64,11 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 2. Navigate to `CONTRIBUTORS.md` file
 3. Edit the file and insert your short profile with the following text
 ```
-### YOUR FULL NAME
-- Photo: YOUR PHOTO URL
-- Location: YOUR CITY, COUNTRY
-- Bio: YOUR 1-2 LINES BIO
-- Github: YOUR GITHUB URL
+### Digvijay Singh
+- Photo: https://avatars1.githubusercontent.com/u/30402460?v=4
+- Location: Vadodara, India
+- Bio: Front-End Developer
+- Github: https://github.com/diggis00
 ***
 ```
 Here's an example of my profile
