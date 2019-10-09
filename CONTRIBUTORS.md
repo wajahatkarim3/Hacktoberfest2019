@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Syed Yousuf Qadri
+- Photo: https://avatars1.githubusercontent.com/u/49168237?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: MERN Stack Developer / 📱 Mobile App Developer
+- Github: https://github.com/YousufQadri
+***
