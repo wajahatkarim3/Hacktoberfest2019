@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Lomitaswa Suna
+- Photo: https://avatars1.githubusercontent.com/u/22994472?s=460&v=4
+- Location: Sambalpur, India
+- Bio: Photographer, Open Source Contributor, Programmer
+- Github: https://github.com/lomitaswa
+***
