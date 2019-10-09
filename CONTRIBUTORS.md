@@ -77,4 +77,8 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Richard Jones
+- Photo: #dealwithit https://tinyurl.com/y4jqjnse
+- Location: Columbus, Ohio
+- Bio: I do the bad thing better
+- Github: https://github.com/rajones-hntb
