@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Lejla I
+- Photo: 
+- Location: Europe
+- Bio: Web Developer, IT student very motivated to learn and gain more experience. 
+- Github: https://github.com/Ley2717
+***
+
 
