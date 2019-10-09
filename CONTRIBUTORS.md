@@ -77,11 +77,5 @@
 - Github: https://github.com/SkyC0der
 ***
 
-### Himanshu Patel
-- Photo: https://avatars3.githubusercontent.com/u/44549418?s=460&v=4
-- Location: Raipur, India
-- Bio: Web Developer
-- Github: https://github.com/Himanshu27299
-***
 
 
