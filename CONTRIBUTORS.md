@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### YOUR FULL NAME
+- Photo: 
+- Location: Yaounde, Cameroon
+- Bio: UX/UI designer
+- Github: https://github.com/switchgirl95
+***
 
