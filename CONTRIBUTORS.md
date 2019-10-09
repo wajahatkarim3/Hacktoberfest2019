@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Muhammad Ali Kazmi
+- Photo: https://avatars3.githubusercontent.com/u/39811688?s=460&v=4
+- Location: Hyderabad, Pakistan
+- Bio: Full Stack Developer . Open Source Contributor. 
+- Github: https://github.com/kazmiali
+***
 
