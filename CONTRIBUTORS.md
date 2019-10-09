@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+###Vani Gupta
+- Photo:https://avatars2.githubusercontent.com/u/53790649?s=400&u=596008544929d9b20a3008bb3a788ca4ddc608ea&v=4
+- Location: India
+- Bio: Problem solving and programming (C/Cpp/Python/Java)
+- Github: https://github.com/topcoder69
+***
