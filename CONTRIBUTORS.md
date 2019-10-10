@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jordy Araujo
+- Photo: https://raw.githubusercontent.com/JordyAraujo/jordyaraujo.github.io/master/src/me.jpg
+- Location: Natal, Brazil
+- Bio: 💻  Student.
+- Github: https://github.com/JordyAraujo
+***
 
