@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Akbar Anung Yudha Saputra
+- Photo: https://avatars1.githubusercontent.com/u/27531592?s=460&v=4
+- Location: Malang City, Indonesia
+- Bio: hi!
+- Github: https://github.com/akbarsaputrait
+***
 
