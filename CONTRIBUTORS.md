@@ -7,6 +7,12 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Supun Chathuranga
+- Location: Kurunagala, Sri Lanka
+- Bio: 📱 Undergraduate . 💻 Open Source Contributor . 📝Writer
+- Github: https://github.com/chathuranga0307
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
