@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Upasana Deka
+- Photo: https://avatars1.githubusercontent.com/u/32056694?s=460&v=4
+- Location: Delhi, India
+- Bio: An Undergrad Web Developer & Singer 
+- Github: https://github.com/upasanadeka
+***
+
 
