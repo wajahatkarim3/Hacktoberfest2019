@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Uday Chopra
+- Photo: -__-
+- Location: Mandwa
+- Bio: Kabhi kabhi lagta hai, open source hi bhagwan hai.
+- Github: https://github.com/ud1295
+***
