@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Nícolas Moura
+- Photo: https://avatars0.githubusercontent.com/u/16545326?s=460&v=4
+- Location: São Paulo, Brazil
+- Bio: Back-end developer and architecture enthusiast.
+- Github: https://github.com/nicolasmoura
+***
+
 
