@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### YOUR FULL NAME
+- Photo: https://avatars2.githubusercontent.com/u/39761832?s=400&u=a166cce87b28e3540230daa380a53a2696e8c9b1&v=4
+- Location: Caracas, Venezuela 
+- Bio: Future web developer. :alien:     
+- Github: https://github.com/Majse14
+***
