@@ -41,6 +41,12 @@
 - Bio: 📱 Android Developer 
 - Github: https://github.com/coolnishant
 ***
+### Shubhamdeep Jha
+- Photo: https://avatars2.githubusercontent.com/u/41606999?s=40&v=4
+- Location: Chennai, India
+- Bio: UI/UX developer . Speaker . Leader
+- Github: https://github.com/TheDudeThatCode
+***
 
 ### Salahudin Malik
 - Photo: https://github.com/account
@@ -76,5 +82,4 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
 
