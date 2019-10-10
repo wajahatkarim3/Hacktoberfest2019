@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Liz Rodriguez
+- Photo: https://avatars2.githubusercontent.com/u/25469309?s=460&v=4
+- Location: New York, NY, USA
+- Bio: 💻 full stack web developer 👩🏽‍💻 gamer 🎮 Twitch streamer affiliate ✨
+- Github: https://github.com/lizrodriguez
+***
