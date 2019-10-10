@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Mayur Sojitra
+- Photo: https://avatars3.githubusercontent.com/u/3498692?s=460&v=4
+- Location: Surat, India
+- Bio: Full Stack Developer | Speaker | Community Organizer at Google Developer Group Surat | Love to get Techie Swags.
+- Github: https://github.com/mayursojitra
+***
+
 
