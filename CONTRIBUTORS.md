@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### Tarun Medtiya 
+- Photo: https://photos.app.goo.gl/krxq2WGDRCQ9H33b9
+- Location: Pune,India
+- Bio: Android Developer . ML . Programmer . 
+- Github: https://github.com/tarun42
+***
 
