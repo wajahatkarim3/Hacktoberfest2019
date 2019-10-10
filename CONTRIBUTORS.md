@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Matheus Carvalho
+- Photo: https://avatars3.githubusercontent.com/u/26257754?s=96&v=4
+- Location: São Paulo, Brazil
+- Bio: 💻 Web Developer . 💻 Data Scientist . :video_game: Overwatch player
+- Github: https://github.com/mcarval4
+***
 
