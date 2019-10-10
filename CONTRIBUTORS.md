@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Abhuday Mishra
+- Photo: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjsptvA65HlAhWu7XMBHcCsBOYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.amazon.com%2FRick-Morty-Car-Magnet%2Fdp%2FB071K9QGMC&psig=AOvVaw2thVrmtBAEf7oHPl1-ndFi&ust=1570801973330006
+- Location: Chennai, India
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/abhudaym
+***
 
