@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Caio Farias
+- Photo: 
+- Location: Recife - PE, Brasil
+- Bio: JavaScript Developer (NodeJs, ReactJs, ReactNative)
+- Github: https://github.com/caiohsfar
+***
 
