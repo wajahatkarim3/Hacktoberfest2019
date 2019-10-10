@@ -76,5 +76,5 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+## following your tutorial that i found on android.jlelse.eu, THANK you
 
