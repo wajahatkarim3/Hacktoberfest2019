@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### José Rato
+- Photo: https://avatars3.githubusercontent.com/u/47243742?s=460&v=4
+- Location: Leiria, Portugal
+- Bio: 💻  Web Developer
+- Github: https://github.com/jratoxgeeks
+***
