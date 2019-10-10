@@ -1,5 +1,11 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Deepak Honakeri
+- Photo: https://avatars0.githubusercontent.com/u/39375058?s=460&v=4
+- Location: Bangalore,India
+- Bio: 📱Android Dev 📱Aspiring data scientist  🏋Love working out
+- Github: https://github.com/deepakHonakeri05
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
