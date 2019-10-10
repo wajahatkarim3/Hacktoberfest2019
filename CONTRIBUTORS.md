@@ -75,6 +75,12 @@
 - Location: Edo, Nigeria
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
+
+### Vivek Chauhan
+- Photo: https://media.licdn.com/dms/image/C5103AQGDklcucej06w/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=9ld9SSv_zs3qeaEc7bFwhq4UHNYvMT2YIdpyeQU5DGY 
+- Location: New Delhi, India
+- Bio: UG student, tech enthusiast,wannabe competitive programmer
+- Github: https://github.com/cvivek503
 ***
 
 
