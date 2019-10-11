@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Vaibhav
+- Photo: https://www.facebook.com/vaibhav.singhal.5437923
+- Location: Jaipur, India
+- Bio: Front End Developer, B.tech first year student
+- Github: https://github.com/iam2002
+***
