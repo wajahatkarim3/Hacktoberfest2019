@@ -76,5 +76,11 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Ashleigh Pearson
+- Photo: https://avatars2.githubusercontent.com/u/56424740?s=400&u=6d0dce84c9b22ddf1def603f63e2dcf9dd21ceb9&v=4
+- Location: Gold Coast, Australia
+- Bio: Artist, Creative and Cat Parent.
+- Github: https://github.com/aasimarr
+***
 
 
