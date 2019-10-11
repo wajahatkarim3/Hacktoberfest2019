@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Zain Raza
+- Photo: https://postimg.cc/k6FjMpkq
+- Location: San Francisco, CA, United States
+- Bio: Student. Fighting Climate Change with Tech and Open Source contributor.
+- Github: https://github.com/UPstartDeveloper
+***
 
