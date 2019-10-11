@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Alex van Engelen
+- Photo: https://avatars2.githubusercontent.com/u/43220424?s=96&v=4
+- Location: Hengelo, Holland
+- Bio: Hello, my name is Alex, I'm a Software Engineer student @saxion Enschede.
+- Github: https://github.com/AlexvEngelen
+***
+
 
