@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Zoraiz Asif
+- Photo: https://avatars1.githubusercontent.com/u/45031756?s=460&v=4
+- Location: Lahore, Pakistan
+- Bio: Angular and Java Spring Developer 💻. 
+- Github: https://github.com/zoraizasif
+***
 
