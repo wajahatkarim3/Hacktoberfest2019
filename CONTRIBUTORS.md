@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Hazim Sami
+- Photo: https://avatars3.githubusercontent.com/u/1193645?s=400&v=4
+- Location: London, UK
+- Bio: I am a graphic designer, and currently working as a studio manager at makersCAFE London. I am in the process of teaching myself to code. 
+- Github: https://github.com/hazim
+***
 
