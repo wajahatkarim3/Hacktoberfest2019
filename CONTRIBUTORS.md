@@ -3,12 +3,12 @@
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father
 - Github: https://github.com/wajahatkarim3
 ***
 
 ### Tsung-Han Ho
-- Photo: 
+- Photo:
 - Location: Taipei, Taiwan
 - Bio: Master
 - Github: http://github.com/Mystes-CS
@@ -24,7 +24,7 @@
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
 - Location: Bacolod, Philippines
-- Bio: Web Developer 
+- Bio: Web Developer
 - Github: https://github.com/samcode23
 ***
 
@@ -36,9 +36,9 @@
 ***
 
 ### Nishant Raj
-- Photo: 
+- Photo:
 - Location: Banaglore, India
-- Bio: 📱 Android Developer 
+- Bio: 📱 Android Developer
 - Github: https://github.com/coolnishant
 ***
 
@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Andreas Daskalopoulos
+- Photo: https://avatars0.githubusercontent.com/u/338672?s=400&v=4
+- Location: Patras, Greece
+- Bio: Bilbo Baggins Lives!
+- Github: https://github.com/mcaibad2
+---
