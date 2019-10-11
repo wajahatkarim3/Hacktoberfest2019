@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Sandro Aguilar
+- Photo: https://avatars0.githubusercontent.com/u/24646981?s=460&v=4
+- Location: Roseville, California
+- Bio: :mortar_board:  CS student @ OSU . :rocket: Aspiring developer .
+- Github: https://github.com/sunny-aguilar
+***
