@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Gabriel Affonso
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: São Paulo, Brazil
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer
+- Github: https://github.com/inutilismo
+***
