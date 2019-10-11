@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Alqama Bin Sadiq
+- Photo: https://en.gravatar.com/userimage/141257395/b58a14af43ae6cfe91076447bd875473.jpg?size=200
+- Location: Karachi, Pakistan
+- Bio: 📱 Mobile Developer . 💻 Web Developer . 📝Blogger . 🎤 Speaker 
+- Github: https://github.com/alqamabinsadiq
+***
 
