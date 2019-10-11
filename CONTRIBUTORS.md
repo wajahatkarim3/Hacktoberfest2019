@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Salomón Nieto
 
+- Photo: https://avatars2.githubusercontent.com/u/12246851?s=460&v=4
+- Location: Villavicencio, Colombia
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/jsalonl
+
+------
