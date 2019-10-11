@@ -78,7 +78,7 @@
 ***
 
 ### Janitha Rasanga
-- Photo: 2wCEAAkGBxISEhUSEhIWFhUWFhUYFRYXFRcYGBcVFRcXFxcVFRgYHSggGBolHRUXIjEhJSkrLi4uFyAzODMtNygtLisBCgoKDg0OGxAQGi0lICYtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf
+- Photo:https://2wCEAAkGBxISEhUSEhIWFhUWFhUYFRYXFRcYGBcVFRcXFxcVFRgYHSggGBolHRUXIjEhJSkrLi4uFyAzODMtNygtLisBCgoKDg0OGxAQGi0lICYtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf
 - Location: Rathnapura, Sri Lanka
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/Janitha133
