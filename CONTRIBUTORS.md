@@ -14,6 +14,14 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Christian Torres
+- Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
+- Location: Connecticut, United States
+- Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
+- Github: https://github.com/phyre1337
+
+-----------
+
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
 - Location: Karachi, Pakistan
