@@ -98,6 +98,13 @@
 - Github: https://github.com/aishaaqeel
 ***
 
+### Yash
+- Photo: https://avatars2.githubusercontent.com/u/45978218?s=460&v=4
+- Location: Raipur, India
+- Bio: I code with enthusiasm and for fun. Probably the best thing in me. Do love the scary adventures.
+- Github: https://github.com/yash9685
+***
+
 ### Alex Salomatin
 - Photo: https://avatars2.githubusercontent.com/u/41446232?s=460&v=4
 - Location: Tel Aviv, Israel
