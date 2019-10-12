@@ -103,3 +103,11 @@
 - Location: Tel Aviv, Israel
 - Bio: 📱 Android Developer. Started developing in 2018, have several projects published on Google Play.
 - Github: https://github.com/ASalomatin47
+*** 
+
+### Muhammad Ahad
+- Photo: https://avatars3.githubusercontent.com/u/47399266?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Software Developer
+- Github: https://github.com/muhammadahad96
+***
