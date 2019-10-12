@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kousik Rajesh
+- Photo: https://consequenceofsound.net/wp-content/uploads/2019/07/joker-2019.jpg
+- Location: Noida, India
+- Bio: Machine learning enthusiast
+- Github: https://github.com/kousikr26
