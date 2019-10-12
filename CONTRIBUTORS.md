@@ -19,7 +19,6 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
-***
 
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
@@ -77,4 +76,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Aisha Aqeel
+- Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Software Engineer | Graphics Designer & Developer | Photographist | Self-Loving..
+- Github: https://github.com/aishaaqeel
+***
