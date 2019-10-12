@@ -22,6 +22,13 @@
 
 -----------
 
+### Lis da Silva Azevedo
+- Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
+- Location: Salvador, Brazil
+- Bio: Computer Engineering Student, DevOps, CyberSecurity
+- Github: https://github.com/lisazevedo
+***
+
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
 - Location: Karachi, Pakistan
