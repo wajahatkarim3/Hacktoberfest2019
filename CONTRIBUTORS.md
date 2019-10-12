@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rebecca Medrano
+- Photo: N/A
+- Location: San Francisco, USA
+- Bio: Teacher, Computer Science Student
+- Github: https://github.com/nyamako
+***
