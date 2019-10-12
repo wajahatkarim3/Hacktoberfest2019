@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anito Anto
+- Photo: https://avatars0.githubusercontent.com/u/49053859?s=460&v=4
+- Location: India
+- Bio: 📱 Android Developer | 💻 Open Source Contributor | Game Developer
+- Github: https://github.com/anitoanto
