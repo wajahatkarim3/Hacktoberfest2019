@@ -70,6 +70,13 @@
 - Github: https://github.com/mrillusion
 ***
 
+### Mehak Goyal
+- Photo: https://avatars3.githubusercontent.com/u/47946110?s=460&v=4
+- Location: Delhi, India
+- Bio: computer application student
+- Github: https://github.com/mehakg867
+***
+
 ### Mohammad Quanit
 - Photo: https://avatars1.githubusercontent.com/u/32056694?s=460&v=4
 - Location: Karachi, Pakistan
