@@ -117,3 +117,11 @@
 - Location: New Delhi, India
 - Bio: Passionate Coder, Open Source Contributor, ML Ethusiast
 - Github:https://github.com/rishabhrks1208
+***
+
+### Tarkadal
+- Photo: https://avatars3.githubusercontent.com/u/6516546?s=96&v=4
+- Location: Manchester, England
+- Bio: Coding beginer
+- Github: https://github.com/tarkadal
+***
