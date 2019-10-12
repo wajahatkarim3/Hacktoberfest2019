@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Wilson Tama
+- Photo: (I'm shy)
+- Location: Maranhao, Brazil
+- Bio: Python Developer, Middle Natural&Adabas developer, Java developer.
+- Github: https://github.com/TamaWilson
+***
