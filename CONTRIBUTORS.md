@@ -13,3 +13,10 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+### Bhavya Jain 
+ - Photo : https://drive.google.com/file/d/1WGt8cl-z5H1szLLc-L2z3T6g_S5A6LQP/view?ts=5da1730c
+ - Location: Rajasthan,India
+ - Bio: Son.IITian.New to Open Source Contributions.
+ - Github: https://github.com/Bhavya-22
+ 
