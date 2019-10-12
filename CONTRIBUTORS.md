@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Carlos Otávio Guimarães
+- Photo: https://avatars1.githubusercontent.com/u/36769547?s=460&v=4
+- location: Ribeirão Preto, São Paulo, Brazil
+- Bio: Biomedical Informatics student
+- Github: https://github.com/otaviocarlos
+***
+
 
