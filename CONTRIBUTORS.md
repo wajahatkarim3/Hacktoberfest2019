@@ -17,7 +17,7 @@
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
 - Location: Karachi, Pakistan
-- Bio: Keep track of your activities throughout year
+- Bio: Keep track of your activities throughout the year
 - Github: https://github.com/Year-In-Review
 ***
 
