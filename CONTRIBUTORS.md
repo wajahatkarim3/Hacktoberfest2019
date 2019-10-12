@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Helen King
+- Photo: https://avatars.githubusercontent.com/helenking029
+- Location: Vancouver Island, British Columbia
+- Bio: Technical Specialist 💻 Hiker. Mountain Biker.
+- Github: https://github.com/helenking029
