@@ -3,12 +3,12 @@
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father
 - Github: https://github.com/wajahatkarim3
 ***
 
 ### Tsung-Han Ho
-- Photo: 
+- Photo:
 - Location: Taipei, Taiwan
 - Bio: Master
 - Github: http://github.com/Mystes-CS
@@ -38,7 +38,7 @@
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
 - Location: Bacolod, Philippines
-- Bio: Web Developer 
+- Bio: Web Developer
 - Github: https://github.com/samcode23
 ***
 
@@ -50,9 +50,9 @@
 ***
 
 ### Nishant Raj
-- Photo: 
+- Photo:
 - Location: Banaglore, India
-- Bio: 📱 Android Developer 
+- Bio: 📱 Android Developer
 - Github: https://github.com/coolnishant
 ***
 
@@ -103,7 +103,7 @@
 - Location: Tel Aviv, Israel
 - Bio: 📱 Android Developer. Started developing in 2018, have several projects published on Google Play.
 - Github: https://github.com/ASalomatin47
-*** 
+***
 
 ### Muhammad Ahad
 - Photo: https://avatars3.githubusercontent.com/u/47399266?s=460&v=4
@@ -117,3 +117,9 @@
 - Location: New Delhi, India
 - Bio: Passionate Coder, Open Source Contributor, ML Ethusiast
 - Github:https://github.com/rishabhrks1208
+
+### Falei Mbewe
+- Photo:
+- Location: Lusaka, Zambia
+- Bio:Aspiring Software Developer
+- Github:https://github.com/falesi
