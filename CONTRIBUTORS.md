@@ -77,4 +77,8 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Tarun Kumar 
+-Photo:NIL
+-Location India,Chandigarh
+-BIO:Competitive programmer,ML Engineer
+-Github:https://github.com/98rarunkumar
