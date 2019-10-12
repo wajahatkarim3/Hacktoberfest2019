@@ -117,3 +117,10 @@
 - Location: New Delhi, India
 - Bio: Passionate Coder, Open Source Contributor, ML Ethusiast
 - Github:https://github.com/rishabhrks1208
+
+
+### Victor Chaampa
+- photo
+- Location: Lusaka, Zambia
+- Bio: Stalion, Gamer
+- Github: https://github.com/chaampavictor
