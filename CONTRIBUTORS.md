@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Henrique
+- Photo:
+- Location: Minas Gerais, Brasil
+- Bio: Computational mathmatics student
+- Github: https://github.com/Henric234
