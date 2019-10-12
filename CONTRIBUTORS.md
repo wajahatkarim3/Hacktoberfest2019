@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
-
+### Divyam Solanki
+-Photo: https://ibb.co/tcgG7Rp
+-Location: Udaipur,Rajasthan India
+-Bio: Beginner in Computer Science, Technology Enthusiast.
+-Github: https://github.com/solankidivyam
+***
 
