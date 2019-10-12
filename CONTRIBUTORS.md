@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Kirushanth T.
+- Photo: https://avatars3.githubusercontent.com/u/43316302?s=400&v=4
+- Location: Colombo, Sri Lanka
+- Bio: Fresher in the Field
+- Github: https://github.com/fx93
+***
