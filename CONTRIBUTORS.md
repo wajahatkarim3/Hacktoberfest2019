@@ -77,4 +77,12 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Ammar Annajih Pasifiky
+- Photo: https://res.cloudinary.com/zerefweismann/image/upload/v1570868581/bk8ak5iold16rwsuof3r.jpg
+- Location: Jawa Tengah, Indonesia
+- Bio: sleep enthusiast, Fullstack Developer
+- Github: https://github.com/tejoj
+***
+
+
 
