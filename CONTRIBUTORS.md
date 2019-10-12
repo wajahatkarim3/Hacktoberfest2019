@@ -76,5 +76,10 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Abhya Tripathi
+- Location: India
+- Bio: Web Developer 
+- Github: https://github.com/abhya004
+***
 
 
