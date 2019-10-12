@@ -76,5 +76,11 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Mohd. Aman
+- Photo: https://www.google.com/search?q=mohd+aman+spoj&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPzcGylZblAhUVfX0KHc5nAvEQ_AUIEigB&biw=1366&bih=657#
+- Location: Meerut, India
+- Bio: Hardware enthusiast
+- Github: https://github.com/mr-zero0
+***
 
 
