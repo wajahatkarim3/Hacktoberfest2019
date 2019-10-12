@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Soha Moosa
+- Photo: https://avatars2.githubusercontent.com/u/40213521?v=4
+- Location: Karachi, Pakistan
+- Bio: JavaScript Developer . Open Source Contributor . Top Rated Freelancer . 
+- Github: https://github.com/soha-moosa
+***
