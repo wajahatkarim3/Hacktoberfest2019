@@ -416,7 +416,7 @@
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
 
-### Mark Wood
+### Tharaka Dilruk
 - Photo:
 - Location: Sri Lanka
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor.
