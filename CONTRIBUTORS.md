@@ -98,7 +98,7 @@
 - Github: https://github.com/aishaaqeel
 ***
 
-### Yash
+### Yash Gupta
 - Photo: https://avatars2.githubusercontent.com/u/45978218?s=460&v=4
 - Location: Raipur, India
 - Bio: I code with enthusiasm and for fun. Probably the best thing in me. Do love the scary adventures.
