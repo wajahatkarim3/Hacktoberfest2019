@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Harsh Tank
+- Photo: N/A
+- Location: Ahmedabad,India
+- Bio: Aspiring Engineer, Web developer, Coding Enthusiast
+- Github: https://github.com/harshtank
