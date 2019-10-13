@@ -111,6 +111,12 @@
 - Bio: Software Developer
 - Github: https://github.com/muhammadahad96
 ***
+### Kee Magbanua
+- Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
+- Location: Bacolod, Philippines
+- Bio: Web Developer 
+- Github: https://github.com/samcode23
+***
 
 ### Rishabh Kumar Singh
 - Photo:https://avatars3.githubusercontent.com/u/54996681?s=400&u=5add601d7d955744ca7c7ae09dbdff5179757955&v=4
