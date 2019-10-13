@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhilash Majumder
+- Photo: https://avatars2.githubusercontent.com/u/30946547?s=400&u=f931a47444b01fa4a8cd1d92166108f0d896120e&v=4
+- Location: Pune, India
+- Bio: Graphics Engineer,Accelerated Computing/ML engineer
+- Github: http://github.com/abhilash1910
+***
