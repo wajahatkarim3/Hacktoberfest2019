@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Avinish Kumar
+- Photo: https://github.com/avi-01.png
+- Location: India
+- Bio:  📱 Full Stack Developer , Competitive Coder
+- Github: https://github.com/avi-01
+***
