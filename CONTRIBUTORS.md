@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pavan Soratur
+- Photo: https://avatars2.githubusercontent.com/u/53374218?s=460&v=4
+- Location: Bengaluru, India
+- Bio: Blockchain Dev! I,m bad at the advise, can I interest you in a blockchain discussion?
+- Github: https://github.com/devPavan04
