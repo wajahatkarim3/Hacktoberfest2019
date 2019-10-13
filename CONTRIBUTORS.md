@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Jacques Fourie
+- Photo: https://avatars1.githubusercontent.com/u/19422168?s=400&v=4
+- Location: Adelaide, Australia
+- Bio: 3d Artist. Software Developer. 
+- Github: https://github.com/JacquesFourieAUZ
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
