@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Dorell James
+- Photo: https://avatars2.githubusercontent.com/u/977413
+- Location: Cebu Philippines
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Community Builder 💯
+- Github: https://github.com/dorelljames
