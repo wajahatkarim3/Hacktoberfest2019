@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Oleksii Malikov
+- Photo: https://avatars0.githubusercontent.com/u/41151563?s=460&v=4
+- Location: Wiesloch, Germany
+- Bio: 💻 Web Developer . Guitarist 🎸 . Happy Human 
+- Github: https://github.com/OleksiiMalikov
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
