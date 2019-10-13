@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### xXH4CKST3RXx
+- Photo: N/A
+- Location: New Jersey, USA
+- Bio: Computer Science Student
+- Github: https://github.com/xXH4CKST3RXx
