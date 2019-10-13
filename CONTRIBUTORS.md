@@ -84,6 +84,13 @@
 - Github: https://github.com/kamransarwar
 ***
 
+### Zala Slakonja
+- Photo: https://www.google.si/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjmqp-w_ZnlAhVOaFAKHX_JA5wQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fphotography%2Fbest-of-photo-of-the-day%2F2018%2Fjanuary%2F&psig=AOvVaw2_5s6uts6_PMw5MbjPyCqg&ust=1571081651625249
+- Location: Slovenia
+- Bio: student
+- Github: https://github.com/zala123
+***
+
 ### Emmanuel Ezenwigbo
 - Photo: https://res.cloudinary.com/skycoder/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1567289385/IMG-20181016-WA0040_tnatg9.jpg
 - Location: Edo, Nigeria
