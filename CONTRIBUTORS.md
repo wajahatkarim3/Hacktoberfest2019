@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Aditi Tarigoppula
+- Photo: 
+- Location: Bangalore,India
+- Bio: 📱 Front End Web Developer . 💻 Open Source Contributor. Singer 🔥
+- Github: https://github.com/mystic-potato
