@@ -415,3 +415,12 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Syed Hasan Akhtar
+- Photo: N/A
+- Location: Karachi, Pakistan
+- Bio: I'm a cybersecurity enthusiast with a passion for web development as well. 
+- Github: https://github.com/SyeedHasan
+
+***
+
