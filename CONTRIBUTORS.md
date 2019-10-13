@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ahmer Ijaz
+- Location: Lahore
+- Bio: Student
+- Github: https://github.com/Ahmercs50
