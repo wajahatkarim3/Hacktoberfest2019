@@ -125,6 +125,11 @@
 - Github: https://github.com/Naaman-Saif
 ***
 
+### Sparsh Kamat
+- Photo: https://avatars3.githubusercontent.com/u/22113013?s=400&u=2cb491f01465550b3549720793de64762a8cac12&v=4
+- Location: Goa,India
+- Bio: Coder, Gamer, Physics Enthusiast
+- Github: https://github.com/Sparsh10
 ### Rahul Gupta
 - Photo: https://avatars2.githubusercontent.com/u/12747985?s=400&u=1750407059a3643be490f379a6ea981b37260fce&v=4
 - Location: Bangalore, India
