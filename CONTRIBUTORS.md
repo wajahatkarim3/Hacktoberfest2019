@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+###
+ - Photo: N/A
+ - Location: Edinburgh, Scotland
+ - Bio: Software Engineering Student
+ - Github: https://github.com/gabbigum
