@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pranav Patil
+-Photo:
+-Location: Pune,India
+- Bio:Student
+- GitHub : https://gitHub.com/pkpatill
