@@ -416,7 +416,7 @@
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
 
-### YOUR FULL NAME
+### John Vincent
 - Photo: https://avatars3.githubusercontent.com/u/25700492?s=460&v=4
 - Location: Naxxar, Malta
 - Bio: Full Stack Developer. Android developer
