@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Raymond Dolan
+- Photo: https://avatars0.githubusercontent.com/u/33587691?s=460&v=4
+- Location: Worcester, USA
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/rfdolan
