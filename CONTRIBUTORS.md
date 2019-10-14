@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rachit Garg
+- Photo: 
+- Location: New Delhi, India
+- Bio: Technology and Travel enthusiast | Aspiring Embedded Systems Engineer.
+- Github: https://github.com/rstar900
+
+
