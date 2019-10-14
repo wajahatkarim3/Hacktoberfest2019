@@ -42,6 +42,13 @@
 - Github: https://github.com/samcode23
 ***
 
+### Viktoria Cseke
+- Photo: 🐈
+- Location: Cork, Ireland
+- Bio: Software developer student 
+- Github: https://github.com/FurfurV
+***
+
 ### Pratik Butani
 - Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
 - Location: Ahmedabad, India
