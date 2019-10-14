@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jyothish Kumar M S
+- Photo: N/A
+- Location: Ambalapuzha, India
+- Bio: Ex-Kazhak ❤. Developer 💻. STEM Enthusiast ✨. Respect all, fear none.
+- Github: https://github.com/blacklightpy
+***
