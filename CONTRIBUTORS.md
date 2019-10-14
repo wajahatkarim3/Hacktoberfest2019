@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tejas Amle
+- Photo: https://www.linkedin.com/in/tejas-amle/
+- Location: Greater Noida, India
+- Bio: Computer Science Undergrad
+- Github: https://github.com/TejasAmle
+***
