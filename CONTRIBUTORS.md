@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sonali Mahajan
+- Photo: https://github.com/account
+- Location: Karnataka, India
+- Bio: Software Engineer, Coffee Lover, 🎒 Student
+- Github: https://github.com/sonalimahajan12
+
+
