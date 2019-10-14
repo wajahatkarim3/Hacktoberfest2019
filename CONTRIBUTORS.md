@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Eduardo de Souza
+- Photo: https://avatars3.githubusercontent.com/u/26828695?s=400&u=5f0b619d8f68858f574e2d7b84b2f7341f21abb7&v=4
+- Location: São Luís, Brazil
+- Bio: Flutter Dev
+- Github: https://github.com/ruemmai
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
