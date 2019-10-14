@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ankit Samota
+- Photo: https://drive.google.com/open?id=1FY7qUGmCbVDRFkkPpHDweLfJeBnxryt0
+- Location: ROURKELA, INDIA
+- Bio: College Student, Full Stack Web Developer, Machine Learning Beginner
+- Github: https://github.com/ankitkumarsamota121
+***
