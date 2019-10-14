@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Diego Griep
+- Photo: https://avatars3.githubusercontent.com/u/1144131?s=460&v=4
+- Location: Belo Horizonte - MG - Brasil
+- Bio: Frontend Developer
+- Github: https://github.com/diegogriep
