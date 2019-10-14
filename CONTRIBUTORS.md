@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Justin Tew
+- Photo: https://avatars3.githubusercontent.com/u/10405083?s=460&v=4
+- Location: Spokane, USA
+- Bio: Web Developer
+- Github: https://github.com/gustsu
