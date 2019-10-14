@@ -418,7 +418,7 @@
 
 ### Atul Sharma
 - Photo: https://www.facebook.com/photo.php?fbid=2466573887001429&set=a.1396631057329056&type=3&source=11&referrer_profile_id=100009465254347
--Location: Jaipur, India
-Bio: Aspiring Developer, Basketball 🏀 
-Github: https://github.com/Iltwats
+- Location: Jaipur, India
+- Bio: Aspiring Developer, Basketball 🏀 
+- Github: https://github.com/Iltwats
 ****
