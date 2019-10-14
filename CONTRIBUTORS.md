@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Joel Stephens
+- Photo: https://avatars0.githubusercontent.com/u/232407?s=40&v=4
+- Location: Munford, USA
+- Bio: Assistive Technology Instructor
+- Github: http://github.com/jbstep
