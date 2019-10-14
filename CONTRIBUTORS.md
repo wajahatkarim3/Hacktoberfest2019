@@ -416,7 +416,7 @@
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
 
-### Kundan Kumar
+### Alok Parikh
 - Photo:
 - Location: Ahmedabad, India
 - Bio: 📱 Web Developer . 💻 Open Source Contributor .
