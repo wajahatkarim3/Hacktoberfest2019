@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jack White Tran
+- Photo: https://avatars2.githubusercontent.com/u/11423829?s=400&u=6fcb1d52089618c2068ef9c964468a96f3c11c75&v=4
+- Location: HCM, Vietnam
+- Bio: React Native developer
+- Github: https://github.com/trquth
