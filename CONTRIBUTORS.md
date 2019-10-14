@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Akanksha Gupta
+- Location: Mumbai, India.
+- Bio: Electronics and Telecommunication Engineer, Beginner in coding , loves to read books 
+- Github: https://github.com/akku2558
