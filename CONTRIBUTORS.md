@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Alok Munshi
+- Photo: N/A
+- Location: IIT Kharagpur, INDIA
+- Bio: Sophomore
+- Github: https://github.com/munshialok3
