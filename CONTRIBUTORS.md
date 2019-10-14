@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sushil Shrestha
+- Photo: https://avatars3.githubusercontent.com/u/25567358?s=460&v=4
+- Location: Kathmandu, Nepal
+- Bio: .Net Developer
+- Github: https://github.com/shoesheill
