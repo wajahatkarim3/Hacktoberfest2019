@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tanuj wagadre
+- Photo: https://avatars1.githubusercontent.com/u/47408779?s=460&v=4
+- Location: Bhopal, India
+- Bio: 💻 Software Developer . 💻 Open Source Contributor
+- Github: https://github.com/i-tanuj
+***
