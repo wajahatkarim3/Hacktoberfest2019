@@ -419,6 +419,6 @@
 ### Hisham Ali
 - Photo: 
 - Location: Kerala, India
-- Bio: Technology Enthusiasist, Linux lover, Casual Gamer
+- Bio: Technology Enthusiast, Linux lover, Casual Gamer
 - Github: https://github.com/hishamalip
 ***
