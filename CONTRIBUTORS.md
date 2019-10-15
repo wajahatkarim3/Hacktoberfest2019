@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sudhanshu Ranjan
+- Photo: [Avatar](https://avatars.githubusercontent.com/tsuki42)
+- Location: Bengaluru, India
+- Bio: Developer, Machine Learning Engineer
+- Github: https://github.com/tsuki42
