@@ -415,3 +415,13 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+
+### Roshan khausiya
+- Photo: https://avatars3.githubusercontent.com/u/34279341?s=400&u=33e3e2f0ad35c720861700c2b62765af0bf5300c&v=4
+- Location: Tilottama-11,Mirgauli, Nepal
+- Bio: Blogger,youtuber,freelancer
+
+- Github: https://github.com/phantomroshan
+***
