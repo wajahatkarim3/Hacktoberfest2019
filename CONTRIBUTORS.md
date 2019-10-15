@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Anand Samantnani
+- Photo : https://avatars0.githubusercontent.com/u/56359602?s=400&v=4
+- Location: Jaipur , Inida
+- Bio : Web Developer . Btech Student . Knows Programming
+- Github: https://github.com/anandsamant
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
