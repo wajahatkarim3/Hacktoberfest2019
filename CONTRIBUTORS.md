@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Prathyusha
+- Photo:
+- Location: Goa, India
+- Bio: Student at NIT Goa
+- Github: https://github.com/PrathyushaPolepalli
