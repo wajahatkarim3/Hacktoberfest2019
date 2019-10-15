@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Hisham Ali
+- Photo: 
+- Location: Kerala, India
+- Bio: Technology Enthusiasist, Linux lover, Casual Gamer
+- Github: https://github.com/hishamalip
+***
