@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Son Tran
+- Photo: https://avatars1.githubusercontent.com/u/37862200?s=460&v=4
+- Location: Ha Noi, VietNam
+- Bio: Self-taught programmer, Frontend Developer
+- Github: https://github.com/nos-nart
+***
