@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Zeeshan
+- Photo: N/A
+- Location: Mumbai, India
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/15bcs019
