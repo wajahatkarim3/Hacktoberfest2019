@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Raj Pathare
+- Photo: https://avatars1.githubusercontent.com/u/31897425?s=460&v=4
+- Location: Mumbai, India
+- Bio: MERN Stack Developer, Unity3D Developer
+- Github: https://github.com/RajPathare
+
