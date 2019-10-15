@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Harshaan Nihal
+- Photo: N/A
+- Location: Udaipur, India
+- Bio: Full Stack Developer (MERN & rails)
+- Github: https://github.com/harshaannihal
