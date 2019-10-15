@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shubham Kumar Jayswal
+- Photo: N/A
+- Location: Surat,India
+- Bio: Computer science engineering student. Artist. Good writer
+- Github: https://github.com/sk662516/Shubham-kumar-jayswal
+***
