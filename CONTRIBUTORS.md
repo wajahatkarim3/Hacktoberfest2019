@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shubham Aggarwal
+- Photo: https://avatars3.githubusercontent.com/u/41572839
+- Location: New Delhi, India
+- Bio: Programmer | foodie | fitness enthusiast 
+- Github: https://github.com/shubhamcompro
