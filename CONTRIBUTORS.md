@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Evan Gillard
+- Photo: N/A
+- Location: Sydney, Australia
+- Bio: Aspiring Game Dev and Software Dev
+- Github: https://github.com/Synergetic0
+***
