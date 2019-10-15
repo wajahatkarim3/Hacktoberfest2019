@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Noor Muhammad Khan
+- Photo: https://s.gravatar.com/avatar/10f0f43c306fe0afdf265b8372e7a606?s=80
+- Location: Lahore, Pakistan
+- Bio: 💻 Open Source Contributor, Writer, Blogger at meetnoor.com, Blockchain Enthusiast, 👶 Proud Father
+- Github: https://github.com/meetnoor
+***
 
 ### Tsung-Han Ho
 - Photo: 
