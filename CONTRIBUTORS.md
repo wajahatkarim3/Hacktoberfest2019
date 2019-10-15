@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Sebastian Southern
+- Photo: https://avatars0.githubusercontent.com/u/19684692?s=400&v=4
+- Location: Sydney, Australia
+- Bio: Full Stack Developer
+- Github: https://github.com/Jahmilli
