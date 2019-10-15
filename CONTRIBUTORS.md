@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Viacheslav Ignatov
+- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
+- Location: Riazan, Russia
+- Bio: 📱 Full Stack Developer
+- Github: https://github.com/ACIDKing
