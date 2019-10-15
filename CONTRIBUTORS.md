@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Susmitha Sanikommu
+- Photo: 
+- Location: Hyderabad,India
+- Bio: Software Developer 
+- Github: https://github.com/Sush97
