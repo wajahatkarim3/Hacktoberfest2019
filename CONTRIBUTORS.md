@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Prathyusha
-- Photo:
+- Photo: 
 - Location: Goa, India
 - Bio: Student at NIT Goa
 - Github: https://github.com/PrathyushaPolepalli
