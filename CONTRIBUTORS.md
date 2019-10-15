@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tom Nyongesa
+- Photo: Coming Soon
+- Location: Nairobi, Kenya
+- Bio: 📱 Full Stack Developer 
+- Github: https://github.com/tomshy
