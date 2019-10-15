@@ -374,6 +374,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor 
 - Github: https://github.com/harrywalia019
 
+### Rishie Ramasinghe
+- Photo: 
+- Location: Colombo, Sri Lanka
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. 📱 Android Developer . Artist 🔥
+- Github: https://github.com/rishier827
+
 ### Davide Gena
 - Photo:
 - Location: YOUR CITY, COUNTRY
@@ -415,3 +421,5 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
