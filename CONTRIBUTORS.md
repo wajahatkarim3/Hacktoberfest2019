@@ -404,6 +404,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor .
 - Github: https://github.com/guy34code
 
+### Soodeshna Bappoo
+- Photo: https://avatars3.githubusercontent.com/u/39064501?s=400&v=4
+- Location: Mauritius
+- Bio: Software Developer
+- Github: https://github.com/sbappoo
+
 ### judyz01
 - Photo: N/A
 - Location: Davis, California
