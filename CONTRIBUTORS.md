@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mayank Arya
+- Photo: https://avatars0.githubusercontent.com/u/18504252?s=400&u=b2628aa3d6a10d0592ed36cbac3f0ba2590a018d&v=4
+- Location: Bangalore, India
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Mountaineer 🔥
+- Github: https://github.com/mak119
