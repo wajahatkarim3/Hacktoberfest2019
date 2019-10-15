@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Hari Dev S Aiyar
+- Photo: N/A
+- Location: New Delhi, India
+- Bio: 💻 Open Source Contributor .
+- Github: https://github.com/hari1603
