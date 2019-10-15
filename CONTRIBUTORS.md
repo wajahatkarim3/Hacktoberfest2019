@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### yogesh jha
+ Photo: 
+ Location: Kolkata, india
+ Bio: c++, competitive coding ,volleyball
+ Github: https://gitHub.com/hound77
