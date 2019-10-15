@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Wajahat Karim
+- Photo: 
+- Location: Jamshedpur, India
+- Bio: Web developer, Java, Python, Machine Learning
+- Github: https://github.com/Mustafiz04
+***
