@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### vinijabes
+- Photo:
+- Location: Presidente Prudente, Brasil
+- Bio: Full Stack web developer.
+- Github: https://github.com/vinijabes
+***
