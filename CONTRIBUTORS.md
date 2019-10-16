@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### krishana kumar
+- Photo: N/A
+- Location: Delhi, India
+- Bio: Aspiring Web Developer
+- Github: https://github.com/krishana18kumar
