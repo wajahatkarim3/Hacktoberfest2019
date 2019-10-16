@@ -419,6 +419,6 @@
 ### Abdelghani Mohammed Bekka
 - Photo: N/A
 - Location: Chlef, Algeria
-- Bio: CS student and entrepreneur
+- Bio: CS student and entrepreneur, designer
 - Github: https://github.com/Silfalion
 ***
