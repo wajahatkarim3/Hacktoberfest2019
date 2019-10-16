@@ -419,6 +419,6 @@
 ### YOUR FULL NAME
 - Photo: N/A
 - Location: Chlef, Algeria
-- Bio: CS student
+- Bio: CS student and entrepreneur
 - Github: https://github.com/Silfalion
 ***
