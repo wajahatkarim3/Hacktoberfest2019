@@ -1,9 +1,9 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
+### Ziani Imane
 - Photo:
 - Location: Chlef, Algeria
-- Bio: Computer Science student . Future entrepreneur . PowerPoint designer 
+- Bio: Computer Science student . Future entrepreneur . PowerPoint designer . Flutter developer 
 - Github: https://github.com/ZianiImane
 ***
 
