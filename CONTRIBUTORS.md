@@ -77,4 +77,8 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Jeff Wu
+-Photo: https://avatars0.githubusercontent.com/u/26178998?s=400&u=70a40c6d7906606c1f839ecd6fd9828984c01794&v=4
+-Location: CA, United States
+-Bio: IT Support, Programmer
+-Github: https://github.com/jeffthejelly 
