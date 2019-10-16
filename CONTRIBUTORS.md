@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mbino Ruth
+- Photo:
+- Location: Africa
+- Bio: OPen source enthusiaste 
+- Github: https://github.com/RuthAtem
