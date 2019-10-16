@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Durgesh Singh
+- Photo: 
+- Location: Kolkata, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . Computer Engineering Student.
+- Github: https://github.com/Kenobi7
+
