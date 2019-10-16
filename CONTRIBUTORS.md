@@ -415,3 +415,12 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Helly Hirpara
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: New Delhi, India
+- Bio: Web Developer . Game Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 
+- Github: https://github.com/Hackhell
+***
+
+
