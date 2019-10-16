@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Sechi Simone
+- Photo: https://avatars0.githubusercontent.com/u/41391627?s=400&u=eb0b162731c18665dbd0f31c987ada6465ba60d4&v=4
+- Location: Bergamo, Italy
+- Bio: 💻 Open Source Contributor . 🎒 Student .
+- Github: https://github.com/zzAlMoo
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
