@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Jagreet Das Gupta
+- Photo:
+- Location: West Bengal, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer .  🎒 Student
+- Github: https://github.com/jagreetdg
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
