@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+###Flavia
+- Photo: https://avatars2.githubusercontent.com/u/10454495?s=400&u=7db56f8b3208ff96bb97f99e143504f92e68ca92&v=4
+- Location: Seattle, WA
+- Bio: Aspiring Front-End Web Developer
+- Github: https://github.com/flaviamedici
