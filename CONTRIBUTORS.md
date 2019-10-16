@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Emerson Carvalho
+- Photo: https://avatars0.githubusercontent.com/u/8569519?s=40&v=4
+- Location: RN, Brazil
+- Bio: QA Tester
+- Github: https://github.com/brecarv
