@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Giovanni Lenoci
+- Photo: https://avatars0.githubusercontent.com/u/603458?s=96&v=4
+- Location: Sondrio, Italy
+- Bio: Backend Developer - Nerd, 3d printing enthusiast
+- Github: https://github.com/gianiaz
