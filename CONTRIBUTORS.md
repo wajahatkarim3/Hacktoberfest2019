@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Saksham Singh
+- Photo: https://avatars2.githubusercontent.com/u/54993459?s=460&v=4
+- Location: Barabanki, India
+- Bio: A budding Frontend Web DeVeloper
+- Github: https://github.com/Saksham27
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
