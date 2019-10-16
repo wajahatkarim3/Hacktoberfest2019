@@ -1,7 +1,7 @@
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Anubhav Bagri
-- Photo: YOUR PHOTO URL
+- Photo: 
 - Location: Jaipur,India
 - Bio: University Student. Graphic Designer. Java coder.
 - Github: https://github.com/anubhavbagri
