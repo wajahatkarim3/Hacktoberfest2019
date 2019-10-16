@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Hashini Mudannayake
+- Photo: https://avatars3.githubusercontent.com/u/49275855?s=460&v=4
+- Location: Kottawa, Sri Lanka
+- Bio: Technology enthusiast
+- Github: https://github.com/Hashini151
