@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Josh Burkard
+- Photo: https://www.burkard.it/wp-content/uploads/author%20image/jburkard.jpg
+- Location: Basel, Switzerland
+- Bio: 📱 PowerShell, SCCM, SCOM, VMware
+- Github: https://github.com/joshburkard
