@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sabrina Knight
+- Photo:
+- Location: Birmingham, UK
+- Bio: Electrical and computer engineering student 
+- Github: https://github.com/msRob0t
