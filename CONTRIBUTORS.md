@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Gloria Ho
+- Photo: 
+- Location: New York, USA
+- Bio: 💻Software Engineer . Studying cryptography
+- Github: https://github.com/gloria-ho
