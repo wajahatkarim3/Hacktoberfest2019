@@ -6,7 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
-
+### Yash Bhawsar
+- Photo: https://avatars1.githubusercontent.com/u/30313851?s=460&v=4
+- Location: Hyderabad , India
+- Bio: Software Engineer . musician . ML & Data Science Enthusiast
+- Github: https://github.com/yash872
+***
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
