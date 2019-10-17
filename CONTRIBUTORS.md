@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aakash Singh
+- Photo: 
+- Location: Chandigarh, India
+- Bio: Data Analyst. Programmer 💻. Deep Learning research associate
+- Github:- https://github.com/Aakash1822
