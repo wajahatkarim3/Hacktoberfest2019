@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Phyllis Nabangi
+- Photo: https://avatars0.githubusercontent.com/u/38494839?s=460&v=4
+- Location: Kampala, Uganda
+- Bio: Aspiring Data Analyst . Passionate Mathematics. 
+- Github: https://github.com/PhyllisNabangi
