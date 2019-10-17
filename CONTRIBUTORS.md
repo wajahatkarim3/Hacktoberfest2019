@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### luffy
-- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
+- Photo: N/A
 - Location: kunnamkulam, la
 - Bio: Linux guru
 - Github: https://github.com/sumanrajan
