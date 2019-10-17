@@ -421,4 +421,3 @@
 - Location: Skopje, Macedonia
 - Bio: Entrepreneur, 3D Artist and some kind of a programmer.
 - Github: https://github.com/psikomanjak
-***
