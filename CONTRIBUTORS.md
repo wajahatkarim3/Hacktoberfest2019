@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pedro Lima
+- Photo: https://avatars1.githubusercontent.com/u/47536693?s=400&u=c5fa35bd6d5c4e8021abca9c9f69ad0b4e7a4a71&v=4
+- Location: Campina Grande, Brazil
+- Bio: Computer Science student at Federal University of Campina Grande 
+- Github: https://github.com/pedrosqra
