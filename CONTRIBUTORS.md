@@ -14,6 +14,12 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Daniela Ramírez
+- Photo: https://drive.google.com/file/d/1CY34fliqrLDHhFxeGRUYNUjtqcpA5cku/view
+- Location: Caracas, Venezuela
+- Bio: Computer Engineering Student 
+- Github: https://github.com/dxniela
+
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
