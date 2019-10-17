@@ -196,6 +196,12 @@
 - Bio: Data Engineer. Chocolate Lab Enthusiast.
 - Github: https://github.com/zdepetris
 
+### Daniela Ramírez
+- Photo: https://drive.google.com/file/d/1CY34fliqrLDHhFxeGRUYNUjtqcpA5cku/view
+- Location: Caracas, Venezuela
+- Bio: Computer Engineering Student 
+- Github: https://github.com/dxniela
+
 ### Raphael Santos
 - Photo: https://avatars0.githubusercontent.com/u/18425056?s=460&v=4
 - Location: Caçapava-SP, Brasil
