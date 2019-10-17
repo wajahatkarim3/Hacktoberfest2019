@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Josh Burkard
-- Photo: https://www.burkard.it/wp-content/uploads/author%20image/jburkard.jpg
+- Photo: https://avatars0.githubusercontent.com/u/13269409?s=460&v=4
 - Location: Basel, Switzerland
 - Bio: 📱 PowerShell, SCCM, SCOM, VMware
 - Github: https://github.com/joshburkard
