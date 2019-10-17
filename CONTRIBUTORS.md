@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Akash Kumar
--Photo: https://avatars0.githubusercontent.com/u/47351616?s=460&v=4
--Location: Kolkata, India
--Bio: Student and enthusiast open source contributor
--Github: https://github.com/kmrakash
+- Photo: https://avatars0.githubusercontent.com/u/47351616?s=460&v=4
+- Location: Kolkata, India
+- Bio: Student and enthusiast open source contributor
+- Github: https://github.com/kmrakash
