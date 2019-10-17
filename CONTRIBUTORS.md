@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### maxx
+- Photo: N/A
+- Location: Germany
+- Bio: Programming industry robots
+- Github: https://github.com/zerofixgiven
