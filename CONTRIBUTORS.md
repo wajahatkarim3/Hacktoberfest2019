@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pratama Yoga Santosa
+- Photo: https://avatars3.githubusercontent.com/u/37033721?s=460&v=4
+- Location: Bandung, Indonesia
+- Bio: Web Developer and Artificial Intelligence enthusiast
+- Github: https://github.com/evanezcent
