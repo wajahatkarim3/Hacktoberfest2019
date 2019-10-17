@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Dennis Rufi
+- Photo: N/A
+- Location: Karachi, Pakistan
+- Bio: 📱 Android Developer
+- Github: https://github.com/dennisrufigill
+-***
