@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kevin Chow
+- Photo: 
+- Location: Ontario, Canada
+- Bio: Field Technician, Gamer, Collector,
+- Github: https://github.com/742fool
+***
