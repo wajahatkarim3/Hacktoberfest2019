@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Priyanka Debnath
+- Photo: https://avatars.githubusercontent.com/priyanka-debnath
+- Location: California, United States
+- Bio: 💻 Full Stack Developer. 🎒 Grad Student. 🇮🇳 Indian. 
+- Github: https://github.com/priyanka-debnath
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
