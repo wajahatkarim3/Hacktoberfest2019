@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Namanjeet Singh
+- Photo:
+- Location: New Delhi, India
+- Bio: CS Student
+- Github:https://github.com/OfficialNMN
