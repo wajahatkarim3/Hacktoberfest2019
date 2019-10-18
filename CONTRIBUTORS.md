@@ -320,6 +320,12 @@
 - Bio: Student 
 - Github: https://github.com/MARIA-AZRAR
 
+### Darren Trinh
+- Photo:
+- Location: Sydney Australia
+- Bio: Student
+- Github: https://github.com/darrentrinh
+
 ### Pasindu sandeepa
 - Photo: https://drive.google.com/open?id=1GZPPEKlpbqfiZZqqabgPtNO4IVMaVAvb
 - Location :colombo ,sri lanka
