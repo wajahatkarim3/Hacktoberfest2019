@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aryan Verma
+- Photo:https://scontent.fluh2-1.fna.fbcdn.net/v/t1.0-9/43100914_1777143849074573_3411121790225743872_n.jpg?_nc_cat=106&_nc_oc=AQnvbi7kdDMj6JMD6WvfjrD5fBvw3GVaQKLj9Jqst-ON3sn06MA9FTvVesQNBOx9-Ck&_nc_ht=scontent.fluh2-1.fna&oh=f29a5182df34f15869c9836fe353c0ec&oe=5E327425
+-Location: Hamirpur,H.P
+-Bio: student at NIT,Android Developer,Programmer
+-Github:https://github.com/infoaryan
