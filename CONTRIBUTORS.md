@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Luan Lemos Almeida
+- Photo: https://avatars1.githubusercontent.com/u/34046499?s=460&v=4
+- Location: Salvador, Brazil
+- Bio: Hacker and Newbie Developer
+- Github: https://github.com/lemosluan
