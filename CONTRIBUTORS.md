@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kalpit Manglunia
+- Photo:
+- Location : Jaipur, India
+- Bio - Final Year IT Student, ML Developer 🔥
+- Github : https://github.com/Thunderb07t
