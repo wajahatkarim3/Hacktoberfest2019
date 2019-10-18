@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhishek Pandit
+- Photo: N/A
+- Location: Bhubaneswar,India
+- Bio: Student , Aspiring Software Engineer and Professional Badminton Player.
+- Github:https://github.com/abhishekiiitbh
