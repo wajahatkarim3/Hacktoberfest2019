@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Arman Singh
+- Photo:N/A
+- Location: New Delhi, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor .
+- Github: https://github.com/armansingh7982
