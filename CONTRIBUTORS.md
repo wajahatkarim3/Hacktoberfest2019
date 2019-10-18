@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Filip Swierczynski
+- Photo: N/A
+- Location: Hamilton, Canada
+- Bio: Software Developer, Student
+- Github: https://github.com/filipSwierczynski
+***
