@@ -302,6 +302,12 @@
 -Bio: competitive programming, Student
 -Github: https://github.com/Sahil-Shende
 
+###Yogesh Gupta
+-Photo:
+-Location: Ujjain, Mp
+-Bio: Competitive Coder, designer
+-Github:httls://github.com/Yg12061998
+
 ### Dionysus Cho
 - Photo: https://avatars0.githubusercontent.com/u/6611743?s=460&v=4
 - Location: Toronto, Canada
