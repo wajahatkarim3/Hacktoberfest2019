@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### MAHIMA KRITI
+-Photo:N/A
+-Location:NIT Durgapur,Durgapur
+-Bio: Student . Artist. Nubile developer
+-GitHub:https://github.com/MAHIMAKRITI
