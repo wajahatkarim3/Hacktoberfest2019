@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Krunal Pawar
+- Photo: https://avatars0.githubusercontent.com/u/13750242?s=400&u=9117092ab0df4234f94a35d3149ff0559e154a49&v=4
+- Location: Mumbai, India
+- Bio: Backend Developer
+- Github: https://github.com/krnlpawar
