@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Joshua Tsui-Teng
+- Photo: N/A
+- Location: Scotts valley,aliforina
+- Bio: Newbie to python
+- Github: https://github.com/7891cucumbers
+***
