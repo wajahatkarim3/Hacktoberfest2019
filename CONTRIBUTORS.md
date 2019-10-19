@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Andrea Gines
+- Photo: https://avatars3.githubusercontent.com/u/8540124?s=400&u=b097e0a3a8694a82a8d4403c6867f9a0b2fba14b&v=4
+- Location: Chicago, IL
+- Bio: C++ developer. Python enthusiast. 
+- Github: https://github.com/andreaGines
+***
