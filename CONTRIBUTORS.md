@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ashley Erffmeyer
+- Photo: https://avatars2.githubusercontent.com/u/50453762?s=460&v=4
+- Location: Kansas City, Missouri, USA
+- Bio: 🔧 mechanical engineer turned coder | 💻 full stack web development bootcamp student | ✨ create your dream
+- Github: https://github.com/ashleyerffmeyer
