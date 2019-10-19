@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Umer Shaikh
+- Photo: https://avatars.githubusercontent.com/umershaikh97
+- Location: Karachi, Pakistan
+- Bio: 💻 MERN stack Developer . 📱 React Native Developer . 💻 Open Source Contributor. 
+- Github: https://github.com/umershaikh97
