@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Harsh Anand
+- Photo: https://avatars0.githubusercontent.com/u/44001232?s=400&u=22a97c84046a931f61f7742630a08740fdcc7ff6&v=4
+- Location: Jodhpur, India
+- Bio: Tech enthusiast, Sport Programmer
+- Github: https://github.com/harsh-not-haarsh
