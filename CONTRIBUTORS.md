@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aditya Goyal
+- Photo: https://avatars1.githubusercontent.com/u/56722344?s=400&u=ddf14284e6c72fd3c1916213cce0f7d1bf072678&v=4
+- Location: Indore, Madhya Pradesh, India
+- Bio: I'm a student pursuing B.Tech in IT, Like to code in java & C#, Love Games and also like Game Development
+- Github: https://github.com/adityaGoyal867
