@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rutwik Reddy Segireddy
+- Photo: https://avatars2.githubusercontent.com/u/32328937?s=40&v=4
+- Location: Hyderabad, India
+- Bio: Student @ IIIT-H
+- Github: https://github.com/Rutwik99
