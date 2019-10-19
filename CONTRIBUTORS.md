@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ryan Papazoglou
+- Photo: N/A
+- Location: New York, New York
+- Bio: Technology Analyst and Free Time Software developer.
+- Github: https://github.com/RyanPapazoglou
+***
