@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Miguel Vila
+- Photo: https://avatars0.githubusercontent.com/u/46941667?s=460&v=4
+- Location: Vigo, Spain
+- Bio: Open Source enthusiast; C#, Go, Python programmer
+- Github: https://github.com/xmi
+***
