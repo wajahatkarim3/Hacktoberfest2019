@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### PaiizZ
+- Photo: https://avatars2.githubusercontent.com/u/10514239?s=400&u=3932119182488fc4078779e80c7e67fa13ef0dbb&v=4
+- Location: Bangkok, Thailand
+- Bio: 📱 Full Stack Developer .
+- Github: https://github.com/PaiizZ
