@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### EarlofSquirrel
+- Photo: https://avatars3.githubusercontent.com/u/43769738?s=460&v=4
+- Location: Houston, USA
+- Bio: Student, Excited and Learning to Code
+- Github: https://github.com/EarlofSquirrel
