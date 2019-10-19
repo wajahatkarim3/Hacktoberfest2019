@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Yukti Khosla
+- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
+- Location: Bengaluru, India.
+- Bio: Getting started with open source!
+- Github: https://github.com/Yukti-09
