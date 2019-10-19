@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Harshit Gupta
+- Photo: https://avatars1.githubusercontent.com/u/50549281?s=400&v=4
+- Location: Ghaziabad,India
+- Bio: Developer . Open Source Contributor .
+- Github: https://github.com/psychopath088
+***
