@@ -416,7 +416,7 @@
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
 
-### Mark Wood
+### Nidhi
 - Photo: https://drive.google.com/open?id=1JOJq7yJXiy6b0sLpoXW56e9dohWHH2hD
 - Location: Delhi, India
 - Bio: Software development engineering .
