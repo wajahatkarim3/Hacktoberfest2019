@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Fremy Brown
+- Photo: 
+- Location: Madrid, Spain
+- Bio: Software development student
+- Github: https://github.com/rouqs
