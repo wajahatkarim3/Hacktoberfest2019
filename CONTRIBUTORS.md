@@ -404,6 +404,13 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor .
 - Github: https://github.com/guy34code
 
+### Ritbik Bharti
+- Photo: https://avatars3.githubusercontent.com/u/25530687?s=460&v=4
+- Location: Hubballi, India
+- Bio: Full Stack Developer
+- Github: https://github.com/ritbikbharti
+***
+
 ### judyz01
 - Photo: N/A
 - Location: Davis, California
