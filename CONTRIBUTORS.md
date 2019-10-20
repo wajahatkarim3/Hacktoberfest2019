@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tuanny Ruiz
+- Photo: https://avatars2.githubusercontent.com/u/17784392?s=460&v=4
+- Location: Toronto, Canada
+- Bio: Front-end developer 
+- Github: https://github.com/tuannyruiz
+***
