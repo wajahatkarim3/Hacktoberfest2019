@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Charan Singh
+- Photo: 
+- Location: Andhra Pradesh, India
+- Bio: Student
+- Github: http://github.com/CharansinghThakur
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
@@ -47,7 +54,7 @@
 - Location: Ahmedabad, India
 - Bio: Android/Flutter Developer . Open Source Contributor . Writer . Speaker .
 - Github: https://github.com/pratikbutani
-***
+***des
 
 ### Nishant Raj
 - Photo: 
