@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Anish Kumar
+- Photo: 
+- Location: Dhanbad, India
+- Bio: Machine learning Enthusiast . 💻 Open Source Contributor .  Student
+- Github: https://github.com/AKA333
+***
 
 ### Tsung-Han Ho
 - Photo: 
