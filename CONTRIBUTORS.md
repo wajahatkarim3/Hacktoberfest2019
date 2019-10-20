@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aaron C.
+- Photo: https://avatars1.githubusercontent.com/u/640433?s=460&v=4
+- Location: Tokyo, Japan
+- Bio: Web Optimization Engineer. Wanting to contribute more to open source projects ;)
+- Github: https://github.com/ogii
+***
