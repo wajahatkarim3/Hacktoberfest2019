@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anushka 
+- Photo: 
+- Location: Lucknow, India
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥. Photographer
+- Github: https://github.com/ChandelAnushka
