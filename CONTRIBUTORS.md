@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Dmitriy Derepko
+- Photo: https://avatars3.githubusercontent.com/u/6815714?s=460&v=4
+- Location: Voronezh, Russian
+- Bio: Student. Freelancer. Web deloper. 
+- Github: https://github.com/xepozz
