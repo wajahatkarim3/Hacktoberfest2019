@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pramod Bobade
+- Photo: N/A
+- Location: Mangalore, India
+- Bio: 📱 Student . 💻 Android Development 🔥
+- Github: https://github.com/PramodBobade
