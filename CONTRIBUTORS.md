@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+***
+
+### Winter LaMon
+- Photo: https://avatars0.githubusercontent.com/u/16295605?s=460&v=4
+- Location: New York City, USA
+- Bio: Software Engineer | Accessibility Advocate | Musician | Pun Enthusiast
+- Github: https://github.com/winterlamon
+***
