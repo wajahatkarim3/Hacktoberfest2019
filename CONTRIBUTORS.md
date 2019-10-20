@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### MILAN PURBIA
+- Photo: N/A
+- Location: UDAIPUR, INDIA
+- Bio: ANDROID ENTHUSIAST and learner of open source devlopment
+- Github: https://github.com/MilanPurbia
