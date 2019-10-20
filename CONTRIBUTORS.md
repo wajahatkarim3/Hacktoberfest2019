@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### hroland
+- Photo: https://avatars2.githubusercontent.com/u/12371411?s=460&v=4
+- Location: Los Angeles, CA
+- Bio: Designer, iOS & backend developer. Leading /redacted/ at Down To Shop
+- Twitter: https://twitter.com/hroland_
