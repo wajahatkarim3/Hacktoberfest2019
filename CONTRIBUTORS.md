@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Matt_The_Developer
+- Photo: N/A
+- Location: New Jersey, USA
+- Bio: Project Manager & aspiring web developer
+- Github: https://github.com/matt-the-developer
