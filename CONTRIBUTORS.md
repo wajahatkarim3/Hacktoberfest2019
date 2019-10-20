@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Quoc Anh Nguyen 
+- Photo: N/A
+- Location: Oxford, Ohio
+- Bio: Undergraduate student
+- Github: http://github.com/quocanh261997
+***
