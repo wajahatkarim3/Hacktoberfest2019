@@ -208,6 +208,12 @@
 - Bio: JavaScript Developer . Gamer . Coffee Lover
 - Github: https://github.com/jamielo52
 
+### Harsh Pal
+- Photo: https://avatars0.githubusercontent.com/u/48650798?s=400&u=7c29405a861690cde141608563f5ec0a4b3c8c62&v=4
+- Location: India
+- Bio: Student . Geek . Coffee Lover
+- Github: https://github.com/hpnightowl
+
 ### Muhamad Zulfiqor
 - Photo: https://avatars1.githubusercontent.com/u/30437682?s=400&u=4e237f3fd5b946ff57fe5edcadabb40a55d2609a&v=4
 - Location: Bandung, Indonesia
