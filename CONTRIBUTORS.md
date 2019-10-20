@@ -419,6 +419,6 @@
 ### Muhsin Ahamed 
 - Photo: https://lh3.googleusercontent.com/a-/AAuE7mCDDHv8K-zJeNwLLELtXgnINZ3Zmf2Qy2cKtkeDzA=s150-p-rw-no
 - Location: Kerala, India
-- Bio: Full time student trying to learn some programming.
+- Bio: Full time student trying to learn programming.
 - Github: https://github.com/muhsinfazal
 ***
