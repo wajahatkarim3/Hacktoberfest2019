@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### ALIND KUMAR
+- Photo: https://avatars2.githubusercontent.com/u/37773803?s=460&v=4
+- Location: Pinjore, India
+- Bio: Full Stack Developer(MERN) . 
+- Github: https://github.com/alindk19
+***
