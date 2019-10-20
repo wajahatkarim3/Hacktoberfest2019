@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### James Porter
+- Photo: https://avatars0.githubusercontent.com/u/33670244?s=96&v=4
+- Location: Tyngsborough, Massachusetts 
+- Bio: Small kid with big dreams for his future.
+- Github: https://github.com/Trinculo54
