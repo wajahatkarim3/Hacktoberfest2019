@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tobia Donati
+- Photo: https://avatars1.githubusercontent.com/u/36789?s=400&v=4
+- Location: London, UK
+- Bio: Frontend developer, experimenter
+- Github: https://github.com/tob
