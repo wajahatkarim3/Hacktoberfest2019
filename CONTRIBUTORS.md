@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### sarsiz
+- Photo: https://avatars0.githubusercontent.com/u/18235618?s=460&v=4
+- Location: New Delhi, India
+- Bio: NLP | ML | and Understanding everything else :)
+- Github: https://github.com/sarsiz
