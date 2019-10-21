@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jaruwan Panyaoud
+- Photo: https://avatars1.githubusercontent.com/u/44029258?s=460&v=4
+- Location: Bangkok,Thailand
+- Bio: ⚛️ JavaScript Geek . 🌌 Astrophysics Enthusiast . 📖 Bibliophile & messes with Guitar 🎸 and Piano 🎹
+- Github: https://github.com/praew1202
+***
