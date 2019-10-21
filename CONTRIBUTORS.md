@@ -418,7 +418,7 @@
 
 ### Yothin Homjan
 - Photo: https://avatars1.githubusercontent.com/u/25237835?s=460&v=4
-- Location: Bangkok, Thailang
+- Location: Bangkok, Thailand
 - Bio: 📱 Android Developer 
 - Github: https://github.com/yotheone0909
 ***
