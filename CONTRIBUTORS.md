@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Daniel Banasiak
+- Location: Warsaw, Poland
+- Bio: 📱 Mobile Developer
+- Github: https://github.com/danbanasiak
