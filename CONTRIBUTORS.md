@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Bidit Mangal
+- Photo:
+- Location: Dehradun,India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor
+- Github: https://github.com/Biditmangal
+***
