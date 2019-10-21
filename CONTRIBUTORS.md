@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ivo Naftal
+- Photo: 
+- Location: Maputo, Mozambique
+- Bio:  💻 Open Source Contributor. 💻 Web Developer . 🎒 Student
+- Github: http://github.com/naftalivo
+***
