@@ -83,3 +83,9 @@
 - Bio: Front End Developer, B.tech first year student
 - Github: https://github.com/iam2002
 ***
+
+### Vaibhav Singla
+- Photo: 
+- Location: Punjab, India
+- Bio: Traveller, Learning App Development
+- Github: https://github.com/iamvs2002
