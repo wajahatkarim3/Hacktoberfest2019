@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Benjamin Bernard-Bouissières
+- Photo: https://avatars2.githubusercontent.com/u/15046586
+- Location: Lyon, France
+- Bio: Python/Django Developer
+- Github: https://github.com/Benbb96
