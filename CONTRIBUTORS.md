@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Setyo Adi Wibowo
+- Photo: 
+- Location: Jakarta, Indonesian
+- Bio: Mobile Developer Native
+- Github: https://github.com/setyoadiw
+***
