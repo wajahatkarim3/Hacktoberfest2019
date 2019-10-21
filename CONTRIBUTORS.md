@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Snehit Mishra
+- Photo: https://lh3.googleusercontent.com/-dbXV5M4O0fA/XZC8uaKwouI/AAAAAAAATp8/jRDQBB2rVdww9vGnAiGQLdRv1QPwmmUNwCEwYBhgL/w139-h140-p/SAVE_20190909_184839.jpeg
+- Location: Durgapur,India
+- Bio: Data Scientist . 💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/snehit31
