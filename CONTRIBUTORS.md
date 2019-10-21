@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sachin
+- Photo: N/A
+- Location: Delhi, India
+- Bio: pursuing Engineering Physics, aspires to integrate IoT and space!
+- Github: https://github.com/centarsirius
