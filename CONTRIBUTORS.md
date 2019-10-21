@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vishal Sharma
+- Photo: https://www.vishalsharma.dev/
+- Location: Delhi, India
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/makeavish
+***
