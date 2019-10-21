@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nachiket Bhuta
+- Photo: https://avatars0.githubusercontent.com/u/30868728?s=460&v=4
+- Location: Mumbai, India
+- Bio: Full Stack Developer
+- Github: https://github.com/nachiketbhuta
+***
