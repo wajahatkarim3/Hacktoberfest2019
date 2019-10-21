@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### blazinggun
+- Photo: https://avatars0.githubusercontent.com/u/52755168?s=460&v=4
+- Location: Pittsburgh, USA
+- Bio: 📱 Software Engineer New Grad
+- Github: https://github.com/blasttrash
