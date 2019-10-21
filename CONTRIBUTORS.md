@@ -8,7 +8,7 @@
 ***
 
 ### Rishabh Ranka
-
+- Photo: https://avatars0.githubusercontent.com/u/56599651?s=400&v=4
 - Location: Indore, India
 - Bio: Coder . Learning coding languages . 🎤 Speaker .
 - Github: https://github.com/Rishabh000
