@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Irfan syed
+- Photo:https://irfansyed.me/
+- Location: Karachi, Pakistan
+- Bio: 📱 Android Developer 
+- Github: https://github.com/irfansyedpg
