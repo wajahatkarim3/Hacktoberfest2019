@@ -1,5 +1,11 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Fernando
+-photo
+-Location panadura
+-Bio beginner
+- Github https://github.com/chathukafernando
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
