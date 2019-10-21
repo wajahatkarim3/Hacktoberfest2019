@@ -105,6 +105,13 @@
 - Github: https://github.com/ASalomatin47
 *** 
 
+### Alex Salomatin
+- Photo: https://avatars2.githubusercontent.com/u/41446232?s=460&v=4
+- Location: Slovenia
+- Bio: Student
+- Github: https://github.com/tkolenc123
+*** 
+
 ### Muhammad Ahad
 - Photo: https://avatars3.githubusercontent.com/u/47399266?s=460&v=4
 - Location: Karachi, Pakistan
