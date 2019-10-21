@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ronit Maitra
+- Photo: (privacy preferred )
+- Location: West Bengal , India
+- Bio: Final year B.Tech . Open Source Contributor. Vocalist 🔥
+- Github: https://github.com/zon2
