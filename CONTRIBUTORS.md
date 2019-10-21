@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shivansh Mathur
+- Photo: https://avatars1.githubusercontent.com/u/53974195?s=460&v=4
+- Location: Rajasthan, India
+- Bio: 📱 React Native Developer . 📝Graphic Desgigner  
+- Github: https://github.com/PhoneixShivansh
