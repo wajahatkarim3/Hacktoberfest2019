@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ananya Reddy
+- Photo: N/A
+- Location: Guwahati,India
+- Bio: A student pursuing B.Tech at IIT Guwahati, new to coding , content writer,robotics enthusiast
+- Github: https://github.com/ananyareddy9
