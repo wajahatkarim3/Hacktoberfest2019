@@ -302,6 +302,12 @@
 -Bio: competitive programming, Student
 -Github: https://github.com/Sahil-Shende
 
+### Pankaj Kumar Mundhra
+-Photo: #
+-Location : Howrah, West baengal
+-Bio : Aspiring Engineer, stand up enthusiast
+-Github: https://github.com/saulstone
+
 ### Dionysus Cho
 - Photo: https://avatars0.githubusercontent.com/u/6611743?s=460&v=4
 - Location: Toronto, Canada
