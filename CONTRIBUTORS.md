@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sticky
+- Photo: 
+- Location: Florida, USA
+- Bio: 📱 Programmer . 💻 Open Source Contributor. Artist. Lover.
+- Github: https://github.com/Greensticky
