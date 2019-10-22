@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ayushi Srivastava
+Photo : N/A
+Location : Noida,Uttar Praesh , india
+Bio : C.S. Undergrad
+Github : https://github.com/srivastavayushi
