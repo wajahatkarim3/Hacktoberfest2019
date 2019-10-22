@@ -114,7 +114,7 @@
 
 ### Rishabh Kumar Singh
 - Photo:https://avatars3.githubusercontent.com/u/54996681?s=400&u=5add601d7d955744ca7c7ae09dbdff5179757955&v=4
-- Location: New Delhi, Indiahackathon
+- Location: New Delhi, India
 - Bio: Passionate Coder, Open Source Contributor, ML Ethusiast
 - Github:https://github.com/rishabhrks1208
 
@@ -421,4 +421,3 @@
 - Location: Salvador, Brasil
 - Bio: Student of computer engineering
 - Github: https://github.com/dfvneto
-***
