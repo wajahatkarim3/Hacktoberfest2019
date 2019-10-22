@@ -1,4 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
+### Nnamdi Michael Okpala
+- Photo: https://avatars0.githubusercontent.com/okpalan86
+- Location: Essex, United kingdom
+- Bio: 💻 Open Source Contributor . 📝Writer . 🎒 Student . 🎮  Gamer . 👕 Would like a new TShirt
+- Github: https://github.com/okpalan86
+***
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
