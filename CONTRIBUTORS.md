@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Juan Arrieta
+- Photo: N/A
+- Location: Barranquilla, Colombia
+- Bio: 💻 Aspiring Software developer
+- Github: https://github.com/thisaccountodesnotmatter
