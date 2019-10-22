@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Panudet Panumas
+- Photo: N\A
+- Location: Rangsit, Thailand
+- Bio: Noob Developer Thailand
+- Github: YOUR GITHUB URL https://github.com/panudet-24mb
+***
