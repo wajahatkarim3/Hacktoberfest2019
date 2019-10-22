@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Shirish Khedekar
+- Photo: N/A
+- Location: Panaji,Goa
+- Bio: Angular Dev
+- Github: www.github.com/ShirishKhedekar
+***
