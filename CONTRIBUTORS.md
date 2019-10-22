@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### M Riyadi MA
+- Photo : https://avatars1.githubusercontent.com/u/36019841?s=400&u=da06e58cc3a7404b69c2ab2299753eaaa8f88070&v=4
+- Location : Indonesia, West Java, Cianjur
+- Bio : Web Dev. Open Source Contributor. Writer. Speaker.
+- Github : https://github.com/mrmaskur
