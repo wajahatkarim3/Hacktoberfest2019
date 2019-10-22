@@ -114,7 +114,7 @@
 
 ### Rishabh Kumar Singh
 - Photo:https://avatars3.githubusercontent.com/u/54996681?s=400&u=5add601d7d955744ca7c7ae09dbdff5179757955&v=4
-- Location: New Delhi, India
+- Location: New Delhi, Indiahackathon
 - Bio: Passionate Coder, Open Source Contributor, ML Ethusiast
 - Github:https://github.com/rishabhrks1208
 
@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Domingos Neto
+- Photo: https://avatars0.githubusercontent.com/u/30246766?s=460&v=4
+- Location: Salvador, Brasil
+- Bio: Student of computer engineering
+- Github: https://github.com/dfvneto
+***
