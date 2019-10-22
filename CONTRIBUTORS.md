@@ -419,5 +419,5 @@
 ### Koushik Chowdhury
 - Photo: 
 - Location: Kharagpur, India
-- Bio: 💻 Softwear Developer Engineer. 
+- Bio: 💻 Software Developer Engineer. 
 - Github: https://github.com/koushikchowdhury2016
