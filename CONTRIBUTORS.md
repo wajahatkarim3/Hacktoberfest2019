@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shreya Singhal
+- Photo: N/A
+- Location : Pune, Maharashtra
+- Bio : Aspiring software engineer
+- Github: https://github.com/shreyasinghal09
