@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shubham Shah
+- Photo: N/A
+- Location: Rajkot, India
+- Bio: Android Developer,Enthusiastic for Augmented Reality 
+- Github: https://github.com/shubham2652
+
