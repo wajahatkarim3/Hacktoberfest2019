@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Thainá Monteiro
+- Photo: 
+- Location: Rio de Janeiro, Brasil
+- Bio: 💻 JAVA Developer
+- Github: https://github.com/thainamonteiro
+***
