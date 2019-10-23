@@ -220,6 +220,12 @@
 - Bio: 18
 - Github: https://github.com/AllenAJ
 
+### Мikhael Zinoviev Radomyslsky
+- Photo: https://avatars2.githubusercontent.com/u/56939630?s=400
+- Location: Kiev, Ukraine
+- Bio: 19 Y/O from Ukraine, probably learning how to program right now!
+- Github: https://github.com/sdikrip
+
 ### Miss Semicolon
 - Photo: https://avatars2.githubusercontent.com/u/44237253?s=460&v=4
 - Location: Abu Dhabi, UAE 
