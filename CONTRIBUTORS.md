@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### BHARAT MALIK
+- Photo: https://avatars1.githubusercontent.com/u/54993271?s=460&v=4
+- Location: DELHI, INDIA
+- Bio: OPEN SOURCE CONTRIBUTOR,ASPIRING ANDROID DEVELOPER
+- Github: https://github.com/bharat1999
+***
