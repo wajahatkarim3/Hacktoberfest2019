@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Merzak Seven
+- Photo: https://avatars3.githubusercontent.com/u/1176513?s=460&v=4
+- Location: Ghardaia, Algeria
+- Bio: Full Stack Developer
+- Github: https://github.com/merzak7
+***
