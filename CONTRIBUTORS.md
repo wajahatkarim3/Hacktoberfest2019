@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Federico Babrauskas
+- Photo: https://avatars1.githubusercontent.com/u/19313864?s=460&v=4
+- Location: Montevideo, Uruguay
+- Bio: Web Developer, Computer Engineering Student
+- Github: https://github.com/fedebabrauskas
+***
