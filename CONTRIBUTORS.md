@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rahul Thapliyal
+- Photo: N/A
+- Location: Jalandhar, India
+- Bio: Incoming SE at Microsoft. Android Developer.
+- Github: https://github.com/Rahul5758
