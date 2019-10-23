@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Yugansh Arora
+- Location: Indore, India
+- Bio: 📱 Android Developer . 💻 Game Developer .
+- Github: https://github.com/Yugansh91
