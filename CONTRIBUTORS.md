@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Fernanda Barreto Fonseca
+- Photo: https://avatars3.githubusercontent.com/u/24981576?s=460&v=4
+- Location: Salvador, Brazil
+- Bio: Physics student, DDOS Attack mitigation, CyberSecurity.
+- Github: https://github.com/Ploosh
+***
