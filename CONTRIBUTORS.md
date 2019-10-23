@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Praneeth Paikray
+- Photo: 
+- Location: Oakland, USA
+- Bio: 📱 Data Scientist . 💻 Beginning my Open Source Journey
+- Github: https://github.com/Praneeth16
