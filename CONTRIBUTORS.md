@@ -234,7 +234,7 @@
 
 ### Vidya Waruni Wimalasooriya
 - Photo: https://avatars0.githubusercontent.com/u/38793156?s=460&v=4
-- Location: Bandaragama,Srilanak
+- Location: Bandaragama,Srilanaka
 - Bio: Programmer(Java,C,PHP),Student(IT), Learner(Networking,VR,IoT,AI)
 - Github: https://github.com/VidyaWaruni
 ***
