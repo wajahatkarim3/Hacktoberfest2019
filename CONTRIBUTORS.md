@@ -1,5 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Chad Warren
+- Photo: https://imgur.com/a/onnmKBw
+- Bio: Student - Kenzie Academy - Full Stack Software Engineering, I enjoy graphic arts advertising, fishing, retro arcade gaming
+- Github: https://github.com/Nebuchadnezzar76/chadwarren.me
+***
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
