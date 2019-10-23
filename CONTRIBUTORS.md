@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jeffrey Ukutegbe
+- Photo: N/A
+- Location: Lagos, Nigeria
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/JeffCorp
