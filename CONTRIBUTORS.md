@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Manuel Gil
+- Photo: https://avatars0.githubusercontent.com/u/25472045?s=400&v=4
+- Location: Colombia
+- Bio: Technology consultant and development hobbyist.
+- Github: https://github.com/ManuelGil
