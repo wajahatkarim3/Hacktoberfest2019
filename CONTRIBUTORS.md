@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aaditya Umashankar
+- Photo:
+- Location: Coimbatore, India
+- Bio: Machine Learning enthusiast, Open Source contributor, Photographer
+- Github: https://github.com/aaditya47
