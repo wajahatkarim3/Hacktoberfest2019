@@ -415,3 +415,12 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Phoenix Nitta-Hill
+- Photo: N/A
+- Location: San Diego, California
+- Bio: Artist, movie goer, and aspiring visual programmer
+- Github: https://github.com/pNittaHill
+***
+
+
