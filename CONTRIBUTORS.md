@@ -1,10 +1,14 @@
 # Awesome Contributors of Hacktoberfest 2019
-
+### Aman Kumar
+- Location: Dhanbad,Jharkhand
+- Bio: Machine Learning Enthusiast and Competitive programmer
+- Github: https://github.com/wajahatkarim3
+***
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
-- Github: https://github.com/wajahatkarim3
+- Github: https://github.com/beastaman
 ***
 
 ### Tsung-Han Ho
