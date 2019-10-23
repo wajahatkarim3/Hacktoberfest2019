@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Sagar Sonwane
+- Photo: 
+- Location: Nashik, India
+- Bio: Student, Python Developer, Tech Lover, Interests : AI, ML
+- Github: https://github.com/sagar23sj
+***
