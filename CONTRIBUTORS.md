@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Steve Sioii
+- Photo: https://avatars2.githubusercontent.com/u/3331339?s=460&v=4
+- Location: Queen Creek, AZ USA
+- Bio: 💻 Front End Enginner, 👨‍👩‍👧‍👦 Husband & Father (of 3), 🏒 Hockey Enthusiast
+- Github: https://github.com/stevesioli
