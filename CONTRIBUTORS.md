@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Harpal Assi
+- Photo: N/A
+- Location: Austin, TX
+- Bio: Full-Stack Developer, Musician, Open-Source Contributor.
+- Github: https://github.com/harpalassi
+***
