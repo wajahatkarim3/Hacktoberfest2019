@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### John Ademola
+- Photo: https://avatars0.githubusercontent.com/u/23041448?s=400&u=597d6b531cb7634d3486fbbd42f1cb4760234698&v=4
+- Location: Lagos, Nigeria
+- Bio:  💻 C#, Flutter, Javascript, Developer. Open Source Contributor . 📝Writer .  👶 Father 
+- Github: https://github.com/Crownedprinz
+***
