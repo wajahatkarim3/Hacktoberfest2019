@@ -2,7 +2,7 @@
 - Photo: YOUR PHOTO URL
 - Location: Toronto, Canada
 - Bio: Scientist
-- Github: https://github.com/79212
+- Github: https://github.com/
 ***********************************
 
 ### Wajahat Karim
