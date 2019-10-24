@@ -1,5 +1,11 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Pritam Singh
+- Photo: https://avatars2.githubusercontent.com/u/27357082?s=400&u=b5ea1c3082e27773220b968b83893d32818a998b&v=4
+- Location: Pune, India
+- Bio: Quality Engineer, Security Researcher, Bug hunter
+- Github: https://github.com/PsOverflow
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
