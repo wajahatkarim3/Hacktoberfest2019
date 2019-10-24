@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ayush Nagal
+- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
+- Location: New Delhi, India
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/ayush163
