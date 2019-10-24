@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ingi Rodr
+- Photo: N/A
+- Location: Guayaquil, EC
+- Bio: 📱 Full Stack Developer, 💻 Ai Enthusiast, Gamer
+- Github: https://github.com/IngiRodr
