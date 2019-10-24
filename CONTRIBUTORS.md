@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aman Goyal
+- Location: Jaipur, Rajasthan
+- Bio: Beginner in programming and a 1'st year student of college. 
+- Github: https://github.com/Aman1727/CONTRIBUTORS.md/new/master
+***
