@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Deevanshu Guru
+- Photo: https://avatars2.githubusercontent.com/u/51968560?s=460&v=4
+- Location: India
+- Bio: Web Developer . 💻 Open Source Contributor . 📝Writer  
+- Github: https://github.com/deevanshuguru
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
