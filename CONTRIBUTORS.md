@@ -1,3 +1,10 @@
+### Nathan Tum
+- Photo: https://www.flaticon.com/free-icon/boy_145845
+- Location: East Lansing, USA
+- Bio: Data Scientist, Developer
+- Github: https://github.com/nathantum
+***
+
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Wajahat Karim
