@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rhea Shaan
+- Photo: 
+- Location: Japan
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor.
+- Github: 
