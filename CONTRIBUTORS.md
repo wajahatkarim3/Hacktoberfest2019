@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Arijit Ghosh Chowdhury
+- Photo: N/A
+- Location: New Delhi, India
+- Bio: Data Science Intern
+- Github: https://github.com/arijit1410
