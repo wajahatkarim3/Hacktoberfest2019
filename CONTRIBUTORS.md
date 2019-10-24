@@ -416,7 +416,7 @@
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
 
-### YOUR FULL NAME
+### Vaibhavi Narayanan
 - Photo: https://icon-library.net/icon/icon-avatars-12.html
 - Location: Bangalore, India
 - Bio: Software Engineer
