@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Felicio Rocha
+- Photo: N/A
+- Location: Calin, Mexico
+- Bio: CS student. Newbie.
+- Github: https://github.com/igu9
