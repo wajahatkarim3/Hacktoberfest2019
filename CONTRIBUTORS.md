@@ -35,6 +35,12 @@
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
 
+### Tsung-Han Ho
+- Photo: 
+- Location: Slovenia
+- Bio: Student
+- Github: http://github.com/listek1
+
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
 - Location: Bacolod, Philippines
