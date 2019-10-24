@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Marco Demartino
+- Photo: N/A
+- Location: Karlsruhe, Germany
+- Bio: Java Developer, Bodybuilder
+- Github: https://github.com/SuperMarcomen
