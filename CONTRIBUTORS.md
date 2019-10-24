@@ -63,6 +63,13 @@
 - Github: https://github.com/SalahudinMalik
 ***
 
+### Slon
+- Photo: 
+- Location: Slovenia
+- Bio: Student
+- Github: http://github.com/slonnoga
+***
+
 ### Sebastian Figg
 - Photo: https://avatars3.githubusercontent.com/u/38180375?s=40&v=4
 - Location: Sydney, Australia
