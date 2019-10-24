@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Mrga
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: Splovenia
+- Bio: Student
+- Github: https://github.com/mrgaprda
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
