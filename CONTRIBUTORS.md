@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Gurkirat Singh
+- Photo: https://avatars1.githubusercontent.com/u/28386721?s=96&v=4
+- Location: New Delhi, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor .
+- Github: https://github.com/tbhaxor
+***
