@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tanisha Sharda
+- Photo: https://github.com/Tanisha07.png
+- Location: Delhi, India
+- Bio: Android Developer, Java, Student
+- Github: https://github.com/Tanisha07
