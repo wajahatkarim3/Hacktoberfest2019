@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Super Colin
+- Photo: 
+- Location: Tennessee
+- Bio: 💻 Front End Developer 💻 Open Source Contributor(🔥 To Be!! 🔥)
+- Github: https://github.com/super-Colin
