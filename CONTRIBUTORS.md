@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Nezab
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: UK
+- Bio: Student
+- Github: https://github.com/nezab
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
