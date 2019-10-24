@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Sumit Kumar Mishra
--Photo: https://media.licdn.com/dms/image/C5103AQGuPdyT4Jgm7w/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=dbzZ4gtXbcHjLuHfhZGFceLIk_6cLUB1K9InzDEyhTY
--Location: Pune, India
--Bio: Beginner in full stack web development
--Github: https://github.com/coderskm
+- Photo: https://media.licdn.com/dms/image/C5103AQGuPdyT4Jgm7w/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=dbzZ4gtXbcHjLuHfhZGFceLIk_6cLUB1K9InzDEyhTY
+- Location: Pune, India
+- Bio: Beginner in full stack web development
+- Github: https://github.com/coderskm
