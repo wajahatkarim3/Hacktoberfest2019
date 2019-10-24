@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Aditi Yadav
+- Photo: https://avatars1.githubusercontent.com/u/47411661?s=400&u=9de72bc07c2f8b33af246e2c94061d8b7b90a6c1&v=4
+- Location: Ratlam, India
+- Bio:An undergraduate computer science student. open source contributer. Web Developer
+- Github: https://github.com/AditiYadav06
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
