@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kirti Motwani
+- Photo: https://avatars1.githubusercontent.com/u/41390641?s=460&v=4
+- Location: Mumbai,India
+- Bio: Web Developer, Designer, Artist. 
+- Github: https://github.com/Kirti-Motwani
+***
