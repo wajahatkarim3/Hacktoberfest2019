@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nikita Wilson
+- Photo: n/a
+- Location: Denver, Colorado & Charlotte North Carolina, USA
+- Bio: Computer Science Student, Grow With Google Android Developer,
+- Github:https://github.com/wilsonnikita13
