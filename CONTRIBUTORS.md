@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Aditya Trivedi
+- Photo: N/A
+- Location: Ahmedabad, India
+- Bio: CS Student, guitarist and photographer. Love Quizzing and Memes. TV Buff and movie fanatic.
+- Github :https://github.com/ad1tyat
