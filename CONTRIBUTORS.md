@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nimit Jain
+- Photo: N/A
+- Location: Delhi, India
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/jnimit99
