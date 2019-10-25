@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shadab Karim
+- Location: Patna, India
+- Bio: Student, Data Science Enthusiast
+- Github: https://github.com/dashftw
+***
