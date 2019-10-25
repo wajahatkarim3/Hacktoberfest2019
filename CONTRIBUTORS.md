@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vishal Kumar
+- Photo: https://avatars3.githubusercontent.com/u/25267239?s=460&v=4
+- Location: Bihar, India
+- Bio: A curious learner, on a way to become a kickass developer.
+- Github: https://github.com/vishalx360
