@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Daniel Cseh
+- Photo: 
+- Location: Kecskemét, Hungary
+- Bio: Beginner programmer, student
+- Github: https://github.com/c0d4ry
+***
