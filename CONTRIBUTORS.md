@@ -226,6 +226,12 @@
 - Bio: Coder, Gamer
 - Github: https://github.com/MissSemicolon
 
+### Abhinav Japesh
+- Photo: https://avatars0.githubusercontent.com/u/5537822?s=460&v=4
+- Location: kharagpur,kolkata
+- Bio: Expert in Software  Services
+- Github: https://github.com/akjapesh
+***
 ### AAVESH KUMAR SINHA
 - Photo: https://avatars3.githubusercontent.com/u/28723058
 - Location: Deoghar, India
