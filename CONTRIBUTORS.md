@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mizar
+- Photo: N/A
+- Location: Taoyuan, Taiwan
+- Bio: High school student
+- Github: https://github.com/lyh910
