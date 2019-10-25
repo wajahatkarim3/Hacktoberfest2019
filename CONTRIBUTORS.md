@@ -178,6 +178,12 @@
 - Bio: Junior Software Developer
 - Github: https://github.com/p2uyar
 
+### Rahul Nainala
+- Photo: https://avatars0.githubusercontent.com/u/43290758?s=460&v=4
+- Location: Bengaluru,India
+- Bio:💻 Engineer by passion
+- Github:https://github.com/rahulnainala
+
 ### Hatice Erdağı
 - Photo: 
 - Location: İstanbul, Turkey
