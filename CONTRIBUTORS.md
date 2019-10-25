@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Amit Kumar
+- photo: https://www.linkedin.com/in/amit-kumar-11360913a/detail/photo/
+- Location: Bihar, India
+- Bio: Java Developer, Ethical Hacker
+- Github: https://github.com/hackeramy
+***
