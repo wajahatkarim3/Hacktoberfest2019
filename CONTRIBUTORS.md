@@ -70,6 +70,13 @@
 - Github: https://github.com/mrillusion
 ***
 
+### André Rademacher
+- Photo: https://media.giphy.com/media/ZdCJ4G17h7lIsrYfLs/giphy.gif
+- Location: Dresden, Germany
+- Bio: Coding, kicking, catastrophic engine failure ;)
+- Github: https://github.com/andrerademacher
+***
+
 ### Mohammad Quanit
 - Photo: https://avatars1.githubusercontent.com/u/32056694?s=460&v=4
 - Location: Karachi, Pakistan
