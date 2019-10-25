@@ -1,4 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
+### Chathura Jayasanka
+- Photo: https://avatars2.githubusercontent.com/u/33270346?s=460&v=4
+- Location: Colombo,Sri Lanka
+- Bio: 💻 Fullstack Developer . 📝Blogger
+- Github: https://github.com/chathurajay1
+***
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
