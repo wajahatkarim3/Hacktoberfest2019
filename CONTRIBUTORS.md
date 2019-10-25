@@ -7,6 +7,12 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Rahmandika Haekal
+- -
+- Location : Central Java, Indonesian
+- Bio : Front-end Dev, Web Design, Consultant Web
+- Github : https://github.com/rahmandikahaekal
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
