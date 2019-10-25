@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Joe Ma. Aubrey A. Nequinto
+- Photo: https://avatars0.githubusercontent.com/u/17962823?s=400
+- Location: Laguna, Philippines
+- Bio: Backend Developer. Aspiring mobile developer. React Native.
+- Github: https://github.com/JoemaNequinto
+***
