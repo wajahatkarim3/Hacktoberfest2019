@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Divyanshu Mahajan
+- Photo: N/A
+- Location: Pilani, India
+- Bio: 📱 Front-End Web Developer . 💻 Open Source Contributor. Student
+- Github: https://github.com/dmahajan980
