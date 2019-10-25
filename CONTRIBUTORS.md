@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Afrin Siddiqui
+- Photo: 
+- Location: Lucknow, India
+- Bio: AI student, Photographer, Astrophysics Enthusiast
+- Github: https://github.com/afrin7
