@@ -14,6 +14,12 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Thomas Vilan
+- Photo: https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fi%2F12sb1p&psig=AOvVaw0w9kPTcujCzRGn4Vop9HQN&ust=1572122216573000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCdguehuOUCFQAAAAAdAAAAABAW
+- Location: Florida, United States
+- Bio: Big what
+- Github: https://github.com/Solumeus
+
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
