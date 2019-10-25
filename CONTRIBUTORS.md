@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Isaac Cardoso
+- Photo: N/A
+- Location: Dallas, TX
+- Bio: Software developer, Cyber Security enthusiast and lifelong learner. 
+- Github: https://github.com/cardosoIsaac
