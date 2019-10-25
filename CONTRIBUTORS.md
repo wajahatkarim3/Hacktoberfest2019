@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rujhan Arora
+- Photo: YOUR PHOTO URL
+- Location: Gurgaon, India
+- Bio: Software Engineer. Will start contributing to open source.
+- Github: https://github.com/rujhanArora
+***
