@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### 3DK
+- Photo: N/A
+- Location: Mikkeli, Finland
+- Bio: Gamer | GameDev | Maker
+- Github: https://github.com/3dkfi
