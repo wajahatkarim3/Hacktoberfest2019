@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhay Maniyar
+- Photo: https://avatars3.githubusercontent.com/u/17759582?s=460&v=4   
+- Location: Bangalore, India
+- Bio: Full Stack Developer . History Enthusiast 
+- Github: https://github.com/abhaymaniyar
