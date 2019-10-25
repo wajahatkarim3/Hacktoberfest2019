@@ -65,10 +65,10 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 3. Edit the file and insert your short profile with the following text
 ```
 ### YOUR FULL NAME
-- Photo: YOUR PHOTO URL
-- Location: YOUR CITY, COUNTRY
-- Bio: YOUR 1-2 LINES BIO
-- Github: YOUR GITHUB URL
+- Photo: https://www.bmu.edu.in/wp-content/uploads/2019/01/acm_head2.jpg
+- Location: Jaipur, India
+- Bio:  I am a student who has spent his entire school life trying to be the best in every possible field be it leadership, public speaking, technology, analytical skills, coding skills. Being born in an era of technology, I realized it very early in my life that this is going to be an integral part of our society. In the future, I look forward to taking all my knowledge and managerial skills and applying them in the real world for its betterment
+- Github: https://github.com/shivang2k
 ***
 ```
 Here's an example of my profile
