@@ -419,6 +419,6 @@
 ### Mizar
 - Photo: N/A
 - Location: Taoyuan, Taiwan
-- Bio: High school student
+- Bio: student, C++, data analysis
 - Github: https://github.com/lyh910
 ***
