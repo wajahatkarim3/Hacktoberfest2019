@@ -418,7 +418,7 @@
 
 ### Jade Legare
 - Photo: N/A
-- Location: Totonto, Canada
+- Location: Toronto, Canada
 - Bio: Software engineer. Project Creator. 💻
 - Github: https://github.com/JadeLegare
 ***
