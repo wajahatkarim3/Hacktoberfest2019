@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Theerapat Kateja
+- Photo: N/A
+- Location: Lampang, Thailand
+- Bio: Web Programer, Gamer
+- Github: https://github.com/oofteerapud02
