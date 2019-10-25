@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Wahyu Arif Purnomo
+- Photo: https://avatars2.githubusercontent.com/u/28912230?s=460&v=4
+- Location: Yogyakarta, ID
+- Bio: I can make what I like, I can get what you get, and I can destroy what I don't like.
+- Github: https://github.com/warifp
