@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Logan Ice
+- Photo: https://pbs.twimg.com/profile_images/1108778851545554945/mu1RrfoO.png
+- Location: St. Louis, USA
+- Bio: Consultant and code-dabbler
+- Github: https://github.com/iceicelogan
