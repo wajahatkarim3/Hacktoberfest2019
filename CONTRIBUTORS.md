@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jenn Gladney
+- Photo: NA
+- Location: Oklahoma, USA
+- Bio: Cybersecurity Engineer, Front End Web Developer 
+- Github: https://github.com/jennrenee626
+
