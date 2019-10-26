@@ -160,6 +160,13 @@
 - Bio: Data Analyst
 - Github: https://github.com/maxutil
 
+### Taung-Han Ho
+- Photo: null
+- Location: Taipei, Taiwany
+- Bio: Master
+- Github: http://github.com/Myystes-CS
+***
+
 ### Divya Sharma
 - Photo: https://pasteboard.co/IzZVgRB.jpg
 - Location: Delhi,India
