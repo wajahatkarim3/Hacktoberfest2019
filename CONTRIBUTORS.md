@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Avinash Thakur
+- Photo: https://avatars2.githubusercontent.com/u/19588421
+- Location: J&K, India
+- Bio: Student, Roboticist
+- Github: https://github.com/80avin
+***
