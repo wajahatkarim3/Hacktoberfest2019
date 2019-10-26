@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Judson Kerller
+- Photo: https://avatars2.githubusercontent.com/u/44353658?s=400&u=f55c3524aa89f6d01449b041eb7a6ea73c84bae3&v=4
+- Location: Rio Grande do Norte, BRA
+- Bio: 💻 Open Source Contributor. Gamer Developer . Gamer 🔥
+- Github: https://github.com/juds-kerller
