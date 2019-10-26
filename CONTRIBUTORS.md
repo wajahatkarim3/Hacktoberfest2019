@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Chaiturocks633
+- Photo: N/A
+- Location: Maharashtra, India
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/judyz01
