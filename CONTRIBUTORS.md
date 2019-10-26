@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Ashu khan
+- Photo: https://armour100.githubusercontent.com/u/8867121?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker 
+- Github: https://github.com/armour100
+***
