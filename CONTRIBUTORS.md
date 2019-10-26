@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Priyank Singh
+- Photo: https://avatars2.githubusercontent.com/u/12710227?s=40&v=4
+- Location: Jaipur, India
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
+- Github: www.github.com/PreYunk
