@@ -6,6 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Shaurya Jain
+- Photo : https://avatars3.githubusercontent.com/u/56737878?s=400&u=54ff264d845a46f15a3ff6f64f92529d4988bd29&v=4
+- Location : Faridabad, Haryana
+- Bio : Creator , Coder
+- Github : https://github.com/shaurj
 
 ### Tsung-Han Ho
 - Photo: 
