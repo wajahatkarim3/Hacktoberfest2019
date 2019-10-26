@@ -419,5 +419,5 @@
 ### Dina N
 - Photo: 
 - Location: Almaty, KZ
-- Bio: Full Stack Developer
+- Bio: Full Stack Developer (https://www.linkedin.com/in/dina-nassyrkhan-674007177/)
 - Github: https://github.com/ndina
