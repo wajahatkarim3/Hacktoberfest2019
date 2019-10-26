@@ -326,6 +326,12 @@
 - Bio : Ungradutate Software Engineering at plymouth uni | Web Content Writer | arduino developer | IEEE member
 - Github : https://github.com/PasinduSan
 
+### Chrais Chaung
+- Photo: https://avatars3.githubusercontent.com/u/48533021?v=4
+- Location: Los Angeles, United States
+- Bio: Data Analyst
+- Github: https://github.com/maxutil
+
 ### Alif Naufal
 - Photo: https://avatars3.githubusercontent.com/u/49275855?s=460&v=4
 - Location: Bandung, Indonesia
