@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Atir
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: Lahore, Pakistan
+- Bio: 📱 Software Developer . 💻 Open Source Contributor 
+- Github: https://github.com/atir11122
+***
 
 ### Tsung-Han Ho
 - Photo: 
