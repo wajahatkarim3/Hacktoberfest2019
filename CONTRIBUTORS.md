@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Damian Rotta
+- Location: CABA, Argentina
+- Bio: Shameless tryharder
+- Github: https://github.com/Dipiert
