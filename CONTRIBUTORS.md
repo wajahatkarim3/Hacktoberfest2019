@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pooja Patidar
+- Photo: N/A
+- Location: Mandi,Himachal Pradesh, India
+- Bio: Student
+- Github: http://github.com/pooja21082001
