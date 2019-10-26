@@ -415,3 +415,12 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+     
+
+### ASHU SHARMA
+
+   - Photo:
+    -Location: india
+    -Bio: UX-design student trying to figure out some Git :)
+    -Github: https://github.com/armour100
