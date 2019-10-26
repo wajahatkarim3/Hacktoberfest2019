@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### alokgoldy
+- Photo: N/A
+- Location: Nawada, Bihar, India
+- Bio: Computer Science Student
+- Github: https://github.com/alokgoldy
