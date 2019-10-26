@@ -91,6 +91,14 @@
 - Github: https://github.com/SkyC0der
 ***
 
+
+### Yavo Butani
+- Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
+- Location: Ahmedabad, India
+- Bio: Android/Flutter 
+- Github: https://github.com/pratikuibutani
+***
+
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
 - Location: Karachi, Pakistan
