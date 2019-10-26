@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Joshua Hsueh
+- Photo: N/A
+- Location: Virginia, USA
+- Bio: Aspiring in AI
+- Github: https://github.com/HyperionLegion
