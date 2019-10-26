@@ -338,6 +338,13 @@
 - Bio: Student and want to be a Data Scientists
 - Github: https://github.com/alifnaufalyasin
 
+### Lisa dqa Silvay Azevedo
+- Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
+- Location: Salvador, Brazill
+- Bio: Computer Engineering Student, DevOps, CyberSecurity
+- Github: https://github.com/lisazevedo
+***
+
 ### Kasun nirosh
 - Photo:
 - Location: colombo,srilanka
