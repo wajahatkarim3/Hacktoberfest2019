@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### NAVYA UNNIKRISHNAN
+- Location: KERALA, INDIA
+- Bio: Software developer, budding artist
+- Github: https://github.com/Naviunni
