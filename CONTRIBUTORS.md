@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhishek Das
+- Photo: https://avatars1.githubusercontent.com/u/27828475?s=400&u=b62486a053f3eac7bd0726234e29350082d02de6&v=4
+- Location: Kolkata, India
+- Bio: 📱 ML Entusiast . 💻 Open Source Contributor. 📝 Writer . 🎤 Anchor 
+- Github: https://github.com/Abhi-thecoder
