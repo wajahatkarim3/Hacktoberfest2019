@@ -380,6 +380,12 @@
 - Bio: Android Developer, Open Source Contributor, Gamer, C++ & Java Developer
 - Github: https://github.com/DavidG33k
 
+### Vimal Kumawat
+- Photo: N/A
+- Location: Jodhpur, India
+- Bio: Android Developer, Gamer & Java Developer
+- Github: https://github.com/vimalk29
+
 ### Josev Rodriguez
 - Photo: https://avatars2.githubusercontent.com/u/23058920?s=460&v=4
 - Location: Barquisimeto, Venezuela
