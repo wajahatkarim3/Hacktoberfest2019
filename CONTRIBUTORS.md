@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Dhiren Kokal
+- Photo:
+- Location: Mumbai, India
+- Bio: BSC Computer Science Student
+- Github: https://github.com/dhirenkokal
