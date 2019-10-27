@@ -1,3 +1,4 @@
+
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Wajahat Karim
@@ -415,3 +416,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rahul Thomas
+- Photo: https://avatars.githubusercontent.com/u/56933002?s=460&v=4
+- Location: Kerala, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor. Web Designer
+- Github: https://github.com/Mr.RZ-ML
