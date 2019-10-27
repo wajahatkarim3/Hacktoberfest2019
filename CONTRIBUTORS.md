@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Manpreet Singh
+- Photo: fb.com/manpreet9097
+- Location: India
+- Bio: IT Student 🔥
+- Github: https://github.com/msromi
