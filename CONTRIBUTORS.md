@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Karthik Ianala
+- Photo: https://drive.google.com/open?id=1W-zLCERxp8DhuWSdDtWUvFq6Mi6OqWeQ
+- Location: Hyderabad, India
+- Bio: Gamer . Writer 
+- Github: https://github.com/karthikianala
+***
