@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### rupesh kumar
+- Photo: N/A
+- Location: chennai, INDIA
+- Bio: ctudent
+- Github:https://github.com/rupesh8601
