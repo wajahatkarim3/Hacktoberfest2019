@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sohil Ladhani
+- Photo: https://avatars2.githubusercontent.com/u/2020729?s=400&v=4
+- Location: Bengaluru, India
+- Bio: Software Engineer, Thinker, Open Source Contributor
+- Github: https://github.com/sohilladhani
