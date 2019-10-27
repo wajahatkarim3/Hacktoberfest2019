@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Garry 
+- Photo: 123
+- Location: India
+- Bio: # Data Science #
+- Github: https://github.com/adf
