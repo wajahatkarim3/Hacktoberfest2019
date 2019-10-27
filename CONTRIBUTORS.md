@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Artur Bauer
+- Photo: https://avatars0.githubusercontent.com/u/27014858?s=460&v=4
+- Location: Wrocław, Poland
+- Bio: Robotic and Automation Student
+- Github: https://github.com/ArturBa
+***
