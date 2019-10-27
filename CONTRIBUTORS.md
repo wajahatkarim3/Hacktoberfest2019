@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### YOUR FULL NAME
+- Photo: https://avatars1.githubusercontent.com/u/23207971?s=150&v=4
+- Location: Kansas City, USA
+- Bio: Computer Science student
+- Github: https://github.com/Kh4lil
+***
