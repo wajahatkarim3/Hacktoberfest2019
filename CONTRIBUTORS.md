@@ -420,3 +420,8 @@
 - Location:Kannur,Kerala, India
 - Bio: 📱 Android Developer. 💻 Open Source Contributor.Python,C
 - Github: https://github.com/nuvish04
+### Dango
+- Photo: 
+- Location: Kerala,India
+- Bio: Designer, Backend Developer, Gamer(R6S)
+- Github: https://github.com/dangosp
