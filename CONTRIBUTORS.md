@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Justin John 
+- Photo: none
+- Location: New York, New York
+- Bio: Computer Engineer 
+- Github: https://github.com/jjohn50 
