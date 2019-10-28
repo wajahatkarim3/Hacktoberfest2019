@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Leandro Lima
+- Photo: https://avatars0.githubusercontent.com/u/17753354?s=460&v=4
+- Location: Fortaleza, Brazil
+- Bio: Full Stack Developer, passionate about the Javascript environment 😍 Node.js / React Native / React.js 📱 💻 
+- Github: https://github.com/limaleandro1999
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
