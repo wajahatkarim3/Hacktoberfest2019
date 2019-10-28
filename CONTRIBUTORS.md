@@ -33,8 +33,7 @@
 - Location: Connecticut, United States
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
-
------------
+***
 
 ### Lis da Silva Azevedo
 - Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
