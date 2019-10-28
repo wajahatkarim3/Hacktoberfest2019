@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Memunat Manzuma
+- Photo: https://twitter.com/zaarab001
+- Location: Minna, Nigeria
+- Bio: PHP . Cloud Computing. Python
+- Github: https://github.com/zaarab001
