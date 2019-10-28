@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Adari lasya swetha
+- Photo: 
+- location : Andhra pradesh, India
+- Bio: competitive programmer , student , web developer , writer.
+- Github: https://github.com/lasyaswetha
