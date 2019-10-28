@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### NeoxN3il
+- Photo: https://avatars3.githubusercontent.com/u/57082943?s=400&u=91240d07c338b1d33aa80530eae44ff8230a62a4&v=4
+- Location: Kolkata, IND
+- Bio: Junior Web Developer, Open Source Contributor, Artist 🔥
+- Github: https://github.com/X3NOSIZ
