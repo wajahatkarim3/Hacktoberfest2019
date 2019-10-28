@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Baihaqi Luhur Pangestika
+- Photo: N/A
+- Location: Semarang, Jawa tengah , Indonesia
+- Bio: 📱 Android Developer . 💻 Open Source Contributor 
+- Github: https://github.com/baihaqilp
