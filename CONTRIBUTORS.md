@@ -5,7 +5,6 @@
 - Location: Maracanaú, Brazil
 - Bio: I'm a development who like teamwork and love learn about web new technologies and Marvel.
 - Github: https://github.com/jonh1036
-
 ***
 
 ### Wajahat Karim
