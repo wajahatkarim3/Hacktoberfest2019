@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Denver Arquiza
+- Photo: https://avatars0.githubusercontent.com/u/25611209?s=460&v=4
+- Location: Manila, Philippines
+- Bio: Open Source Contributor
+- Github: https://github.com/loginaccount
