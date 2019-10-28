@@ -112,6 +112,12 @@
 - Github: https://github.com/muhammadahad96
 ***
 
+### Bara252
+- Location: India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker  
+- Github: https://github.com/wajahatkarim3
+***
+
 ### Rishabh Kumar Singh
 - Photo:https://avatars3.githubusercontent.com/u/54996681?s=400&u=5add601d7d955744ca7c7ae09dbdff5179757955&v=4
 - Location: New Delhi, India
