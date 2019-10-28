@@ -50,9 +50,9 @@
 ***
 
 ### Prabal Gupta
--Photo: https://avatars2.githubusercontent.com/u/44517177?s=400&u=d66fb2d02d931502f0f694c24b96facd03820620&v=4
--Location : Bangalore, India
--Bio: MICROSOFT STUDENT PARTNER | GLUG MVIT | MOZILLA | SOPHOMORE YEAR AT SMVIT
+- Photo: https://avatars2.githubusercontent.com/u/44517177?s=400&u=d66fb2d02d931502f0f694c24b96facd03820620&v=4
+- Location : Bangalore, India
+- Bio: MICROSOFT STUDENT PARTNER | GLUG MVIT | MOZILLA | SOPHOMORE YEAR AT SMVIT
 - Github: https://github.com/prabalgupta12
 ***
 
