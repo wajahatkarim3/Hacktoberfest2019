@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Hugo Addobbati
+
+- Location: Campina Grande, Brazil
+- Bio: Web Developer
+- Github: https://github.com/hugoaddobbati
