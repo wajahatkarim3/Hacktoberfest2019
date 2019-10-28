@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Michele Mazza
+- Photo: https://avatars3.githubusercontent.com/u/7353871?s=460&v=4
+- Location: Pisa, Italy
+- Bio: Python developer
+- Github: https://github.com/mclmza
+***
