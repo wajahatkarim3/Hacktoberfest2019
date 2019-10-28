@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Daniel Fears
+- Photo: https://avatars2.githubusercontent.com/u/10845939?s=460&v=4
+- Location: England
+- Bio: DevOps Engineer, dabbling in open source for the first time!
+- Github: https://github.com/danielfears
