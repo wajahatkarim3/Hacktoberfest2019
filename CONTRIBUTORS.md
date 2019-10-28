@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Melaina Valentine
+- Photo: https://avatars2.githubusercontent.com/u/38020465?s=460&v=4
+- Location: Everett, United States
+- Bio: Current (Fall 2019) General Assembly Software Engineering Fellow. Hoping to make the world a better place through code.
+- Github: https://github.com/Emme313
+***
