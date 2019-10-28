@@ -279,6 +279,12 @@
 - Bio: Full Stack web developer.
 - Github: https://github.com/hosseinSafari
 
+### Farha Salim 
+- Photo: 
+- Location: Kerala, India
+- Bio: Writer. Computer Science Engineering student. Strives for the well being of the society.
+- Github: https://github.com/techmate29
+
 ### Chathurangi Jayawardana
 - Photo: 
 - Location: SriLanka
