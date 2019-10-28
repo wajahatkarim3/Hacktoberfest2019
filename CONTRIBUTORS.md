@@ -1,7 +1,7 @@
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Kushal Dev
-- Photo: https://www.google.com/search?q=taj+mahal&sxsrf=ACYBGNRR-yqxBBxju1VXhtMjMgAhmmShKw:1572264956241&tbm=isch&source=iu&ictx=1&fir=ILjjBFySuAgmJM%253A%252CAddACQH75wmmLM%252C_&vet=1&usg=AI4_-kTjhR3mhGOezCeEV2E1Rv5YRj3qSw&sa=X&ved=2ahUKEwjwoNax977lAhUKU30KHQ7XDbgQ9QEwBXoECAcQOQ#imgrc=ILjjBFySuAgmJM:
+- Photo: https://www.smartertravel.com/uploads/2019/07/taj-mahal-1400x500.jpg
 - Location: Kota, Rajasthan
 - Bio: 📱 ML . 💻 Open Source Contributor . 📝 Blogger . 
 - Github: https://github.com/wajahatkarim3
