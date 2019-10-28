@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shashank Vaidyar
+- Photo: N/A
+- Location: New Delhi, India
+- Bio: Upcoming 🔥 Graphic Designer and 💻 Developer. Love to get swags from hacktoberfest.
+- Github: https://github.com/shashankvaidyar123
