@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Swapnil Pal
+- Photo:
+- Location: West Bengal,India
+- Bio: Open source contributer,Student,computer sceince engineer
+- Github: https://github.com/swapnil131099
