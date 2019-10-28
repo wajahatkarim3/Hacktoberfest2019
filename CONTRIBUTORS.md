@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Eetu Eskelinen
+- Photo: https://avatars1.githubusercontent.com/u/12832880?s=460&v=4
+- Location: Tampere, Finland
+- Bio: UX Designer 👽Web developer 🤘
+- Github: https://github.com/eppu/
+***
