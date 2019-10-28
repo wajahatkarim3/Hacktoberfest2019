@@ -42,6 +42,7 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+***
 
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
