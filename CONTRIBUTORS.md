@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### William C
+- Photo: https://avatars0.githubusercontent.com/u/31721348?s=460&v=4
+- Location: San Jose, United States
+- Bio: Aspiring Coder, Student
+- Github: https://github.com/ozymandias6118
