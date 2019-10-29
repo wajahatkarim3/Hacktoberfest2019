@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+
+### Avi Kumar Meshram
+- Photo:https://www.google.com/search?q=messi&rlz=1C1CHBF_enIN855IN855&sxsrf=ACYBGNRC-ObGMkR6d3PDPrBayEiXmIERbA:1572349124343&tbm=isch&source=iu&ictx=1&fir=pO8QzEHI4goW4M%253A%252CjmDj7fsfdF7jzM%252C%252Fm%252F06qjgc&vet=1&usg=AI4_-kQzMZc_xByLiX6OMxrVoJwJLS5LaA&sa=X&ved=2ahUKEwiftpP4sMHlAhU0H7cAHVJhBHMQ_B0wJ3oECAoQAw#imgrc=pO8QzEHI4goW4M:
+- Location:Ranchi,India
+- Bio: ReactJS Developer . 💻 Open Source Contributor . badminton player
+- Github: https://github.com/avi181197
+***
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
