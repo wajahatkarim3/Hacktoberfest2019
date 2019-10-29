@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhiroop Agarwal
+- Photo: https://images.app.goo.gl/hhMVsiH1zJHF7rqq8
+- Location: Uttar Pradesh, Agra
+- Bio: 📱 Android Developer . 💻 Python and C/C++ Developer . 📝 Content Writer 
+- Github: https://github.com/abhiroopwastaken
+***
