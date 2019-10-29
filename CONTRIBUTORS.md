@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Anubhaw Bhalotia
+- Photo: https://avatars1.githubusercontent.com/u/25582146?s=460&v=4
+- Location: India
+- Bio: Student
+- Github: https://github.com/anubhawbhalotia
