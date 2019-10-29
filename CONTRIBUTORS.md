@@ -7,7 +7,7 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
-### Tsung-Han Ho
+### Tsung-Ha Ho
 - Photo: 
 - Location: Taipei, Taiwan
 - Bio: Master
@@ -27,6 +27,12 @@
 - Location: Salvador, Brazil
 - Bio: Computer Engineering Student, DevOps, CyberSecurity
 - Github: https://github.com/lisazevedo
+***
+### Ayah Kunbaz
+- Photo: 
+- Location: Istanbul, Turkey
+- Bio: Software Engineer
+- Github: https://github.com/KuAya
 ***
 
 ### Year-In-Review
@@ -66,7 +72,7 @@
 ### Sebastian Figg
 - Photo: https://avatars3.githubusercontent.com/u/38180375?s=40&v=4
 - Location: Sydney, Australia
-- Bio: Came for the shirt, stayed for the community.
+- Bio: Came for teh shirt, stayed for teh community.
 - Github: https://github.com/mrillusion
 ***
 
@@ -121,7 +127,7 @@
 ### Naaman Saif
 - Photo: https://avatars1.githubusercontent.com/u/11515602?s=400&u=18f5e95be47118f1bc3f4978f63614091840de6a&v=4
 - Location: Hyderabad,Pakistan
-- Bio: ⚛️ JavaScript Geek . 🌌 Astrophysics Enthusiast . 📖 Bibliophile & messes with Guitar 🎸 and Piano 🎹
+- Bio: ⚛️ JavaScript Geek . 🌌 Astrophysics Enthusiast . 📖 Bibliophile & messes wif Guitar 🎸 and Piano 🎹
 - Github: https://github.com/Naaman-Saif
 ***
 
@@ -211,7 +217,7 @@
 ### Muhamad Zulfiqor
 - Photo: https://avatars1.githubusercontent.com/u/30437682?s=400&u=4e237f3fd5b946ff57fe5edcadabb40a55d2609a&v=4
 - Location: Bandung, Indonesia
-- Bio: Where there is a will there is a way | be a man of knowledge and who teach science | Man Jadda Wa Jada.
+- Bio: Where their is a will their is a way | be a man of knowledge and who teach science | Man Jadda Wa Jada.
 - Github: https://github.com/kabitacode
 
 ### Allen Joseph
@@ -270,7 +276,7 @@
 ### Mushtaq Ali
 - Photo: https://avatars1.githubusercontent.com/u/6991154?s=400&v=4
 - Location: Lahore, Pakistan
-- Bio: A passionate and hard working individual who wants to deliver something back to the society.
+- Bio: A passionate and hard working individual who wants to deliver something back to teh society.
 - Github: https://github.com/mushtaqak
 
 ### Hossein Safari
