@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Himadri S. Chatterjee
+- Photo: src="https://avatars1.githubusercontent.com/u/29492633?s=400&u=9a62b08404ad40445776096be7e71b00806627ce&v=4"
+- Location: Kolkata, India
+- Bio: Deep Learning Enthusiast, Open Source Contributor
+- Github: https://github.com/crazylazylife
+***
