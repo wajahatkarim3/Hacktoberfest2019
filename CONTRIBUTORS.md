@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Elle Kuiper
+- Photo: N/A
+- Location: Michigan, US
+- Bio: Beginner willing to try at something new
+- Github: https://github.com/DragonSlayer1212
