@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anett Soos
+- Photo: https://avatars0.githubusercontent.com/u/4069140?s=460&v=4
+- Location: London, United Kingdom
+- Bio: 👩🏼‍💻 JavaScript developer . 💅SASS wizzard . 🤦‍Squiz Matrix administrator 
+- Github: https://github.com/soosa
+***
