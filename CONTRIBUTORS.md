@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Deepraj Pandey
+- Photo: https://avatars3.githubusercontent.com/u/15888623?s=460&v=4
+- Location: New Delhi, India
+- Bio: RISC-V ftw!
+- Github: https://github.com/DeeprajPandey
