@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jkingz Rule
+- Photo: 
+- Location: Davao, Philippines
+- Bio: Web Developer
+- Github: https://github.com/jkingz
+***
