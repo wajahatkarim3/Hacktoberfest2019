@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Akash Kaushik
+- Photo: https://avatars3.githubusercontent.com/u/57136867?s=460&v=4
+- Bio: 📱New to Open Source!!
+- Github: https://github.com/imakashkaushik
+***
