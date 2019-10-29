@@ -41,6 +41,9 @@
 - Bio: Web Developer 
 - Github: https://github.com/samcode23
 ***
+### skvg
+- Location: hamirpur, India
+- Bio: student
 
 ### Pratik Butani
 - Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
