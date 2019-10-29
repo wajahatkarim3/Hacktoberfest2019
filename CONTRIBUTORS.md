@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sarat Mishra
+- Photo: N/A
+- Location: Okemos, MI
+- Bio: Software QA
+- Github: https://github.com/SaratMishra
