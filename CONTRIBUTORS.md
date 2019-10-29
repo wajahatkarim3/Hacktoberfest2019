@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### HoodElliot
+- Photo: N/A
+- Location: Crete, Greece
+- Bio: Support Engineer
+- Github: https://github.com/HoodElliot
