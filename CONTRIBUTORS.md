@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Blake Johnston
+- Photo: https://avatars.githubusercontent.com/johnstonbl01
+- Location: Fayetteville, AR, USA
+- Bio: Developer. Dad. Beer Aficionado. 
+- Github: https://github.com/johnstonbl01
