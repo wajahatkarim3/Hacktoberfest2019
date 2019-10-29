@@ -28,6 +28,12 @@
 - Bio: Computer Engineering Student, DevOps, CyberSecurity
 - Github: https://github.com/lisazevedo
 ***
+### Ayah Kunbaz
+- Photo: 
+- Location: Istanbul, Turkey
+- Bio: Software Engineer
+- Github: https://github.com/KuAya
+***
 
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
