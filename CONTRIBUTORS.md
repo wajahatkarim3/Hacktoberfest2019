@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Bruna Castelo
+- Photo: 
+- Location: Belo Horizonte, Brazil
+- Bio: Backend Developer
+- Github: https://github.com/brunacastelo
