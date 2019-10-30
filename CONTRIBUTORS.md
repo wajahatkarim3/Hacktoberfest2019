@@ -13,7 +13,12 @@
 - Bio: Master
 - Github: http://github.com/Mystes-CS
 ***
-
+### Nikhil Bhatnagar
+- photo:-
+- location: Bangalore,India
+- Bio: Open source Contibutor
+- Github: https://github.com/nblar
+***
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
