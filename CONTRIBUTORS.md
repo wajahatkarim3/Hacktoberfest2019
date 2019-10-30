@@ -14,6 +14,13 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Bernardo Vilela
+- Photo: 
+- Location: Natal, Brazil
+- Bio: Student
+- Github: http://github.com/1brnardo
+***
+
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
