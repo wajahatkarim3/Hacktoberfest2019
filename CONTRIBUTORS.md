@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ali Can Kuştemur
+- Photo: https://avatars1.githubusercontent.com/u/10732568?s=460&v=4
+- Location: Istanbul, Turkey
+- Bio: 📱 DevOps / SRE . 💻 Open Source Contributor
+- Github: https://github.com/alicankustemur
