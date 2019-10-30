@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Muhammad Arsalan Manzoor 
+- Photo: N/A
+- Location: Karachi, Pakistan
+- Bio: Programmer, Student
+- Github: https://github.com/arsalan98m
