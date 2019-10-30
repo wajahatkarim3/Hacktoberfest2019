@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Hameed Abdul
+- Photo: https://avatars1.githubusercontent.com/u/20171200?s=400&u=1c41adf17df3cf201b9e2f01eb19272904602209&v=4
+- Location: Tapia, Wakanda
+- Bio: The fact that you read this makes me giggle
+- Github: https://github.com/hammania689
