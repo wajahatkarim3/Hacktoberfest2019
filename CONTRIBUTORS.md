@@ -154,6 +154,14 @@
 - Bio: Software Engineer & Technical Writer
 - Github: https://github.com/saqemlas
 
+### Branden Morgan
+- Photo: https://avatars2.githubusercontent.com/u/11184835?v=4
+- Location: Atlanta, GA
+- Bio: Student and CyberSecurity Enthusiast
+- Github: https://github.com/brandmorg
+***
+
+
 ### Chris Chung
 - Photo: https://avatars3.githubusercontent.com/u/48533021?v=4
 - Location: Los Angeles, United States
