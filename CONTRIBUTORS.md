@@ -19,4 +19,10 @@
 - Location: Manchester, United Kingdom
 - Bio: Front-End Developer
 - Github: https://github.com/julicheng
+
+### Bahaa Noah
+- Photo: https://avatars2.githubusercontent.com/u/30296100?s=460&v=4
+- Location: Cairo, Egypt
+- Bio: Software Engineer
+- Github: https://github.com/bahaaNouh
 ***
