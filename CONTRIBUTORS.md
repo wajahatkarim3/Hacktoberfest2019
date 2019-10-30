@@ -420,4 +420,4 @@
 - Photo: https://lh5.googleusercontent.com/C4sc9OAhvidKtpmXxUyLQK_YHO5zr__EtxtM_gGIZg9kpFqcMRcXdmJTedDDXAGrLCEqw9Ln9XetJBigNgfwQFq2Taw8RnI4axHvAwF5VE8FFPLZWNs=w371
 - Location: Tamil Nadu, India
 - Bio: Undergrad . Love math, physics and chemistry
-- Github: github.com/bor3d
+- Github: https://github.com/bor3d
