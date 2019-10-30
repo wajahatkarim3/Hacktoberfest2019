@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Winston Smith
+- Photo: https://avatars1.githubusercontent.com/u/906946?s=460&v=4
+- Location: Brooklyn, New York, USA
+- Bio: Software Developer that loves math and wants to start contributing more to open source :)
+- Github: https://github.com/sequentialchaos
