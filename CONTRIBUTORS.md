@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Lakshya Singh
+- Photo: https://photos.app.goo.gl/WMLaPh9AmjraEsAn9
+- Location: Jaipur, India
+- Bio: C++ Coding, Java Frontend Developer, DBMS
+- Github: https://github.com/king-11
