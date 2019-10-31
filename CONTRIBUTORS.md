@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pascal Cousland
+- Photo: I am hideous
+- Location: Germany
+- Bio: 💻 Full Stack Developer
+- Github: https://github.com/gh05d
+***
