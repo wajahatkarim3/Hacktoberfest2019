@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Justin Schweppe
+- Photo: 
+- Location: Kansas City, USA
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor.
+- Github: https://github.com/j-schwepp
