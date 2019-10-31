@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Diana H
+- Photo: https://avatars0.githubusercontent.com/u/4687354?s=460&v=4
+- Location: Germany
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/diana48
