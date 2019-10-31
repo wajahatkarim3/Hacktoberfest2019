@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Tanmay Srivastava
+- Photo: https://avatars2.githubusercontent.com/u/26853437?s=400&u=b0c47f378b47506074873ed029a889fbd08ef635&v=4
+- Location: Hyderabad, India
+- Bio: 💻 Open Source Contributor . 🎤 Singer .  🎒 Student 
+- Github: https://github.com/Tanmay17
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
