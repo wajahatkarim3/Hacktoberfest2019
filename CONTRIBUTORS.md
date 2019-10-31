@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sagar Mhantati
+- Photo: https://drive.google.com/file/d/1WJrRuI75I2HtC2_It5ZsVvPdeJV8ajX8/view
+- Location: Sangli, India
+- Bio: Student
+- Github: https://github.com/AnishriM
