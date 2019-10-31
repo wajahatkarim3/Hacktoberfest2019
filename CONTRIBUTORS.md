@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rafael Geronimo
+- Photo:
+- Location: Curitiba, Brazil
+- Bio: Aspiring Web Developer
+- Github: https://github.com/rafaelgeronimo
