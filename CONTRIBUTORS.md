@@ -1,6 +1,6 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### YOUR FULL NAME
+### Philemon Petit-Frere
 - Photo: https://avatars1.githubusercontent.com/u/42811110?s=460&v=4
 - Location: Fort Myers, FL
 - Bio: JAVA Developer, Software Engineer
