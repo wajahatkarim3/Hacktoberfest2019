@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Matt Bear
+- Photo: https://avatars2.githubusercontent.com/u/55423155?s=460&v=4
+- Location: Melbourne, Australia
+- Bio: Full stack JavaScript developer
+- Github: https://github.com/mattdotam
