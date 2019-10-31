@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Dale Vincent
+- Photo:
+- Location: Philippines
+- Bio: .NET Developer
+- Github: https://github.com/daleaguil
