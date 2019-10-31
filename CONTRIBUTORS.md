@@ -166,6 +166,12 @@
 - Bio: Coder | Graphic Designer | Engineer
 - Github: https://github.com/Caretaker7
 
+### Kshitij Alwadhi
+- Photo:
+- Location: Delhi, India
+- Bio: Coder | Electrical engineer | IITD
+- Github: https://github.com/kshitijalwadhi
+
 ### İsmet Batansu
 - Photo:
 - Location: İstanbul, Turkey
