@@ -395,8 +395,11 @@
 ### Magnus Paulsen
 - Photo:
 - Location: Norway
-- Bio: UX-design student trying to figure out some Git :)
-- Github: https://github.com/powni
+### Anik Datta
+- Location: NOIDA,DELHI NCR, INDIA
+- Bio: Engineering Student
+- Github: https://github.com/ANIK-DATTA
+
 
 ### Kundan Kumar
 - Photo:
