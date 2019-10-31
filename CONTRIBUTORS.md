@@ -14,6 +14,12 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Alisha Bhambhani
+- Photo: N/A
+- Location: Karnataka, India
+- Bio: Learner
+*** 
+
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
