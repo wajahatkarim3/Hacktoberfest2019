@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mario Pugh
+- Photo:
+- Location: Seattle, Washington
+- Bio: Computer Science Student
+- Github: https://github.com/marioepugh
