@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### John-reid Adams
+- Photo: N/A
+- Location: Cape Town, South Africa 
+- Bio: Aspiring Developer
+- Github: https://github.com/ItsThatDevJohnAgain
