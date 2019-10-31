@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### linzi-a
+- Photo: N/A
+- Location: Kerala,INDIA
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/linzi-a
