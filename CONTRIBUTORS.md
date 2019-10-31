@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Danilo Heroso de Deus Pereira
+- Photo: https://avatars0.githubusercontent.com/u/486996?s=400&v=4
+- Location: Porto Alegre, Brazil
+- Bio: Service Manager and Technology Enthusiast
+- Github: github.com/danmaxis/
+***
