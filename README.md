@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/wajahatkarimcom/image/upload/v1569872594/AwesomeContributors_cover.jpg)
+﻿![](https://res.cloudinary.com/wajahatkarimcom/image/upload/v1569872594/AwesomeContributors_cover.jpg)
 
 <h1 align="center"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fwajahatkarim3%2FHacktoberfest2019&text=Are%20you%20ready%20for%20%23Hacktoberfest%202019%3F%20Support%20Open%20Source%20in%20October%20and%20earn%20a%20limited%20edition%20T-shirt%21%20by%20contributing%20your%20profile%20in%20Awesome%20Contributors%20by%20@WajahatKarim&hashtags=DigitalOcean%2CThePracticalDev%2Copensource%20">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"/>
@@ -81,6 +81,9 @@ Here's an example of my profile
 - Github: https://github.com/wajahatkarim3
 ***
 ```
+### Biswa 
+-Location: Dubai
+-Bio : Android Developer
 4. Now click on Commit button.
 5. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 8. Wait for your Pull Request review and merge approval!
