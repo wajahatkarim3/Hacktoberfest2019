@@ -1,5 +1,6 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
@@ -415,3 +416,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Hemant Kumar
+- Photo: https://avatars2.githubusercontent.com/u/12673491?s=400&v=4
+- Location: Bangalore, India
+- Bio: 📱 Web Developer . 💻 Open Source Contributor . 📝Writer . 📝SOLR 
+- Github: https://github.com/hemantkadyan
+***
