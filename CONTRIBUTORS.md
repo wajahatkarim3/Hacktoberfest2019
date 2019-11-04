@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rabindra Tamang
+- Photo: https://avatars0.githubusercontent.com/u/25865816?s=400&v=4
+- Location: Kathmandu, Nepal
+- Bio: Web Developer, Guitarist, Art Enthusiast
+- Github: https://github.com/rabindratamang
