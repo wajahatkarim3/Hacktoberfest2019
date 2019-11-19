@@ -232,6 +232,12 @@
 - Bio: Programmer(Java, C, Python), Student(Engineering), Learner(Machine Learning, Cloud, Internet of Things)
 - Github: https://github.com/AaveshK
 
+### Paulo Octavio Araujo
+- Photo: https://avatars0.githubusercontent.com/u/14055201?s=460&v=4
+- Location: São Paulo, Brazil
+- Bio: Programmer(Python), Student(Engineering), Learner(Machine Learning)
+- Github: https://github.com/paulooctavio
+
 ### Yash Kumar Arora
 - Photo: https://avatars2.githubusercontent.com/u/41463797?s=460&v=4
 - Location: Dehradun, India
