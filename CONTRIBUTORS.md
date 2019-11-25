@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### YOUR FULL NAME
+- Photo: N/A
+- Location: Calicut , India
+- Bio: Competitive Coding , Python Programmer
+- Github: https://github.com/CodeWizrd001
+***
