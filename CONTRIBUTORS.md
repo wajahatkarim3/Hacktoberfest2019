@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Harry Kummerspeck
+- Photo: https://avatars0.githubusercontent.com/u/12488187?s=96&v=4
+- Location: Avalon, NJ
+- Bio: Rank beginner
+- Github: https://github.com/han-k
