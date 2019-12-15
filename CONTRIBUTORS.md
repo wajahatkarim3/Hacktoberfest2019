@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kim Kinal
+- Photo: https://avatars3.githubusercontent.com/u/56196485?s=400&v=4
+- Location: Pursat, Cambodia
+- Bio: Machanical Engineering Student, into Science and Technology
+- Github: https://github.com/kimkinal
