@@ -404,6 +404,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor .
 - Github: https://github.com/guy34code
 
+### Alumanda Shakankale
+-Photo:https://github.com/alushaks
+-Locationn: Lusaka Zambia
+-Bio:Developer Mentor Trainer
+-Github:https://github.com/alushaks
+
 ### judyz01
 - Photo: N/A
 - Location: Davis, California
