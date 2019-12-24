@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jose Carlos de Lima Junior (kvasir)
+- Photo: https://avatars1.githubusercontent.com/u/28787559?s=400&v=4
+- Location: Goiania, Brazil
+- Bio: Computer enginners student, programmer in Js, C++ and leaning elixir..  💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/CarlosKvasir/
+***
