@@ -49,6 +49,13 @@
 - Github: https://github.com/pratikbutani
 ***
 
+### Alice Chu
+- Photo: https://i1.rgstatic.net/ii/profile.image/279427210199057-1443632046627_Q512/Alice_Chu4.jpg
+- Location: DC, USA
+- Bio: Java beginner, student
+- Github: https://github.com/pinkangelin4u
+***
+
 ### Nishant Raj
 - Photo: 
 - Location: Banaglore, India
