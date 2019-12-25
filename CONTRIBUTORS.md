@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ur-wish11
+- Photo: N/A
+- Location: jabalpur,india
+- Bio: B.E in elec. and telecommunication , coder ,open-source contributer
+- Github: https://github.com/Ur-wish11
+***
