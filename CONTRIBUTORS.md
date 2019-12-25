@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kajal Katiyar
+- Photo: N/A
+- Location: Gujarat, India
+- Bio: API Gateways
+- Github: https://github.com/kajalkatiyar
