@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ishaan Goyal
+- Photo: YOUR PHOTO URL
+- Location: Chandigarh, India
+- Bio: Newbie to the coding Community
+- Github: https://github.com/Ishaan0905
