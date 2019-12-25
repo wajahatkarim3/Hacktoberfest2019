@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nibba
+-photo: https://images.app.goo.gl/2B1ThA8n5mcSd6EZ7
+-loaction: NA
+-Bio: Competitive Programmer
+- No Link
