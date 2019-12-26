@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Manthan Saxena
+- Photo: https://avatars2.githubusercontent.com/u/28861436?s=400&u=67537e2145e56beaba297b7ef99614ad907e7773&v=4
+- Location: Delhi, India
+- Bio: Open Source Contributor, Gamer, C++  and web developer
+- Github: https://github.com/acidus101
