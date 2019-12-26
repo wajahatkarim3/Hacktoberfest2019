@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Manish Kungwani
+- Photo: https://avatars3.githubusercontent.com/u/673367?s=400&v=4
+- Location: Nagpur, India
+- Bio: 📱 Mobile + Full Stack Developer . 💻 Open Source Novice
+- Github: https://github.com/manishkungwani
