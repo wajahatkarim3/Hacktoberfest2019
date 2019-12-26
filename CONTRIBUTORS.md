@@ -84,6 +84,13 @@
 - Github: https://github.com/kamransarwar
 ***
 
+### Alvin Zippo
+- Photo: https://avatars3.githubusercontent.com/u/44273767?s=40&v=4
+- Location: Spain, Europe
+- Bio: Computer Scientist
+- Github: https://github.com/A1zippo1
+***
+
 ### Emmanuel Ezenwigbo
 - Photo: https://res.cloudinary.com/skycoder/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1567289385/IMG-20181016-WA0040_tnatg9.jpg
 - Location: Edo, Nigeria
