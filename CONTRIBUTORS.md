@@ -20,6 +20,12 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Wajahat Karim
+
+- Location: Italy
+- Bio: 📱  Developer . 💻 Open Source Contributor . 👶 Father 
+- Github: https://github.com/andreaq
+
 -----------
 
 ### Lis da Silva Azevedo
