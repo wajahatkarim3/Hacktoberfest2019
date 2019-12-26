@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mounika Smitha
+- Photo: 
+- Location: Andhra Pradesh, India
+- Bio: Full Stack Web Developer
+- Github: http://github.com/kallepallimounikasmitha
