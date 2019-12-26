@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sumitesh Naithani
+- Photo: https://avatars3.githubusercontent.com/u/30365680?s=460&v=4
+- Location: Jaipur, India
+- Bio: 📱 College Student . 💻 Open Source Enthusiast.
+- Github: https://github.com/sumitesh9
