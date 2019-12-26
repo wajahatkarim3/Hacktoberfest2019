@@ -20,6 +20,11 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Mikah Reddy
+- Location: South Africa
+- Bio: Software Engineer. Mr Robot fan. Gamer. 
+- Github: https://github.com/Aeonwolf
+
 -----------
 
 ### Lis da Silva Azevedo
