@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Laverena Wienclaw
+- Photo: https://avatars2.githubusercontent.com/u/16946370?s=96&v=4
+- Location: Akron, United States
+- Bio: TinyCircuits Computer Engineer
+- Github: https://github.com/Lennevia
