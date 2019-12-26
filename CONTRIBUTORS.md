@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### QiXing
+- Photo: N/A
+- Location: Singapore, Singapore
+- Bio: Java Developer . 💻 Open Source Contributor
+- Github: https://github.com/QI-XING
