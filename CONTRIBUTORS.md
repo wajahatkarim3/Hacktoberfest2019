@@ -279,6 +279,12 @@
 - Bio: Full Stack web developer.
 - Github: https://github.com/hosseinSafari
 
+### Kunal Kumar Shrivastava
+- Photo:N/A
+- Location: Jabalpur, India
+- Bio:  Aspiring Software Engineer 
+- Github: https://github.com/Kunalkshrivastava
+
 ### Chathurangi Jayawardana
 - Photo: 
 - Location: SriLanka
@@ -415,3 +421,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kunal Kumar Shrivastava
+- Photo:N/A
+- Location: Jabalpur, India
+- Bio:  Aspiring Software Engineer 
+- Github: https://github.com/Kunalkshrivastava
+
