@@ -410,8 +410,8 @@
 - Bio: Aspiring Software Engineer
 - Github: https://github.com/judyz01
 
-### Mark Wood
-- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
-- Location: Oakland, USA
-- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
-- Github: https://github.com/MorkWood2
+### M Alvin Ramadhan
+- Photo: https://avatars0.githubusercontent.com/u/24661720?s=460&v=4
+- Location: Jakarta, Indonesia
+- Bio: Computer Science Student, Mobile Developer
+- Github: https://github.com/MAlvinR
