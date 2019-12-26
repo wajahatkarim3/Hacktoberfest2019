@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Pavel Saha
+- Photo: https://avatars1.githubusercontent.com/u/46861098?s=400&u=37c60dc11d99cabbbd9f7b731b7ada409f341a39&v=4
+- Location: Kolkata, India
+- Bio: taking part in the hacktoberfest for the first time :D , also an enthusiastic student ;)
+- Github: https://github.com/pavel5133
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
