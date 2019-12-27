@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anastasia
+- Photo: 
+- Location: Helsinki, Finland
+- Bio: 📚 Translator . ✍️ Technical Writer
+- Github: https://github.com/sixelalexis
