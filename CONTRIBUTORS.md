@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Junior Pereira
+- Photo: https://avatars2.githubusercontent.com/u/9344161?s=460&v=4
+- Location: Recife, PE, BR
+- Bio: Full Stack Developer, Consultant.
+- Github: https://github.com/pereiraJr
