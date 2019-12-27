@@ -21,6 +21,13 @@
 - Github: https://github.com/phyre1337
 
 -----------
+### Ali Azaz Alam
+- Photo: https://avatars2.githubusercontent.com/u/12116478?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Android Application Developer 📱. Open Source Contributor . 📝Writer
+- Github: https://github.com/aliazaz
+
+-----------
 
 ### Lis da Silva Azevedo
 - Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
