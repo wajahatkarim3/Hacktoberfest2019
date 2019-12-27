@@ -401,8 +401,7 @@
 ### Kundan Kumar
 - Photo:
 - Location: New Delhi, India
-- Bio: 📱 Android Developer . 💻 Open Source Contributor .
-- Github: https://github.com/guy34code
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 
 
 ### judyz01
 - Photo: N/A
@@ -415,3 +414,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kam149
+- Photo: 
+- Location: Dewas, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . C++ Developer . Interested in Machine Learning and AI . 
+- Github: https://github.com/Kam149
+***
