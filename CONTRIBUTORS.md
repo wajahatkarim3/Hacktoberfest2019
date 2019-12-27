@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Sandrico Provo
+- Photo: https://avatars2.githubusercontent.com/u/46389203?s=400&u=893b62cc427ea375c65ff7b16b51906859ba783d&v=4
+- Location: Halifax, Nova Scotia, Canada
+- Bio: I am a Web Programming student who loves writing CSS and JavaScript 💪🏾.
+- Github: https://github.com/sandricoprovo
