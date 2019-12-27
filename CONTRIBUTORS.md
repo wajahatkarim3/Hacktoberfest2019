@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vina Compson
+- Photo: N/A
+- Location: Melb, Australia
+- Bio: 📱Junior Full Stack Developer 
+- Github: https://github.com/vamisola
