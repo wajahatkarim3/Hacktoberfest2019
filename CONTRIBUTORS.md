@@ -413,5 +413,12 @@
 ### Mark Wood
 - Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
 - Location: Oakland, USA
-- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
+- Bio: Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ditikrushna Giri 
+- Photo: https://ditikrushna.github.io/images/avatar.jpg
+- Location: Trichy, India 
+- Bio: Competitive programmer and Self proclaimed Deep Learning and Computer Vision enthusiast 
+- Github: https://github.com/ditikrushna
+***
