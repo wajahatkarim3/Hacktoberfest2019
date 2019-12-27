@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kurt Bauer
+- Photo: N/A
+- Location: New York, New York
+- Bio: Full-Stack Developer 👨🏽‍💻
+- Github: https://github.com/krtb
