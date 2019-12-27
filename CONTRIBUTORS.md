@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Madhup Prakash
+- Photo: N/A
+- Location: Prayagraj, Uttar Pradesh, India
+- Bio: Student
+- Github: https://github.com/coderdoze
