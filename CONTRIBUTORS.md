@@ -168,7 +168,7 @@
 
 ### İsmet Batansu
 - Photo:
-- Location: İstanbul, Turkey
+- Location: Istanbul, Turkey
 - Bio: 💻 Software Developer .
 - Github: https://github.com/ismetbatansu
 
@@ -281,7 +281,7 @@
 
 ### Chathurangi Jayawardana
 - Photo: 
-- Location: SriLanka
+- Location: Sri-Lanka
 - Bio: Trainee Software Engineer
 - Github:https://github.com/ChathurangiJayawardana
 
@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+###Azhan Ali
+-Photo :
+-Location : Hamirpur, India
+-Bio: Aspiring SAoftware Download
+=Github : https://github.com/azhanali
+***
