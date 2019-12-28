@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mohamamd Wahyu Sanusi Putra
+- Photo: https://avatars2.githubusercontent.com/u/41946040?s=460&v=4
+- Location: Jakarta, Indonesia
+- Bio: 📱 Frontend Developer
+- Github: https://github.com/mwahyusp
