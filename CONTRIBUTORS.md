@@ -20,6 +20,11 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Jeff Pinckney
+- Photo: https://unsplash.com/s/photos/forest
+- Location: Eagle Mountain, Utah
+- Bio: Web Developer . Noob . Father . Open Source Contributor . I love the mountains and the forest
+- Github: https://github.com/jpinckney
 -----------
 
 ### Lis da Silva Azevedo
