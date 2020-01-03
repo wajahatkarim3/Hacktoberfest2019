@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nauman Ahmad
+- Photo: https://avatars2.githubusercontent.com/u/38850139?s=400&v=4
+- Location: Karachi, Pakistan
+- Bio: 💻 Web Developer . 📱 Android Developer . 💻 Open Source Contributor . 📔 Student .
+- Github: https://github.com/naumanahmad9
+***
