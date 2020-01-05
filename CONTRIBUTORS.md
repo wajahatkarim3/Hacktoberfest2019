@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anıl Şenay
+- Photo: 
+- Location: Istanbul, Turkey
+- Bio: Android Developer, Front-End Developer, Open Source Contributor.
+- Github: https://github.com/anilsenay
