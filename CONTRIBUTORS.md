@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Yusuf Delvi
+- Photo: https://avatars2.githubusercontent.com/u/34205099?v=4
+- Location: Karnataka, India
+- Bit: Web Developer. Freelancer. Mobile apps
+- Github: https://github.com/yusuf-delvi
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
