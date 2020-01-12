@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sergi Marquez
+- Photo: https://avatars1.githubusercontent.com/u/33057331?s=400&u=8e1751d62782d92debaa742ead689124bf5f95da&v=4
+- Location: Barcelona, Spain
+- Bio: Web Dev 💻
+- Github: https://github.com/sergimarquez
