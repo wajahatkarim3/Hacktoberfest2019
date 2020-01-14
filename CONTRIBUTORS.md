@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Erlan Saputra
+-Photo:
+-Location: Indonesia
+-Bio: Junior Software Developer
+-Github: https://github.com/Erlansaputra
