@@ -1,9 +1,9 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
-- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
-- Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
+### Kushal Dev
+- Photo: https://www.smartertravel.com/uploads/2019/07/taj-mahal-1400x500.jpg
+- Location: Kota, Rajasthan
+- Bio: 📱 ML . 💻 Open Source Contributor . 📝 Blogger . 
 - Github: https://github.com/wajahatkarim3
 ***
 
@@ -11,7 +11,7 @@
 - Photo: 
 - Location: Taipei, Taiwan
 - Bio: Master
-- Github: http://github.com/Mystes-CS
+- Github: http://github.com/devkushal23
 ***
 
 ### Christian Torres
