@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Ashutosh Maheshwari
+- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
+- Location: Indore, India
+- Bio: 📱 Competitive Programmer
+- Github: https://github.com/ashutosh210798
