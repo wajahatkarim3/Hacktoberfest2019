@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Yashwant
+- Photo: https://avatars0.githubusercontent.com/u/21121279?s=460&v=4
+- Location: Haryana India
+- Bio: Android Developer . Full Stack Developer . Opengenus Writer . Machine Learning Enthusiast 
+- Github: https://github.com/meyash
+***
