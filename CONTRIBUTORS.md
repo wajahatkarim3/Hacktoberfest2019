@@ -69,6 +69,12 @@
 - Bio: Came for the shirt, stayed for the community.
 - Github: https://github.com/mrillusion
 ***
+### Ghous Ahmed
+- Photo: https://avatars3.githubusercontent.com/u/25761034?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Expert Front-end and Back-End Developer with expertise in React / React Native
+- Github: https://github.com/ghousshah
+***
 
 ### Mohammad Quanit
 - Photo: https://avatars1.githubusercontent.com/u/32056694?s=460&v=4
