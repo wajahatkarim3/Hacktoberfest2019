@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Joas Antonio
+- Photo: N/A
+- Location: São Paulo, Brazil
+- Bio: Information Security, Dev Python
+- Github: https://github.com/CyberSecurityUP
+***
