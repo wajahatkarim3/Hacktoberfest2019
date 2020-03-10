@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pratik Sinha
+- Photo: N/A
+- Location: Bhubaneswar, India
+- Bio: Web developer, gamer, student, open source contributor
+- Github: https://github.com/beasthunter758/
