@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Stuti Sharma
+- Photo: https://avatars2.githubusercontent.com/u/39763929?s=400&u=ed3fba9a94983b29e9faca8ebd4ae4ccf20fdb80&v=4
+- Location: Punjab, India
+- Bio: An open source enthusiast, pursuing Bachelors of technology in Computer Science.
+- Github: https://github.com/devstuti1
