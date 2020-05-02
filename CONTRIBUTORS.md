@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Arushi Aggarwal
+- Photo: https://github.com/spooktobyeet
+- Location: Delhi,India
+- Bio: I exist to commit
+- Github: 
+***
