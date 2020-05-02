@@ -90,6 +90,12 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Karthik Nannepamula
+-Photo:
+-Location:Erode,India
+-Bio:Student,Python Programmer,Web developer
+-Github:https://github.com/KarthikNannepamula
+***
 
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
