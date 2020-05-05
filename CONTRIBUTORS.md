@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Benedikt Gavran
+- Photo: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51107111_1336219196520834_717752991519604736_n.jpg?_nc_cat=108&_nc_oc=AQliKmNso5A_fOnHEckzZQ4T4NzcLrGhYXx9a_lOWzi0RhcQdMYo7YgDLvPzHPZzZ90&_nc_ht=scontent-vie1-1.xx&oh=33c7df4952fcef919373ddf0dc7a007f&oe=5E632C2E
+- Location: Vienna, Austria
+- Bio: Web Developer, Software Engineer, Media Engineering, Designer, Photographer, IT Student
+- Github: https://github.com/EverMarr
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
