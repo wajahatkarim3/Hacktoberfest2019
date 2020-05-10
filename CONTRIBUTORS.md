@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nigel Yong
+- Photo: https://avatars0.githubusercontent.com/u/23243585?s=460&v=4
+- Location: Montreal, Quebec
+- Bio: CS Student
+- Github: http://github.com/niyonx
+***
