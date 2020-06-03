@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### JOHN ACHIMUGU
+- Photo: https://avatars3.githubusercontent.com/u/56762617?s=460&v=4
+- Location: Enugu, Nigeria
+- Bio: Web Designer . Open source Contributor
+- Github: https://github.com/Johnalex-hub
