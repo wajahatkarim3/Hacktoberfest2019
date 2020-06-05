@@ -20,6 +20,12 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+
+### Isaac Anohene
+- Photo: https://mobile.twitter.com/anohene1/photo
+- Location: Kumasi, Ghana
+- Bio: Android Developer . Web Developer . Flutter
+- Github: https://github.com/anohene1
 -----------
 
 ### Lis da Silva Azevedo
