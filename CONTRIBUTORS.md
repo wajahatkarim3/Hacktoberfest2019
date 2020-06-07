@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhilasha Sinha
+- Photo: https://avatars2.githubusercontent.com/u/43816262?v=4
+- Location: Ranchi, India
+- Bio: Deep Learning Enthusiast. Competitive Programmer. 
+- Github: https://github.com/Abhilasha06
