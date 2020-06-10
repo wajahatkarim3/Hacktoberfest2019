@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ziane Maamar
+- Photo: 
+- Location: Tipaza, Alegria
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Web Designer 👨‍💻
+- Github: https://github.com/drxdesign
