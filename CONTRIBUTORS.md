@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Auralshin
+- Photo:
+-Location: Bangalore, India
+-bio: 💻  Web Developer . 💻 Open Source Contributor  📱 Android Developer
+-Github: http://github.com/auralshin
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
