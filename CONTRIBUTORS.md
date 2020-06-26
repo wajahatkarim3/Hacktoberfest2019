@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Gabriel Garcia
+- Photo: https://avatars1.githubusercontent.com/u/54416706?s=460&v=4
+- Location: Tijuana,Mexico
+- Bio: computer systems engineering student 💻 Open Source Contributor
+- Github: https://github.com/GarciaG1
