@@ -20,6 +20,11 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Kasun nirosh
+- 
+- Location: colombo,srilanka
+- Bio: 📱 web Developer,MIS📝Writer . 🎤 Speaker . 👶 Father 
+- Github: https://github.com/Kasun14
 -----------
 
 ### Lis da Silva Azevedo
