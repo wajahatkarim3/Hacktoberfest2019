@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ro Kleine Sonne
+- Photo: https://avatars2.githubusercontent.com/u/459217?s=460&v=4
+- Location: Bagsværd, Denmark
+- Bio: Let's get a cool T-shirt... :D
+- Github: https://github.com/Razorsheep
+
