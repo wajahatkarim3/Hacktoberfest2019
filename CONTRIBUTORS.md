@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ankit Garg
+- Photo: https://www.google.com/search?q=iron+man+image&sxsrf=ACYBGNTttgrsISprV9nAU4Ca6H7TKdk_DA:1571042760985&tbm=isch&source=iu&ictx=1&fir=heInFSc9XOzYJM%253A%252C__jglVyRvar_VM%252C_&vet=1&usg=AI4_-kQncLwzvqMFb-VYAG440bzHgEOyPA&sa=X&ved=2ahUKEwiS7cetrpvlAhWo73MBHdKeBjQQ9QEwAnoECAcQCA&biw=1517&bih=730#imgrc=heInFSc9XOzYJM
+- Location: UP,India
+- Bio: 📱 Machine Learning Enthusiast . 💻 Open Source Contributor . Musician . Dancer
+- Github: https://github.com/ankitgargsma
