@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Lauren Eggers
+- Photo: https://avatars2.githubusercontent.com/u/32617510?s=460&v=4
+- Location: Worcester, MA
+- Bio: 💻  Full Stack Developer, 👶 Mom
+- Github: https://github.com/Aliecake/
+***
