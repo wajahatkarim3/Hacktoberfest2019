@@ -3,7 +3,7 @@
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
+- Bio: Android Developer . Open Source Contributor . Writer . Speaker . 
 - Github: https://github.com/wajahatkarim3
 ***
 
@@ -19,6 +19,12 @@
 - Location: Connecticut, United States
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
+
+### Edwin Boon
+- Photo: ""
+- Location: Ermelo, Netherlands
+- Bio: 📱 Front-end Developer . 💻 Open Source Contributor . 👶 Father 
+- Github: https://github.com/edwinboon
 
 -----------
 
