@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Faizal Mahmood
+- Photo: 
+- Location: Dhanbad , INDIA 
+- Bio: Full Stack Developer , Open Source Contributor , Student
+- Github: https://github.com/Astra09
+***
