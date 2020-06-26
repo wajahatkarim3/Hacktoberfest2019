@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Abhishak Varshney
+- Photo: https://www.google.com/search?q=abhishak+varshney&tbm=isch&source=iu&ictx=1&fir=HdpgYJZdPDrW3M%253A%252CgzCVV-AVsENHMM%252C:
+- Location: Gurugram, India
+- Bio: Machine Learning Engineer . Open Source Contributor . Writer . Speaker . 
+- Github:https://github.com/abhishakvarshney
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
