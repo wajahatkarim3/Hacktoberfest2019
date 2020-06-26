@@ -3,12 +3,12 @@
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
-- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
+- Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father
 - Github: https://github.com/wajahatkarim3
 ***
 
 ### Tsung-Han Ho
-- Photo: 
+- Photo:
 - Location: Taipei, Taiwan
 - Bio: Master
 - Github: http://github.com/Mystes-CS
@@ -38,7 +38,7 @@
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
 - Location: Bacolod, Philippines
-- Bio: Web Developer 
+- Bio: Web Developer
 - Github: https://github.com/samcode23
 ***
 
@@ -50,9 +50,9 @@
 ***
 
 ### Nishant Raj
-- Photo: 
+- Photo:
 - Location: Banaglore, India
-- Bio: 📱 Android Developer 
+- Bio: 📱 Android Developer
 - Github: https://github.com/coolnishant
 ***
 
@@ -103,7 +103,7 @@
 - Location: Tel Aviv, Israel
 - Bio: 📱 Android Developer. Started developing in 2018, have several projects published on Google Play.
 - Github: https://github.com/ASalomatin47
-*** 
+***
 
 ### Muhammad Ahad
 - Photo: https://avatars3.githubusercontent.com/u/47399266?s=460&v=4
@@ -132,7 +132,7 @@
 - Github: https://github.com/itch96
 
 ## Charlye
-- Photo: 
+- Photo:
 - Location: Vigo, Galicia, Spain
 - Bio: Programmer and drummer
 - Github: https://github.com/costassolla
@@ -145,7 +145,7 @@
 
 ## Jasch Shah
 - Location: Pune, India
-- Bio: 📱 Android Developer  📝Writer 
+- Bio: 📱 Android Developer  📝Writer
 - Github: https://github.com/jasch-shah
 
 ## Salem Qemlas
@@ -173,15 +173,15 @@
 - Github: https://github.com/ismetbatansu
 
 ### P. Pelin Uyar
-- Photo: 
+- Photo:
 - Location: Izmir,Turkey
 - Bio: Junior Software Developer
 - Github: https://github.com/p2uyar
 
 ### Hatice Erdağı
-- Photo: 
+- Photo:
 - Location: İstanbul, Turkey
-- Bio: 💻 Softwear Developer . 
+- Bio: 💻 Softwear Developer .
 - Github: https://github.com/haticeerdagi
 
 ### José Matheus do Nascimento Gama
@@ -222,7 +222,7 @@
 
 ### Miss Semicolon
 - Photo: https://avatars2.githubusercontent.com/u/44237253?s=460&v=4
-- Location: Abu Dhabi, UAE 
+- Location: Abu Dhabi, UAE
 - Bio: Coder, Gamer
 - Github: https://github.com/MissSemicolon
 
@@ -239,7 +239,7 @@
 - Github: https://github.com/arora-yash
 
 ### SEAN CHAMBERS
-- Photo: 
+- Photo:
 - Location: AUSTIN, TEXAS
 - Bio: Software Engineering Manager at Indeed
 - Github: https://www.github.com/schambers
@@ -256,7 +256,7 @@
 - Github - https://github.com/anshul1098
 
 ###  Ross Henderson
-- Photo: 
+- Photo:
 - Location: Sandbach, UK
 - Bio: Oracle APEX Developer, HTML / CSS / JS  
 - Github: https://github.com/ScottishRoss
@@ -280,7 +280,7 @@
 - Github: https://github.com/hosseinSafari
 
 ### Chathurangi Jayawardana
-- Photo: 
+- Photo:
 - Location: SriLanka
 - Bio: Trainee Software Engineer
 - Github:https://github.com/ChathurangiJayawardana
@@ -293,7 +293,7 @@
 ### Prajwal Srinivas
 - Photo: https://anonfile.com/k8je1f72n0/heisenberg_jpg
 - Location: Bangalore,India
-- Bio: Python Developer. Open Source Contributor 
+- Bio: Python Developer. Open Source Contributor
 - Github: https://github.com/Prajwalsrinvas
 
 ### Sahil Shende
@@ -315,9 +315,9 @@
 - Github: https://github.com/esouthren
 
 ### Maria A
-- Photo: 
+- Photo:
 - Location: Lahore, Pakistan
-- Bio: Student 
+- Bio: Student
 - Github: https://github.com/MARIA-AZRAR
 
 ### Pasindu sandeepa
@@ -335,7 +335,7 @@
 ### Kasun nirosh
 - Photo:
 - Location: colombo,srilanka
-- Bio: 📱 web Developer,MIS📝Writer . 🎤 Speaker . 👶 Father 
+- Bio: 📱 web Developer,MIS📝Writer . 🎤 Speaker . 👶 Father
 - Github: https://github.com/Kasun14
 
 ### Isaac Anohene
@@ -357,21 +357,21 @@
 - Github: https://github.com/echpee
 
 ### Pranesh S
-- Photo: 
+- Photo:
 - Location: Coimbatore,India
 - Bio: Designer, Backend Developer, Gamer(R6S)
 - Github: https://github.com/pranesh-sp
 
 ### Pranesh S
-- Photo: 
+- Photo:
 - Location: Coimbatore,India
 - Bio: Designer, Backend Developer, Gamer(R6S)
 - Github: https://github.com/pranesh-sp
 
 ### Harshdeep Singh Walia
-- Photo: 
+- Photo:
 - Location: Chandigarh, India
-- Bio: 📱 Android Developer . 💻 Open Source Contributor 
+- Bio: 📱 Android Developer . 💻 Open Source Contributor
 - Github: https://github.com/harrywalia019
 
 ### Davide Gena
@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### judyz01
+- Photo: N/A
+- Location: USA
+- Bio: Just a normal dude who likes to code
+- Github: https://github.com/NotTheBest
