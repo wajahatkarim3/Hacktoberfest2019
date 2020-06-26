@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rashmi Rangaswamaiah
+- Photo: https://avatars2.githubusercontent.com/u/13122132?s=400&u=f96b3d66ea16c79c3d6a5b555f00c4a64ee052f1&v=4
+- Location: Leuven, Belgium
+- Bio: Software Engineer
+- Github: https://github.com/naveenrashu
