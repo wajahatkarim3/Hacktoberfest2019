@@ -232,6 +232,13 @@
 - Bio: Programmer(Java, C, Python), Student(Engineering), Learner(Machine Learning, Cloud, Internet of Things)
 - Github: https://github.com/AaveshK
 
+### Vidya Waruni Wimalasooriya
+- Photo: https://avatars0.githubusercontent.com/u/38793156?s=460&v=4
+- Location: Bandaragama,Srilanaka
+- Bio: Programmer(Java,C,PHP),Student(IT), Learner(Networking,VR,IoT,AI)
+- Github: https://github.com/VidyaWaruni
+***
+
 ### Yash Kumar Arora
 - Photo: https://avatars2.githubusercontent.com/u/41463797?s=460&v=4
 - Location: Dehradun, India
