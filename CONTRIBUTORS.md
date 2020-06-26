@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Anish Kumar
+- Photo: 
+- Location: Dhanbad, India
+- Bio: Machine learning Enthusiast . 💻 Open Source Contributor .  Student
+- Github:
+***
 
 ### Tsung-Han Ho
 - Photo: 
@@ -34,6 +40,14 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+
+***
+### Manish
+- Photo: 
+- Location: Ranchi, India
+- Bio: Machine learning Enthusiast . Open Source Contributor .  Student
+- Github: https://github.com/AKA333
+***
 
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
