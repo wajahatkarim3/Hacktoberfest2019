@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### NykPol
+- Photo: ***
+- Location: Ukraine
+- Bio: Beginner
+- Github: https://github.com/NykPol
