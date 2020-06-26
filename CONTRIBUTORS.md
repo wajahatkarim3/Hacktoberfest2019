@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Sohail Saifi
+- Photo: N/A
+- Location: India
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/Sohailsaifi
