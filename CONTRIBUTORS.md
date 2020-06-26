@@ -35,6 +35,17 @@
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
 
+
+### Bhavya Jain 
+ - Photo : https://drive.google.com/file/d/1WGt8cl-z5H1szLLc-L2z3T6g_S5A6LQP/view?ts=5da1730c
+ - Location: Rajasthan,India
+ - Bio: Son.IITian.New to Open Source Contributions.
+ - Github: https://github.com/Bhavya-22
+ 
+=======
+***
+=======
+
 ### Kee Magbanua
 - Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
 - Location: Bacolod, Philippines
@@ -91,6 +102,7 @@
 - Github: https://github.com/SkyC0der
 ***
 
+=======
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
 - Location: Karachi, Pakistan
