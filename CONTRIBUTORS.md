@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ishaan Bedi
+- Photo: https://instagram.fdel11-1.fna.fbcdn.net/vp/a9cbfaf4a12dcd47e2d25681789e0919/5E282B3C/t51.2885-19/s150x150/70398851_2795774727122751_156872611039543296_n.jpg?_nc_ht=instagram.fdel11-1.fna.fbcdn.net
+- Location: Delhi, India
+- Bio: Developer, Designer, Contributor
+- Github: https://github.com/theishaanbedi
+***
