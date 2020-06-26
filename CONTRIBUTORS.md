@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Krish Yadav
+- Photo:
+- Location: Raleigh, USA
+- Bio: Student, comuter science enthusiast
+- Github: https://github.com/Krish-Yadav-2192
