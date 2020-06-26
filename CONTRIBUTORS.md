@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Orestis Panaras
+- Photo: N/A
+- Location: Patras, Greece
+- Bio: Open Source enthusiast & contributor
+- Github: https://github.com/sebek88
