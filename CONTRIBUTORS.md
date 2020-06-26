@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sumanth
+- Photo: N/A
+- Location: Kerala, Inadia
+- Bio: Machine Learning . 💻 Open Source Contributor
+- Github: https://github.com/JavvajiSumanth99
