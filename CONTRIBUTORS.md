@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+###Kamila Santos Oliveira
+-Photo: https://avatars0.githubusercontent.com/u/32311268?s=460&v=4
+-Location: Sao Paulo,BR
+-Bio: Comunnity Co-organizer, Full Stack Developer
+-Github: https://github.com/Kamilahsantos
