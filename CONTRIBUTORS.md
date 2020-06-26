@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Vinicius Mangueira Correia
+- Photo: https://avatars2.githubusercontent.com/u/32227073?s=460&v=4
+- Location: Maracanaú, Brazil
+- Bio: I'm a software developer who loves to learn about new web and mobile technologies. As hobby, I love solving programming marathon problems for fun.
+- Github: https://github.com/ViniciusDeep
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
