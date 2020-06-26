@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ramón Manrique 
+- Photo: N/A 
+- Location: Leon, Mexico
+- Bio: 📱Android Developer Enthusiast. First timer on Open Source Projects 
+- Github: https://github.com/MFRamon
+***
