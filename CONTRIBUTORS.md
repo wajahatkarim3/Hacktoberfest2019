@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Metin Ferati
+- Photo: 
+- Location: Skopje, Macedonia
+- Bio: Entrepreneur, 3D Artist and some kind of a programmer.
+- Github: https://github.com/psikomanjak
