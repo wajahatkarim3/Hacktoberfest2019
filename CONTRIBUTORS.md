@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Maike Barkow
+-Photo: N/A
+-Location: Germany
+-Bio: Business Informatic Student
+-Github: https://github.com/wokrabi
