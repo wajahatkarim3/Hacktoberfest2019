@@ -90,6 +90,11 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Aditya Mohan
+- Photo
+- Location: Colorado Boulder, USA
+-Bio: Open Source contributor
+- Github: https://github.com/TraXIcoN
 
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
