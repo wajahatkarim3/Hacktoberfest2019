@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Lutfiyan Riza Amada
+- Photo: https://instagram.com/lutfiyanra
+- Location: Surabaya, Indonesia
+- Bio: 📱 Android Developer . 
+- Github: https://github.com/lutfiyanra
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
