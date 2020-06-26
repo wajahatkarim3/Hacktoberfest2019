@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ryan Pittell
+- Photo: https://avatars3.githubusercontent.com/u/8649375?s=96&v=4
+- Location: Windsor, Ontario
+- Bio: 💻  Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/rpittell
+***
