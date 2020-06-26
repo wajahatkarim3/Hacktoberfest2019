@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Eduardo Augusto Coleta de Souza
+- Photo: https://avatars1.githubusercontent.com/u/22223140?s=400&u=3d8aa688957bc192f23b6b68164e67ad5b291fe5&v=4
+- Location: Blumenau, Brazil
+- Bio: 💻 Open Source Contributor | C#/Java Developer | Taekwondo Fighter 
+- Github: https://github.com/SouzaEduardoAC
