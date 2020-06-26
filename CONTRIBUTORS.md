@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vinicius Lacerda
+- Photo:
+- Location: Campina Grande, Brazil
+- Bio:  💻 Frontend Dev
+- Github: https://github.com/viniciuslacerda0
+***
