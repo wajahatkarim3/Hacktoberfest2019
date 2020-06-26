@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Parag Ghorpade
+-Photo:
+-Location: Pune, India
+-Bio: Software Developer
+-Github: https://github.com/Parag0506
