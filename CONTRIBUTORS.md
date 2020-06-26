@@ -90,6 +90,11 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Abhya Tripathi
+- Location: India
+- Bio: Web Developer 
+- Github: https://github.com/abhya004
+***
 
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
