@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Vibudh Vishal
+- Photo: https://github.com/vibudhvishal
+- Location: Bengaluru, India
+- Bio: 📱 Coding Enthusiast . 💻 Open Source Contributor.
+- Github: https://github.com/vibudhvishal
