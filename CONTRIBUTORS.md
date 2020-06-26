@@ -42,6 +42,13 @@
 - Github: https://github.com/samcode23
 ***
 
+### Sara Anwer
+- Photo: https://avatars1.githubusercontent.com/u/51273487?v=4
+- Location: Delhi, India
+- Bio: Machine Learning Enthusiast.
+- Github: https://github.com/saraanwer15
+***
+
 ### Pratik Butani
 - Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
 - Location: Ahmedabad, India
