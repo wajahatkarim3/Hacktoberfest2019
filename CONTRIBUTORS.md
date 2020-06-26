@@ -6,6 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### pritam kushwah
+- Photo: https://avatars2.githubusercontent.com/u/56722551?s=400&u=58ddeff040b66ed8a39624faceb8720271285b91&v=4
+- Location: indore,india
+- Bio: . 💻 computer science student . 📝blogger  . 
+- Github: https://github.com/pritamkushwah04
 
 ### Tsung-Han Ho
 - Photo: 
