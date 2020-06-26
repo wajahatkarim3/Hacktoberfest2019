@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Theodor Ungureanu
+- Photo: https://avatars1.githubusercontent.com/u/15110418?s=400&u=f71aef92d4a47d4afee06b3c310f28bcfbbec281&v=4
+- Location: Bucharest, Romania
+- Bio: CS student 💻, sports lover 🎾🎿
+- Github: https://github.com/TheodorUngureanu
