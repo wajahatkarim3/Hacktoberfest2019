@@ -29,6 +29,13 @@
 - Github: https://github.com/lisazevedo
 ***
 
+### GAUTAM GAURAV
+- Photo: https://avatars1.githubusercontent.com/u/39881006?s=460&v=4
+- Location: Bhubaneswar, India
+- Bio: Web Developer
+- Github: https://github.com/gautam-gaurav
+***
+
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
 - Location: Karachi, Pakistan
