@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### MC BC from Washington DC
+- Photo: https://github.com/account
+- Location: Washington
+- Bio: MC BC
+- Github: https://github.com/pratyushranjan2
