@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Reece Fagg
+- Photo: 
+- Location: Gold Coast, Australia
+- Bio: 📱 Support Team 💻 Self-Taught Junior Developer
+- Github: https://github.com/Preebitz
