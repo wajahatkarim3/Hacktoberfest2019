@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+###Tapan 
+-photo:https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Peter_Griffin.png/220px-Peter_Griffin.png\
+-Location: Delhi,india
+-Bio:potential web developer
+-GitHub-https://github.com/TapanKumar07
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
