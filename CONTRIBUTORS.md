@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Vikas Thoutam
+- Photo: Sorry
+- Location: Sugar Land TX
+- Bio: 10th Grader and Coder!
+- Github: https://github.com/Vikachubro21
