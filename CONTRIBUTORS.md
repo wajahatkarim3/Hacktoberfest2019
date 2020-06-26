@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Onurcan ÇALIŞKAN
+-Photo: https://avatars2.githubusercontent.com/u/55589631?s=400&u=662c0181d3816815da2c957f8986142762bdaddd&v=4
+-Location: Denizli/Turkey
+-Bio: Student, Beginner at Coding.
+-GitHub: https://github.com/Jeorra
