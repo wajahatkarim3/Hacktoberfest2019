@@ -410,6 +410,13 @@
 - Bio: Aspiring Software Engineer
 - Github: https://github.com/judyz01
 
+### Amanda Nunes
+- Photo: https://avatars3.githubusercontent.com/u/32968763?s=400&u=278dcc693c3fe23b02e363c9bc8cfaab05a3ce34&v=4
+- Location: Recife, Brazil
+- Bio: Computer Science Major Student and Musical Theather Actress
+- Github: http://github.com/kungfumanda
+
+
 ### Mark Wood
 - Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
 - Location: Oakland, USA
