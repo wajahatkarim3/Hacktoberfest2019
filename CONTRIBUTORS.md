@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Kuvam Devgan
+- Photo: anonymous
+- Location: Delhi, India
+- Bio: Electronics & computer engineer | Web and App dev
+- Git: https://github.com/phoenix-kd
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
