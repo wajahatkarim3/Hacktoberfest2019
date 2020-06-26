@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nicolas Helfer
+- Photo: https://avatars3.githubusercontent.com/u/3625258?s=400&u=c57aadea7eb266fdc18a6d8bb72d84ab0e12be53&v=4
+- Location: Nantes, France
+- Bio: Scrum Master at ASI company, speaker speaker at developer summits.
+- Github: https://github.com/nhelfer
+***
