@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Chester Arellano
+- Photo: 
+- Location: Mandaluyong, NCR, Philippines
+- Bio: SAP UI5 Dev, Continuous Learner
+- Github: https://github.com/dev-chester
