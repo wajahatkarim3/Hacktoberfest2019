@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aaron Everitt
+- Photo: N/A
+- Location: Dallas, Texas
+- Bio: 💻  Web Developer
+- Github: https://github.com/aeveritt84
+***
