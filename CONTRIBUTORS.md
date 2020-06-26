@@ -143,6 +143,12 @@
 - Bio: Computer Engineering Student,Competitive Coder (Beginner), Quora writer.
 - Github: https://github.com/ketanvishwakarma
 
+### Yaashi Madan
+- Photo
+- Location: Haryana, India
+- Bio: Computer Engineering Student , avid reader and an amateur photographer. 
+- Github: https://github.com/ym2108
+
 ## Jasch Shah
 - Location: Pune, India
 - Bio: 📱 Android Developer  📝Writer 
