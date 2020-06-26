@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Captain Price
+- Photo: N/A
+- Location: New Orleans, France
+- Bio: Machine Learning Engineer
+- Github: https://github.com/CaptainPrice
