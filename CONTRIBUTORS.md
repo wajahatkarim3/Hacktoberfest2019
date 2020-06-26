@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Bambang Rahmadi Kurniawan Payu
+- Photo: https://avatars1.githubusercontent.com/u/23442305?s=460&v=4
+- Location: Gorontalo, Indonesia
+- Bio: 📝 Web Developer . 💻 Open Source Enthusiast
+- Github: https://github.com/idbmb
