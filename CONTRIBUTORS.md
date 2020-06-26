@@ -255,6 +255,12 @@
 - Bio: Python Programmer, Student, Learner
 - Github - https://github.com/anshul1098
 
+### Devon M.
+- Photo: https://avatars1.githubusercontent.com/u/43609419?s=460&v=4
+- Location: Texas
+- Bio: Just starting out.I want to be a web developer.
+- Github: https://github.com/blitz137
+
 ###  Ross Henderson
 - Photo: 
 - Location: Sandbach, UK
