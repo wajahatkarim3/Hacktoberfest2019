@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mudit Bajaj
+_Location: Rajasthan, India
+-Bio: Engineering Student
+-Photo : N/A
+-Github: https://github.com/Mudit152001
