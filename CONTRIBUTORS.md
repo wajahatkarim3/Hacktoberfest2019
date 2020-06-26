@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+***
+
+### Samantha G
+- Photo: https://avatars3.githubusercontent.com/u/25832852?s=460&v=4
+- Location: New York, USA
+- Bio: 💻 Programmer . 📜 Writer . 🎮 Gamer
+- Github: https://github.com/antashma
+***
