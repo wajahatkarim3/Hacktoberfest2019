@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Grzegorz
+- Photo: N/A
+- Location: Łódzkie, Poland
+- Bio: A highschool student trying to learn stuff on his own :)
+- Github: https://github.com/NexTheMighty
