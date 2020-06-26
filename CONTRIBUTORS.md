@@ -1,6 +1,13 @@
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Wajahat Karim
+- Photo: https://avatars3.githubusercontent.com/u/39538212?s=400&u=c43b7993f98ed96c21210bf7decf3e7913c3753e&v=4
+- Location: Maracanaú, Brazil
+- Bio: I'm a development who like teamwork and love learn about web new technologies and Marvel.
+- Github: https://github.com/jonh1036
+***
+
+### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
