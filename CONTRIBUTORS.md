@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Connor Wardell
+- Photo: N/A
+- Location: Tempe Arizona, USA
+- Bio: Computer Science Student
+ -Github: https://github.com/DaciteRocks
