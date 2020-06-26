@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shashwat Mann
+- Photo: N/A
+- Location: New Delhi, India
+- Bio: Student, Open Source Contributer
+- Github: https://github.com/ShashwatMann
