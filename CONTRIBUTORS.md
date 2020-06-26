@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Amit Bhawsar
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: Indore, India
+- Bio: 📱 Developer
+- Github: https://github.com/ameet99
+***
 
 ### Tsung-Han Ho
 - Photo: 
