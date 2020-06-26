@@ -90,6 +90,12 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Dhruv Gupta
+- Photo: https://avatars2.githubusercontent.com/u/38970162?s=400&v=4
+- Location: Mysore,India
+- Bio:Competitive Programmer. Android Developer . Open Source Contributor 
+- Github: https://github.com/dhruvgupta1999
+***
 
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
