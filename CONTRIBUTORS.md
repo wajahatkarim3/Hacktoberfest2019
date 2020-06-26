@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pratiksha Kotkar
+- Photo: https://en.wikipedia.org/wiki/Minions_(Despicable_Me)#/media/File:Minions_characters.png
+- Location: Pune, India
+- Bio: 📱 Python Developer . 💻 Open Source Contributor . 📝Artists 
+- Github: https://github.com/PratikshaKotkar
+***
