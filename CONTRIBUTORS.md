@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Udaram Prajapat
+- Photo: https://drive.google.com/file/d/1hdTj1JylIUAzo8_vP6-xHRFIvVJOUFcu/view?usp=sharing
+- Location: India
+- Bio: Machine learning and Deeplearning Enthuasiast
+- Github: http://github.com/udaram
+***
