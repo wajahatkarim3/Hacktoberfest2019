@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ridhwik Kalgaonkar
+- Photo: https://avatars2.githubusercontent.com/u/46676917?s=400&u=a171e22f0ed87132b7aae5fc8cf810f4fd7e82ce&v=4
+- Location: Pune, India
+- Bio: Computer Engineering Undergraduate Student
+- Github: https://github.com/ridh7
