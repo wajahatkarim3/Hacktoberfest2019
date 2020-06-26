@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Prakhar Sapre
+- Photo: Check my profile!
+- Location: Austin, Texas
+- Bio: 📱 Full Stack Developer
+- Github: https://github.com/prakhar10
