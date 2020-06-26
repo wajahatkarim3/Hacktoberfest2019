@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Harsh
+- [Photo](https://www.facebook.com/photo.php?fbid=1978521079140346&set=pb.100009474205284.-2207520000.1571238195.&type=3&theater)
+- Location: Mumbai, India
+- Bio: Machine Learning Enthusiast
+- Github: https://github.com/hr21
