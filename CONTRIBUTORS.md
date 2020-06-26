@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Aidan Evans
+- Photo: https://avatars3.githubusercontent.com/u/40344588?s=460&v=4
+- Location: British Columbia, Canada
+- Bio: Coding Hobbyist
+- Github: https://github.com/D4rk3l
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
