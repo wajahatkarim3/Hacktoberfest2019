@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### khalid El-nagar
+- Photo: https://avatars2.githubusercontent.com/u/29166870?s=460&v=4
+- Location: cairo, Egypt
+- Bio: 📱 Android Developer
+- Github: https://github.com/khalid-3lnagar
