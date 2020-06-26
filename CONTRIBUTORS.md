@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tushar Dupga
+-Photo: N/A
+-Location: Hanumangarh Jn.,India
+-Bio: Computer Engineering Student,open source contributor
+-Github: https://github.com/TusharD-047
