@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anirudh Singh Rathore
+- Photo: N/A
+- Location: Jaipur, India
+- Bio:  Frontend developer, Graphic Designer
+- Github: https://github.com/anirudhrathore
