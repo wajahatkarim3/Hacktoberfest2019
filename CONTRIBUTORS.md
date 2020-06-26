@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### David Pham
+- Photo: https://avatars2.githubusercontent.com/u/25433500?s=460&v=4
+- Location: Toronto, Canada
+- Bio: Hobbiest developers. Full-time IT generalist.
+- Github: https://github.com/iamdp
