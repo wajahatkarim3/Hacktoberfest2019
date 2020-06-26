@@ -90,6 +90,12 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### VAISHNAV
+- Photo: https://github.com/account
+- Location: https://avatars0.githubusercontent.com/u/23012339
+- Bio: Web Developer, Nodejs, Micro Services
+- Github: https://github.com/SalahudinMalik
+***
 
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
