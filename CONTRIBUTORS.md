@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mrunal Kotkar
+- Photo:https://www.amazon.com/Despicable-Minion-Stuart-Edible-Topper/dp/B07QBM1FTY
+- Location: Pune, India
+- Bio: Computer Engineering Student
+- Github: https://github.com/MrunalKotkar
+***
