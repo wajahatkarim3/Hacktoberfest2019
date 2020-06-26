@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Manit Aggarwal
+- Photo: 
+- Location: Haryana, India
+- Bio: Student, exploring interests
+- Github: https://github.com/manit2110
