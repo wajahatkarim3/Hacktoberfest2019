@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Saswata Pandit
+- Photo: https://drive.google.com/open?id=0BwZvB9tfhwtzUjFxRFJhaFY0OUE
+- Location : Bangalore, INDIA
+- Bio : .NET Developer. Open Source Contributor.
+- Github : https://github.com/psaswata07
