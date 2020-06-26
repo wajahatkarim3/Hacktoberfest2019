@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Athul Juniorhero
+- Photo: https://avatars3.githubusercontent.com/u/7266129?s=460&v=4
+- Location: India
+- Bio: Ethical Hacker and security researcher
+- Github: https://github.com/juniorhero
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
