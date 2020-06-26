@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Daniel Gabensen
+- Photo: N/A
+- Location: Pennsylvania,USA
+- Bio: UI-design, Spigot Coding and more! Trying to figure out what to try to make a profession.
+- Github: https://github.com/Zelusiek
