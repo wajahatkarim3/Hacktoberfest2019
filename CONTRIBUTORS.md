@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aaron Sato
+- Photo: N/A
+- Location: Seattle, WA
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/2asato
