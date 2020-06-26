@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Dennis Rufi
+- Photo: https://avatars1.githubusercontent.com/u/25078791?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Android Developer
+- Github: https://github.com/dennisrufigill
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
