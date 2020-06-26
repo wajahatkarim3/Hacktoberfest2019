@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Suneet Jain
+- Photo: N/A
+- Location: Noida, India
+- Bio: Tech Enthusiast, Open Source Contributor
+- Github: https://github.com/devilsboy
