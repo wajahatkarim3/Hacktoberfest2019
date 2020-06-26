@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### Atir
+- Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
+- Location: Lahore, Pakistan
+- Bio: 📱 Software Developer . 💻 Open Source Contributor 
+- Github: https://github.com/atir11122
+***
 
 ### Tsung-Han Ho
 - Photo: 
@@ -326,11 +332,24 @@
 - Bio : Ungradutate Software Engineering at plymouth uni | Web Content Writer | arduino developer | IEEE member
 - Github : https://github.com/PasinduSan
 
+### Chrais Chaung
+- Photo: https://avatars3.githubusercontent.com/u/48533021?v=4
+- Location: Los Angeles, United States
+- Bio: Data Analyst
+- Github: https://github.com/maxutil
+
 ### Alif Naufal
 - Photo: https://avatars3.githubusercontent.com/u/49275855?s=460&v=4
 - Location: Bandung, Indonesia
 - Bio: Student and want to be a Data Scientists
 - Github: https://github.com/alifnaufalyasin
+
+### Lisa dqa Silvay Azevedo
+- Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
+- Location: Salvador, Brazill
+- Bio: Computer Engineering Student, DevOps, CyberSecurity
+- Github: https://github.com/lisazevedo
+***
 
 ### Kasun nirosh
 - Photo:
