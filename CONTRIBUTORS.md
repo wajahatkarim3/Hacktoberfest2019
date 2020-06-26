@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tarun Ravi
+- Photo: 
+- Location: Oakland, USA
+- Bio: Learning Machine Learning
+- Github: https://github.com/MyWorldRules
