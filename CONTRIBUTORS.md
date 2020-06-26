@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sujit Girgilani
+- Photo: https://avatars1.githubusercontent.com/u/5078997?s=400&u=f266635f086c13221b88cdfb9101e27f22a0b0f8&v=4
+- Location: Ahmedabad, India
+- Bio: Mageto Developer and Technical Lead
+- Github: https://github.com/sujit4187
