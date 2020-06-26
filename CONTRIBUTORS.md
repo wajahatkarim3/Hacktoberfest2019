@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Yen Le
+- Photo: https://avatars0.githubusercontent.com/u/32512039?s=460&v=4
+- Location: San Jose, USA
+- Bio: Software engineering student located in the Bay Area.
+- Github: https://github.com/yenhoangle
