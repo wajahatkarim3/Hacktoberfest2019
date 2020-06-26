@@ -76,7 +76,10 @@
 - Bio: 💻 MEAN/MERN stack Developer . 📱 Mobile App Developer . 📝Writer . 🎤 Speaker. Would love to get a T-shirt 👕
 - Github: https://github.com/Mohammad-Quanit
 ***
-
+### Shreesh Roliwal
+-Location: India
+-Bio: Student
+-Github: https://github.com/shreesh1
 ### Kamran Sarwar
 - Photo: https://avatars0.githubusercontent.com/u/5537822?s=460&v=4
 - Location: Karachi, Pakistan
