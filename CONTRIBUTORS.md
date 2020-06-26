@@ -21,6 +21,12 @@
 - Github: https://github.com/phyre1337
 
 -----------
+### Pasindu sandeepa
+-photo:https://drive.google.com/open?id=1GZPPEKlpbqfiZZqqabgPtNO4IVMaVAvb
+-Location :colombo ,sri lanka
+-Bio : Ungradutate Software Engineering at plymouth uni | Web Content Writer | arduino developer | IEEE member
+-Github : https://github.com/PasinduSan
+
 
 ### Lis da Silva Azevedo
 - Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
