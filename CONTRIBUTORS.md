@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Silvia
+- Photo: https://avatars3.githubusercontent.com/u/23341373?s=460&v=4
+- Location: Italy
+- Bio: Web Developer . 💻 Open Source Contributor. Service Desk Agent 🔥
+- Github: https://github.com/spstr
