@@ -415,3 +415,12 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+# Awesome Contributors of Hacktoberfest 2019
+
+### Tejaswini
+- Photo: 
+- Location: Visakhapatnam, Andhra Pradesh
+- Bio: CS Student 
+- Github: https://github.com/Tejaswini1808
+***
