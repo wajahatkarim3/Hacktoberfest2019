@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sid Sharma
+- Photo: https://avatars1.githubusercontent.com/u/31028745?s=400&v=4
+- Location: Delhi, India
+- Bio: C Programmer. 💻 Open Source Contributor . Embedded Systems . Javascript . Linux
+- Github: https://github.com/sidhu97ss
+***
