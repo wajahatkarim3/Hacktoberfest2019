@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### RyuZuko
+- Photo: 
+- Location: Malaysia
+- Bio: Software Engineering student
+- Github: https://github.com/RyuZuko
