@@ -415,3 +415,8 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Ritik Kumar 
+- Photo: 
+- Location: Bhubaneswar, India
+- Bio: Machine Learning Engineer, Competitive Programmer
+- Github: https://github.com/Ritikkumar1998
