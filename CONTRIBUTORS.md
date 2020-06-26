@@ -190,11 +190,11 @@
 - Bio: Science Computer Student. Open Source Contributor.
 - Github: https://github.com/mixmaxze
 
-### Zita DePetris
-- Photo: https://images.unsplash.com/photo-1512251275231-63e355f3d028?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
-- Location: Austin, TX, US
-- Bio: Data Engineer. Chocolate Lab Enthusiast.
-- Github: https://github.com/zdepetris
+### Shruthi Shukla
+- Photo: https://postimg.cc/K32yD62J
+- Location: Pune,India
+- Bio: Instrumentation Engineering Student
+- Github: https://github.com/mattjegan/django-gamification.git
 
 ### Raphael Santos
 - Photo: https://avatars0.githubusercontent.com/u/18425056?s=460&v=4
