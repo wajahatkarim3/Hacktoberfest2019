@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ben Hatzer
+- Photo: 
+- Location: Paris, France
+- Bio: New developper
+- Github: http://github.com/BenHacker
+***
