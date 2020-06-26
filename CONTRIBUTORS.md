@@ -1,5 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
-
+### Manav Diwan
+- Photo: https://avatars0.githubusercontent.com/u/43696727?s=400&u=47a60ed5594125ed9679d08aa99514deddec46f8&v=4
+- Location: New Delhi, India
+- Bio: Web Developer  
+- Github: https://github.com/Manav1
+***
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
