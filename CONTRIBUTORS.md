@@ -97,6 +97,12 @@
 - Bio: Software Engineer | Graphics Designer & Developer | Photographist | Self-Loving..
 - Github: https://github.com/aishaaqeel
 ***
+### sachin
+- Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
+- Location: Ahmedabad, India
+- Bio: Android/Flutter Developer . Open Source Contributor . Writer . Speaker .
+- Github: https://github.com/
+***
 
 ### Alex Salomatin
 - Photo: https://avatars2.githubusercontent.com/u/41446232?s=460&v=4
