@@ -7,6 +7,20 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Avinash S Kurup
+- Photo: https://media.licdn.com/dms/image/C5103AQHyjV-WJFAiBQ/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=jwhRBllZw5ZewwvafR29ExZ6C3d-qCgrXiNjx5ilGT0
+- Location: Kerala, India
+- Bio: Data Analyst . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker 
+- Github: https://github.com/avinash10xds
+***
+
+### Tsung-Han Ho
+- Photo: https://media.licdn.com/dms/image/C5103AQHyjV-WJFAiBQ/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=jwhRBllZw5ZewwvafR29ExZ6C3d-qCgrXiNjx5ilGT0
+- Location: Kochi,Kerala,India
+- Bio: Data Analyst
+- Github: https://github.com/avinash10xds
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
