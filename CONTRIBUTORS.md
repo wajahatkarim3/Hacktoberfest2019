@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Alok Parikh
+- Photo:
+- Location: Ahmedabad, India
+- Bio: 📱 Web Developer . 💻 Open Source Contributor .
+- Github: https://github.com/alokparikh16
