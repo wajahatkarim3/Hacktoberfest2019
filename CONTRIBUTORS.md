@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Raghunandan M S
+- Photo: https://avatars1.githubusercontent.com/u/26946325?s=400&u=4761f8e810bfd080acacfc1529b592ff8b6b1d6b&v=4
+- Location: Los Angeles, California
+- Bio : Aspiring Cloud Application Developer and Machine Learning Enthusiast!
+- GitHub: https://github.com/Raghunandan-MS
