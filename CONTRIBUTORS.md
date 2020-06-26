@@ -63,6 +63,13 @@
 - Github: https://github.com/SalahudinMalik
 ***
 
+### Feliciano Manguele
+- Photo: https://avatars.githubusercontent.com/FelicianoManguele
+- Location: Maputo, Mozambique
+- Bio: android & web developer, Machine Learning
+- Github: https://github.com/FelicianoManguele
+***
+
 ### Sebastian Figg
 - Photo: https://avatars3.githubusercontent.com/u/38180375?s=40&v=4
 - Location: Sydney, Australia
