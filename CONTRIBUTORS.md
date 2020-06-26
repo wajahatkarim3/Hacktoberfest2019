@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+***
+
+### Abhilash Pani
+- Photo:
+- Location: Raipur, India
+- Bio: Budding Data Scientist | AI Enthusiast | Embracing the world of open-source
+- Github: https://github.com/1pani
+***
