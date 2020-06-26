@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Callegaro Simone
+- Photo: N/A
+- Location: Novara, italy
+- Bio: Web Developer
+- Github: https://github.com/CalleDev
