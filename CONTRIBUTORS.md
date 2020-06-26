@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shobhit Agarwal
+- Photo: http://shobhitagarwal.me/static/img/shobhit.b138c6d.png
+- Location: Noida, India
+- Bio: Backend and Cloud Developer
+- Github: https://github.com/shobhit1997
+
