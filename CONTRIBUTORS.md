@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Marko Jovanovic
+- Photo: 
+- Location: Belgrade, Serbia
+- Bio: Backend engineer, JS enthusiast, Open Source Contributor
+- Github: https://github.com/fr1sk
