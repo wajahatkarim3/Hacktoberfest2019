@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Janaka Edirisinghe
+- Photo: https://avatars3.githubusercontent.com/u/37530779?s=460&v=4
+- Location: Colombo, SriLanka
+- Bio: Full Stack Developer . 💻 Open Source Contributor. Designer
+- Github: https://github.com/janaka531
