@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anurag Dwivedi
+- Photo: https://avatars1.githubusercontent.com/u/40738395
+- Location: Kanpur, India
+- Bio: 📱 Full Stack Developer . 📝Writer . 
+- Github: https://github.com/noobcod3r
