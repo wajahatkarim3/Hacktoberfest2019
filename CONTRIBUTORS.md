@@ -20,6 +20,12 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Nick Roma
+- Photo: 
+- Location: Tokyo, Japan
+- Bio: Software Developer
+- Github: https://github.com/nikoandpiko
+
 -----------
 
 ### Lis da Silva Azevedo
