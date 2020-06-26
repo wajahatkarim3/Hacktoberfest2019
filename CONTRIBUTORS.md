@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Ismail Yeginer
+- Photo: 
+- Location: Ankara, Turkey
+- Bio: Computer Engineering Student, Opencv
+- Github: https://github.com/Neoplis
