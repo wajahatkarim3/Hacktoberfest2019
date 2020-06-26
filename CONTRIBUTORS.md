@@ -1,5 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Matthew Finley
+- Location: Chapel Hill, NC
+- Bio: UNC CS 2023
+- Github: https://github.com/m-fin
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
