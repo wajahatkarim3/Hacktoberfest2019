@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Omneya Osman
+- Photo: 
+- Location: Portsaid, Egypt
+- Bio: 📱 Passionate Android Developer
+- Github: https://github.com/OmneyaOsman
