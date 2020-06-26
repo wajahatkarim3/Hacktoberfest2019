@@ -20,6 +20,12 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Rohit Raj Anand
+- Photo: https://avatars3.githubusercontent.com/u/37151791?s=460&v=4
+- Location: Allahabad, India
+- Bio: Student, Developer, Programmer
+- Github: https://github.com/rht6226
+
 -----------
 
 ### Lis da Silva Azevedo
