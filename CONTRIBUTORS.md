@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Numaan
+- Photo: N/A
+- Location: Delhi, India
+- Bio: Inquisitive, Creative, and contributor
+- Github: https://github.com/numaan-esc
+***
