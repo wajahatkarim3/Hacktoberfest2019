@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Michael Donoso
+- Photo: N/A
+- Location: Boston, Massachusetts
+- Bio: Pythonista
+- Github: https://github.com/Mike-DO
+***
