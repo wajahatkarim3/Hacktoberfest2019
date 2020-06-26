@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Prayas Mittal
+- Photo: NA
+- Location: Mumbai, India
+- Bio: 💻 Open Source Contributor . 📝Poet . 🎤 Speaker 
+- Github: https://github.com/prayas26
