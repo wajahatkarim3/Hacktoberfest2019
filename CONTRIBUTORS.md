@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Jonah Waschek
+- Photo:
+- Location: San Antonio, Texas, USA
+- Bio: Full Stack Developer. Part-Time Soccer Referee
+- Github: https://github.com/voz977
+
