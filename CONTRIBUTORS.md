@@ -6,6 +6,12 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
+### [Brandon Fizer](https://BrandonFizer.com)
+- Photo: https://brandonfizer.com/images/brandon.jpg
+- Location: Fayetteville, NC
+- Bio:💻 Full Stack Software Engineer
+- Github: [Track7Dev](https://github.com/wajahatkarim3)
+***
 
 ### Tsung-Han Ho
 - Photo: 
