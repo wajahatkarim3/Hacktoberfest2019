@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Egi Meisandi
+- Photo: https://avatars3.githubusercontent.com/u/45327633?s=400&v=4
+- Location: Bandung, Indonesia
+- Bio: System and Network Engineer
+- Github: https:/github.com/EgiMeisandi
