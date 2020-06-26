@@ -392,6 +392,12 @@
 - Bio: Full Stack Developer and IT Evangelist
 - Github: https://github.com/spirtskhalava
 
+### Manwai Nguyen
+- Photo: 
+- Location: Guam, United States
+- Bio: Adjunct Professor
+- Github: https://github.com/Krazyman
+
 ### Magnus Paulsen
 - Photo:
 - Location: Norway
