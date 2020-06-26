@@ -41,6 +41,11 @@
 - Bio: Web Developer 
 - Github: https://github.com/samcode23
 ***
+### Kee Magbanua
+- Photo: https://avatars2.githubusercontent.com/u/55817578?v=4
+- Location: Bacolod, Philippines
+- Bio: Web Developer 
+- Github: https://github.com/samcode23
 
 ### Pratik Butani
 - Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
