@@ -20,6 +20,11 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Kundan Kumar
+- Location: New Delhi, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor .
+- Github: https://github.com/guy34code
+***
 -----------
 
 ### Lis da Silva Azevedo
