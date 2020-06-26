@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Karan Randhir
+- Photo: N/A
+- Location: Delhi,India
+- Bio:  React Native Developer.  Open Source Contributor.  Guitarist . Love Travelling .
+- Github: https://github.com/KaranRandhir
+***
