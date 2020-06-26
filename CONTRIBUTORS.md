@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### M Salman Alfansuri
+- Photo: https://avatars0.githubusercontent.com/u/39211835?s=400&u=c8e3ce841145eaee9ec2a37b7f777d27b8d2dc39&v=4
+- Location: Surabaya, Indonesia
+- Bio: 💻 IT Enthusiast 
+- Github: https://github.com/Alfansuri
