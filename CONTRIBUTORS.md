@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### MIGUEL MARTIN-MAESTRO
+- Photo: N/A
+- Location: Madrid, Spain
+- Bio: Student
+- Github: https://github.com/miguelmml
