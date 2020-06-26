@@ -1,5 +1,12 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Rukky Ujara
+- Photo: https://avatars1.githubusercontent.com/u/16783837?s=460&v=4
+- Location: Lagos, Nigeria
+- Bio: 💻 Web Developer . 📝Writer . STEM Educator
+- Github: https://github.com/rhukhi
+***
+
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
