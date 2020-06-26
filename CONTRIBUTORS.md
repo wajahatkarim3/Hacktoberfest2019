@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Emerson Santana
+- Photo: http://abre.ai/anDy
+- Location: Salvador, Brazil
+- Bio: Computer Science Student, Backend Developer, C# Power
+- Github: https://github.com/ESSantana
+***
