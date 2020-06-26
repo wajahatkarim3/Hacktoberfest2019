@@ -415,3 +415,13 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Vishnu N
+- Photo:https://avatars0.githubusercontent.com/u/43933340?s=460&v=4
+- Location:Kannur,Kerala, India
+- Bio: 📱 Android Developer. 💻 Open Source Contributor.Python,C
+- Github: https://github.com/nuvish04
+### Dango
+- Photo: 
+- Location: Kerala,India
+- Bio: Designer, Backend Developer, Gamer(R6S)
+- Github: https://github.com/dangosp
