@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Raja Uzair Abdullah
+- Photo: https://avatars2.githubusercontent.com/u/7515065
+- Location: Karachi, Pakistan
+- Bio: Android Developer, Security Researcher, Web Application Penetration Tester.
+- Github: https://github.com/rajauzairabdullah
