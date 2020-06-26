@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### ccdlus
+- Photo: N/A
+- Location: Bangkok, Thailand
+- Bio: Backend Developer
+- Github: https://github.com/ccdlus
