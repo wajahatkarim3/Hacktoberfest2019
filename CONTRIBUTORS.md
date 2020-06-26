@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mírian Batista
+- Photo: https://avatars1.githubusercontent.com/u/17030383?s=460&v=4
+- Location: Rio Tinto, Brasil
+- Bio: apreciadora de aleatoriedades
+- Github: https://github.com/mirianbatista
