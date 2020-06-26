@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Mark Wood
+- Photo: N/A
+- Location: Kerala, India
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Designer 🔥
+- Github: https://github.com/ROZZ01
