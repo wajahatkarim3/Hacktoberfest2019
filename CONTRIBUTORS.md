@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Anliner Leona
+- Photo: https://avatars2.githubusercontent.com/u/42365348?s=400&v=4
+- Location: Cebu, Philippines
+- Bio: 📱 Developer. 💻 Open Source Contributor.  trying to know everything :)
+- Github: https://github.com/anliner92
