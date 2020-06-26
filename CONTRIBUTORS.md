@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Rachael Coulter
+- Photo: https://media.licdn.com/dms/image/C4D03AQGlQRhHeafnvg/profile-displayphoto-shrink_200_200/0?e=1577923200&v=beta&t=I4I-gnBmb5G3xYtZ3xjP5pgsUWQdx6Bb6P9Jn_a4vVQ
+- Location: Belfast, Northern Ireland
+- Bio: 💻 Backend Developer . 📈 Entrepreneur . 🏇 Dressage Rider
+- Github: https://github.com/rc700/
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
