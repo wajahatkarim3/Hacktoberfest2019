@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### awan artha
+- Photo: N/A
+- Location: Indonesia
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Android Dev 🔥
+- Github: https://github.com/bagih
