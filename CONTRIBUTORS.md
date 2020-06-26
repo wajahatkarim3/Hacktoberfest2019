@@ -90,6 +90,13 @@
 - Bio: 💻  Web Developer . 💻 Open Source Contributor .
 - Github: https://github.com/SkyC0der
 ***
+### Gian hays
+- Photo: 
+https://st2.depositphotos.com/1104517/11967/v/950/depositphotos_119675554-stock-illustration-male-avatar-profile-picture-vector.jpg
+- Location: Jakarta, Indonesia
+- Bio: High school student aspiring to become software engineer
+- Github: https://github.com/ardiraika
+***
 
 ### Aisha Aqeel
 - Photo: https://avatars3.githubusercontent.com/u/35759625?s=460&v=4
