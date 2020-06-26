@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kendall Jordaan
+- Photo: N/A
+- Location: Gauteng, South Africa
+- Bio: Junior Developer
+- Github: https://github.com/MajorNoob92
