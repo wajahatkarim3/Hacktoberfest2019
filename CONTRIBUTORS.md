@@ -49,6 +49,13 @@
 - Github: https://github.com/pratikbutani
 ***
 
+### Oindrilla Bose
+- Location: Kolkata, India
+- Bio: Web Developer 
+- Github: https://github.com/OindrillaBose
+***
+
+
 ### Nishant Raj
 - Photo: 
 - Location: Banaglore, India
