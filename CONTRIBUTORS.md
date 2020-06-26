@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Josemar Alves
+- Photo: https://avatars3.githubusercontent.com/u/36990696?s=460&v=4
+- Location: Rio de Janeiro, Brasil
+- Bio: Full Stack Developer and Gamer
+- Github: https://github.com/josemaralves
+***
