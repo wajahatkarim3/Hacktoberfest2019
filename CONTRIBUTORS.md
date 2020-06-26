@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Lynin Sokhonn
+- Photo: https://avatars3.githubusercontent.com/u/56193486?s=400&v=4
+- Location: Phnom Penh, Cambodia
+- Bio: Computer Engineering Student, Science lover
+- Github: https://github.com/lyninsokhonn
