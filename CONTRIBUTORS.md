@@ -20,6 +20,12 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Rahmat Hidayat
+- Photo: -
+- Location: Indonesia
+- Bio: College Student
+- Github: https://github.com/rahmat31
+
 -----------
 
 ### Lis da Silva Azevedo
