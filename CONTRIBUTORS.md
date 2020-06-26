@@ -29,6 +29,13 @@
 - Github: https://github.com/lisazevedo
 ***
 
+### Audrey Datau
+- Photo: https://avatars.githubusercontent.com/audreydatau
+- Location: Jakarta, Indonesia
+- Bio: Information System student
+- Github: https://github.com/audreydatau
+***
+
 ### Year-In-Review
 - Photo: https://avatars2.githubusercontent.com/u/44439039?s=200&v=4
 - Location: Karachi, Pakistan
