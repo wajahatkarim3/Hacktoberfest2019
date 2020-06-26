@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rupesh
+- Photo: https://avatars2.githubusercontent.com/u/26679845?s=460&v=4
+- Location:Mumbai, India
+- Bio: Machine Learning Expert . 💻 Open Source Contributor .  
+- Github: https://rs9899.github.io/
