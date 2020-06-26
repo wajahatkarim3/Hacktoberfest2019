@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Fábio Almeida 
+- Foto: https://avatars1.githubusercontent.com/u/56138795?s=460&v=4 
+- Local: Belo Horizonte, Brasil 
+- Biografia: The quieter you become, the more you are able to hear.
+- Github: https://github.com/fabio08
