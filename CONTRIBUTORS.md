@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vinicius Francisco da Silva
+- Photo: https://avatars2.githubusercontent.com/u/32939036?s=460&v=4
+- Location: Belo Horizonte, Brazil
+- Bio: Web and Android Developer
+- Github: https://github.com/viniciusfdasilva
