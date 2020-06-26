@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kush Patel
+- Photo: https://avatars2.githubusercontent.com/u/35497196?s=400&u=4769e7265526974ce1949ed18521fdd1c89df0b3&v=4
+- Location: Gujarat,India
+- Bio: Aspiring Data Scientist , Student
+-Github: https://github.com/kush1307
