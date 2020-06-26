@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Akshita Sakshi
+- Photo:N/A
+- Location: kolkata, India
+- Bio: student, aspiring engineer,beginner
+- Github: https://github.com/Ashsakshi19
+***
