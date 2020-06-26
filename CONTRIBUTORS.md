@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Emmett Armstrong
+- Photo: https://avatars1.githubusercontent.com/u/11791639?s=96&v=4
+- Location: Medford, Oregon
+- Bio: 💸 Entrepreneur | 🖥️ Web Designer | ✒️ Writer
+- Github: https://github.com/emm3ttarmstrong
