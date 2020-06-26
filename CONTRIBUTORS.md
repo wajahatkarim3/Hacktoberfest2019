@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Aryo Bimo
+- Photo: 
+- Location: Jakarta, Indonesia
+- Bio: Newbie :D
+- Github: https://github.com/aryob
