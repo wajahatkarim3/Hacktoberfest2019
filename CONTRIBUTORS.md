@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vasu Gupta
+- Photo: https://drive.google.com/open?id=1CGIjQX0KjCP1tuAgOSCCBjg3Cudmlkyu
+- Location: Greater Noida, India
+- Bio: Open Source Contributor, HTML, CSS, Java Developer
+- Github: https://github.com/vasu03042000
