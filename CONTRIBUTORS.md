@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Kiran Singh
+- Photo: https://avatars2.githubusercontent.com/u/41376563?s=460&v=4
+- Location: Vizag, India
+- Bio: Full Stack Developer
+- Github: https://github.com/kiranramsingh
