@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nemanja Jeremic
+- Photo: https://avatars1.githubusercontent.com/u/4604310?s=460&v=4
+- Location: Belgrade, Serbia
+- Bio: Test automation developer and outdoors lover
+- Github: https://github.com/nemanjajeremic
+***
