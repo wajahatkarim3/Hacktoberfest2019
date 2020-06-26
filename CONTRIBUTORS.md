@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Kaustubh Pathak
+- Photo: https://avatars2.githubusercontent.com/u/45657507?s=460&v=4
+- Location: gwalior, India
+- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Data Science . Student 🔥
+- Github: https://github.com/terminate9298
