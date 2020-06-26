@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Pablo Gonzalez
+- Photo: https://avatars0.githubusercontent.com/u/32173866?s=460&v=4
+- Location: Fortaleza-CE, BRAZIL
+- Bio: Web Developer at DELL LE@D. 💻 Open Source Contributor.
+- Github: https://github.com/pablogonzalezz
