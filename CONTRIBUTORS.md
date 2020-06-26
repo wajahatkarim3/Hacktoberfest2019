@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Faraz Khan
+- Photo: https://ibb.co/ryXzg6T
+- Location: Mumbai, India
+- Bio: System Engineer, TCS
+- Github: https://github.com/khanfarazoff
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
