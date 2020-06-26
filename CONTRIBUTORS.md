@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Josephine Hardy
+- Photo: https://avatars0.githubusercontent.com/u/1618805?s=400&u=92b508307b69a13eccb3d88fadfee60ef81c3bb3&v=4
+- Location: Rogers, Arkansas, USA
+- Bio: Aussie marketer turned developer
+- Github: https://github.com/thewhiteswan
+***
