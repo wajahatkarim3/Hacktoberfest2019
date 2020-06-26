@@ -14,6 +14,13 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### Uzair Korai
+- Photo: https://avatars2.githubusercontent.com/u/38845776?s=460&v=4
+- Location: Karachi, Pakistan
+- Bio: Front-End Developer JavaScript React, Html, Css.
+- Github: http://github.com/uzairkorai
+***
+
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
