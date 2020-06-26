@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### John Mafura
+- Photo: https://avatars0.githubusercontent.com/u/43677834?s=460&v=4
+- Location: United Kingdom
+- Bio: Software Engineering student
+- Github: https://github.com/johnmaf21
