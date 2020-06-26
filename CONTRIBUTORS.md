@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhishek Gaur
+- Photo: https://avatars3.githubusercontent.com/u/33948877?s=460&v=4
+- Location: Pilani, India
+- Bio: Always found working at secluded places, excited by technology, devoted to user-focused software development.
+- Github: http://github.com/abhihekspeer
+***
