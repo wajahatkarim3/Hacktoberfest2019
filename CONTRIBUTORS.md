@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+## Akanksha Sinha
+- Photo:
+- Location: Mandi, Himachal Pradesh, India
+- Bio: Data Science Student
+- Github: https://github.com/ak2502
