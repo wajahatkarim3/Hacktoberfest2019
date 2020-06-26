@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Alejandro Reyes
+- Photo: https://avatars0.githubusercontent.com/u/33422780?s=400&u=65b27b62de5df923e9ee73f6c8be518077da357e&v=4
+- Location: Madrid, Spain
+- Bio: 📱 Full Stack Developer . Teacher. 💻 Open Source. ⚛🌌  Engineer
+- Github: hhttps://github.com/alejandroereyesb
