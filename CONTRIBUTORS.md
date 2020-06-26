@@ -22,6 +22,13 @@
 
 -----------
 
+### Michael Zhu
+- Photo: https://avatars2.githubusercontent.com/u/17104161?s=460&v=4
+- Location: Berkeley, USA
+- Bio: Computer Science Student
+- Github: https://github.com/mbzhu1
+***
+
 ### Lis da Silva Azevedo
 - Photo: https://avatars2.githubusercontent.com/u/30179776?s=400&u=16559ece1dcd1fe56fc14ea41229572b0ad290f9&v=4
 - Location: Salvador, Brazil
