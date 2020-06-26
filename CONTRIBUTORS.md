@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nathan Ribeiro
+- Photo: https://avatars3.githubusercontent.com/u/19799029?s=460&v=4
+- Location: Rio de Janeiro, Brazil
+- Bio: Full Stack Developer | NodeJS | React | .NET | Sharepoint
+- Github: https://github.com/NathanFRibeiro
