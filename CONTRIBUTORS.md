@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Khadija zuha shah
+- Photo: N/A
+- Location: Kozhikode,Kerala
+- Bio: Studying in grade 12th
+- Github: https://github.com/zuhashah
