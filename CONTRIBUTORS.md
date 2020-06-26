@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Navanith Rayavarapu
+- Photo: https://lh3.googleusercontent.com/-jLp0QcX2Y_w/W8AoxHJCr3I/AAAAAAAAEZE/huAZvn69fEUyjA1HasMSeeV7yDCCXVmNACEwYBhgL/w140-h140-p/IMG_20170917_120123.jpg
+- Location: Chennai, India
+- Bio: Student. passion about learning data science
+- Github: https://github.com/navanith007
