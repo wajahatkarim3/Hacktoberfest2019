@@ -20,6 +20,12 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Hitendrita Panda
+-Location: Bhubaneswar,India
+-Bio: Computer Science Undergraduate,web developer, open source contributer
+-Github: https://github.com/Hitendrita
+
+
 -----------
 
 ### Lis da Silva Azevedo
