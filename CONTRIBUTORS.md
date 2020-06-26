@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Syamsi
+- Photo: https://avatars0.githubusercontent.com/u/45581956
+- Location: Seri Kembangan, Malaysia
+- Bio: 📱 Web Developer . 🎤 Trainer . 👶 Father 
+- Github: https://github.com/syamsitaufik
