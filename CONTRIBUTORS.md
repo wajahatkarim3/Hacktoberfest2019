@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Vinny Patel
+- Photo: N/A
+- Location: Los Angeles, USA
+- Bio: Angular 2 ninja
+- Github: https://github.com/vipatel03/
+***
