@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Prajjwal Yadav
+- Photo: https://avatars1.githubusercontent.com/u/22998947?s=400&v=4
+- Location: Allahabad, Uttar Pradesh, India
+- Bio: 📱 Android Developer . 💻 Open Source Contributor
+- Github: https://github.com/prajjyadav
+***
