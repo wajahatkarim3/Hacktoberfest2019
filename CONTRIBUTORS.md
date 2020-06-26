@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Eric Miller
+- Photo: https://avatars2.githubusercontent.com/u/29766054?s=460&v=4
+- Location: San Jose, US
+- Bio: Full time student hoping to get a position soon!
+- Github: https://github.com/ericmiller777
+***
