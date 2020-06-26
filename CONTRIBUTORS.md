@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rashi
+- Photo: N/A
+- Location: India
+- Bio: Computer Engineering Student. Data Science Enthusiast.
+- Github: https://github.com/rashijhawar
+***
