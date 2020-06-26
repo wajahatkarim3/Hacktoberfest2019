@@ -1,4 +1,4 @@
-# Awesome Contributors of Hacktoberfest 2019
+﻿# Awesome Contributors of Hacktoberfest 2019
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+###Parvathi J Nair
+- Photo: 
+- Location: Kerala,India
+- Bio: 💻 Tech Enthusiast . 📝Writer .  🎒 Student
+- Github: https://github.com/ParvathiJNair
