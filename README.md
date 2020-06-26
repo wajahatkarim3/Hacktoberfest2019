@@ -90,7 +90,7 @@ Here's an example of my profile
 ***
 
 ## 🔥 What will happen after my contribution?
-I am creating a simple website called as **Awesome Contributors of Hacktoberfest 2019** and your profile will be added in that list and you will become AWESOME CONTRIBUTOR.
+I am working on creating a simple website called as **Awesome Contributors of Hacktoberfest 2019** and your profile will be added in that list along with many others and you will become an AWESOME CONTRIBUTOR.
 
 ***
 
