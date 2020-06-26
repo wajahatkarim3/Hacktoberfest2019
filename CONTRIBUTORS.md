@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Samridhi Jha
+- Photo: 
+- Location: Las Vegas, Nevada, USA
+- Bio: 📱 Software Engineer . 💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/samridhijha
