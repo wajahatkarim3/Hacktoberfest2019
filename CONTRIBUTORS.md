@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Santino den Brave
+- Photo: N/A
+- Location: Alphen, Netherlands
+- Bio: Backend developer
+- Github: https://github.com/santinodenbrave
