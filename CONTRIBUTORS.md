@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Pedro Henrique
+- Photo: https://avatars0.githubusercontent.com/u/11247538?s=400&u=036f3071cbd544a5ff1de49a6a91b94893b66674&v=4
+- Location: Campina Grande, Brazil
+- Bio: UFCG undergraduate student in Computer Science. | Loves Python. | Fascinated by how machines work and are able to learn.
+- Github: https://github.com/pedrohos
