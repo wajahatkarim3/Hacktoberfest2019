@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Chirag Tutlani
+- Photo: https://avatars0.githubusercontent.com/u/42274144?s=400&u=1a2dea46c017c67bfc56fd86299d5ae1b05dcaf8&v=4
+- Location: New Delhi, India
+- Bio: Started coding since high school
+- Github: https://github.com/Chirag161198
