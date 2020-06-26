@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Nanang Arifudin
+- Photo: https://avatars3.githubusercontent.com/u/33192900?s=400&u=e130285feb0d0d468468e27f30670a0d83b7c49c&v=4
+- Location: Yogyakarta, Indonesia
+- Bio: 📱 Android Developer . 💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/nngarfdn
