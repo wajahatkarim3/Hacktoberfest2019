@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Gnanendar Reddy
+- Photo: N/A
+- Location: Davis, California
+- Bio: Aspiring Software Engineer
+- Github: https://github.com/gnany07
