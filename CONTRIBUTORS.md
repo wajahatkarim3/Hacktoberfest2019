@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Liam
+- Photo: https://avatars1.githubusercontent.com/u/18130389?s=460&v=4
+- Location: New York, USA
+- Bio: Open Source Promoter, Cyber Wizard, Programmer by Trade
+- Github: https://github.com/senatormailman
