@@ -7,6 +7,9 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Hacktober-fest
+- Photo: 
+- Location, Asia
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
