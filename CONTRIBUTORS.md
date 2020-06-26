@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### K.Korobov
+- Photo: N/A
+- Location: Amsterdam, Netherlands
+- Bio: Data engineer and FLOSS evangelist
+- Github: https://github.com/ckorobov
