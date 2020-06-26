@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Edson Uamusse
+- Photo: 
+- Location: Maputo, Mozambique
+- Bio: Mobile and web developer . Linux Lover
+- Github: http://github.com/Uamusse
+***
