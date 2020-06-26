@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Oliver Siket
+- Photo: https://avatars2.githubusercontent.com/u/36236164?s=460&v=4
+- Location: Bristol, UK
+- Bio: Junior Full-stack Developer 📱, API / Laravel / React 
+- Github: https://github.com/oliversiket
