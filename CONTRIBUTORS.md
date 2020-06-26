@@ -1,4 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
+### Kris H
+- Photo: https://pl.gravatar.com/userimage/3777397/47070c5a740a78fb1be2c7b8d7e60e87.jpeg
+- Location: Poland
+- Bio: FullStack Dev.
+- Github: https://github.com/krzysiekh
+***
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
