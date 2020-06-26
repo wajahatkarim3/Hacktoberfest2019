@@ -413,5 +413,12 @@
 ### Mark Wood
 - Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
 - Location: Oakland, USA
-- Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
+- Bio: 📱 Full Stack Developer .💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Daniel Pérez
+- Photo: https://avatars3.githubusercontent.com/u/665102?s=400&u=06aa0beda073478911b382d2f6739b375af14d3e&v=4
+- Location: Vigo, España
+- Bio: 💻 FullStack Developer, 🔥 Learning DevOps
+- Github: https://github.com/Djdany95
+***
