@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### JC Tan
+- Photo: 
+- Location: Kuala Lumpur, Malaysia
+- Bio: 📱 Full Stack Developer
+- Github: https://github.com/omegachien
