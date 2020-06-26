@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Andi Insanudn
+- Photo: N/A
+- Location: Bandung, Indonesia
+- Bio: Frontend Developer at Digital Banking Company
+- Github: https://github.com/andiisfh/
+***
