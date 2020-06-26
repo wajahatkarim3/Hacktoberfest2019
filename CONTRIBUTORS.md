@@ -20,6 +20,13 @@
 - Bio: 💻 Open Source Contributor . 📝Writer .  🎒 Student
 - Github: https://github.com/phyre1337
 
+### Leon Do
+- Photo: https://avatars0.githubusercontent.com/u/19412160?s=460&v=4
+- Location: USA
+- Bio: crypto, IPFS
+- Github: https://github.com/leon-do
+***
+
 -----------
 
 ### Lis da Silva Azevedo
