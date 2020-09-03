@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sukanya Bharati 
+- Photo: N/A
+- Location: Bangalore , India
+- Bio: A beginner with a passion to learn & grow!
+- Github: https://github.com/BharatiSukanya
