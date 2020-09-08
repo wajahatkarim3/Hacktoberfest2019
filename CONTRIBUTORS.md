@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Shubham Sood
+- Photo: https://avatars2.githubusercontent.com/u/41718296?s=400&v=4
+- Location: Delhi, India
+- Bio: Machine Learning . 💻 MERN Stack Web Developer
+- Github: https://github.com/ShubhamSood1406
