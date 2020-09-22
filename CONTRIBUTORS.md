@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Varghese Jose
--photo:N/A
--Location:India
--Bio:Alappuzha
--Github:https://github.com/varghesejose2020
+- Photo:N/A
+- Location:India
+- Bio:Alappuzha
+- Github:https://github.com/varghesejose2020
