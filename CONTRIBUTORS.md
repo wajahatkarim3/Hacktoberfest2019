@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Varghese Jose
+- Photo:N/A
+- Location:India
+- Bio:Alappuzha
+- Github:https://github.com/varghesejose2020
