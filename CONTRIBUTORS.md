@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Abhishek Kumar
+- Photo: https://avatars3.githubusercontent.com/u/15892411?s=400&v=4
+- Location: Ranchi, India
+- Bio: 👨‍💻 Consultant . 💻 Open Source Contributor . 📱 Apple Enthusiast
+- Github: https://github.com/abhinitrpr
