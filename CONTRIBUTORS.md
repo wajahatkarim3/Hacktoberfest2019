@@ -419,5 +419,5 @@
 ### Abdul muhaimin
 - Photo: https://avatars0.githubusercontent.com/u/36979660?s=460&u=707351836f2a6bc66cfee622e43fd9ae0c3e0b8d&v=4
 - Location: kerala, india
-- Bio: 📱security guy. 💻 Open Source Contributor. 🔥
+- Bio: 📱security guy . 💻 Open Source Contributor. 🔥
 - Github: https://github.com/b1nslashsh
