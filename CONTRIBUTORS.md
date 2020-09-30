@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+***
+
+### Prachi yadav
+- Photo: N/A
+- Loaction: Delhi, India
+- Bio: Django developer
+- Github: https://github.com/prachiyadav31/
+***
