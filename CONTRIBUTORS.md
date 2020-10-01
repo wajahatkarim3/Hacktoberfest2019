@@ -290,6 +290,11 @@
 - Bio: 📱 Web Developer . 📝Writer . 🎤 Singer
 - Github: https://github.com/akanksha-anand99
 
+### Ac
+- Location: India
+- Bio: Python Programmer, Student, Learner
+- Github - https://github.com/this-is-ac
+
 ### Prajwal Srinivas
 - Photo: https://anonfile.com/k8je1f72n0/heisenberg_jpg
 - Location: Bangalore,India
@@ -403,11 +408,6 @@
 - Location: New Delhi, India
 - Bio: 📱 Android Developer . 💻 Open Source Contributor .
 - Github: https://github.com/guy34code
-
-### Ac
-- Location: India
-- Bio: Python Programmer, Student, Learner
-- Github - https://github.com/this-is-ac
 
 ### judyz01
 - Photo: N/A
