@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Gunjan Raj Tiwari
+- Photo: https://avatars3.githubusercontent.com/u/54533347?s=460&u=ebb42796d6eea98e74da31a2ee9803b4a79395ef&v=4
+- Location: Bharatpur, Nepal
+- Bio: 🎒 Student | 💻 Starting Open Source Contribution
+- Github: https://github.com/GunjanRajTiwari
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
