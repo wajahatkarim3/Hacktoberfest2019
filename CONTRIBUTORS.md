@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Name:[Gourav Kumar](https://github.com/gouravkmar)
+-Photo:N/A
+-Place:Allahabad,India
+-Bio:EE undergrad
+-Github:[gouravkmar] https://github.com/gouravkmar)
