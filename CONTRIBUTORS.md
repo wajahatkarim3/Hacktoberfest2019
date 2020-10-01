@@ -416,8 +416,8 @@
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
 
-###Puneeth K Shetty
--Photo: N/A
--Location: Mangalore, India
--Bio: Student/Web developer
--Github: https://github.com/PuneethKshetty
+### Puneeth K Shetty
+- Photo: N/A
+- Location: Mangalore, India
+- Bio: Student/Web developer
+- Github: https://github.com/PuneethKshetty
