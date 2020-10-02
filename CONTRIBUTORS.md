@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Tanishq Bhatt
+- Photo: 
+- Location: Lucknow, India
+- Bio: Student(Class 12th)
+- Github: https://github.com/Ragnarok1023
+***
