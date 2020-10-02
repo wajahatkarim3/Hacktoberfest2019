@@ -1,4 +1,9 @@
 # Awesome Contributors of Hacktoberfest 2019
+### Yrua Riley
+- Location:USA
+- Bio: CS Student
+- Github: https://github.com/yyriley
+***
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
