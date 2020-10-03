@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Lukasz Sikorski
+- Photo:
+- Location: Derby, United Kingdom
+- Bio: Senior Software Developer
+- GitHub: https://github.com/fikus88
