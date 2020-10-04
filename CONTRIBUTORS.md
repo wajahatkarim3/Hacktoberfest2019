@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### new-to-coding
+- Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
+- Location: colorado,USA
+- Bio: hardworker at coding
+- Github: https://github.com/new-to-coding123
+***
