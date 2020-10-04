@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Muhammad Awais
+- Photo: https://avatars2.githubusercontent.com/u/24633059?s=460&u=19555ad8fcd6f89b231927b19650d05193d257e0&v=4
+- Location: Karachi, Pakistan
+- Bio: 💻 Full Stack Developer . 👨🏼‍💻 Open Source Contributor . Angular 💝 . Javascript 🤑 . ReactJS ☄️
+- Github: https://github.com/muhammadawaisshaikh
