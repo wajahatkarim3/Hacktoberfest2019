@@ -16,7 +16,7 @@
     <a href="https://github.com/vasanthakumaaran/Hacktoberfest2020/fork">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
-    <a href="https://saythanks.io/to/wajahatkarim3">
+    <a href="https://saythanks.io/to/vasanthakumaaran">
         <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
     </a>  <a href="https://www.paypal.me/WajahatKarim/5">
         <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat"></img>
@@ -41,8 +41,8 @@
 
 ***  
   
-# ❓ What's Hacktoberfest 2019?
-Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2019.
+# ❓ What's Hacktoberfest 2020?
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2020.
 
 During the entire month of October 2019, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
@@ -100,6 +100,5 @@ I am creating a simple website called as **Awesome Contributors of Hacktoberfest
 Wajahat Karim
 ```
 - Website (http://wajahatkarim.com)
-- Twitter (http://twitter.com/wajahatkarim)
-- Medium (http://www.medium.com/@wajahatkarim3)
-- LinkedIn (http://www.linkedin.com/in/wajahatkarim)
+- Twitter (http://twitter.com/vasanthakumaaran)
+- LinkedIn (http://www.linkedin.com/in/vasanthakumaaran)
