@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Brian Tham
+- Photo: https://avatars3.githubusercontent.com/u/29522755?s=460&u=0ccf46c545b790a785f50f357518f2633ce8b557&v=4
+- Location: Singapore
+- Bio: Student
+- Github: https://github.com/Nightey3s
+
