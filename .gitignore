@@ -1,0 +1,6 @@
+.DS_Store
+*.css.map
+core/target
+taglib/
+ui/target
+**/node_modules/*
