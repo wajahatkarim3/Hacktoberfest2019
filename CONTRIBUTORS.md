@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Varun Nayak
+- Photo: https://drive.google.com/file/d/1U09yvEgUtBoRitbARnZBgiil02ixamDp/view?usp=sharing
+- Location: Mangaluru, India
+- Bio: Web Programmer
+- Github: https://github.com/varunjcnayak
