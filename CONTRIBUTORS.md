@@ -1,4 +1,10 @@
 # Awesome Contributors of Hacktoberfest 2019
+### Piyush Dwivedi
+- Photo: https://github.com/account
+- Location: Madhya Pradesh, India
+- Bio: 📱 Html . 💻 Open Source Contributor . 📝Css
+- Github: https://github.com/piyush215j
+***
 
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
