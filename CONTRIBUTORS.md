@@ -415,3 +415,11 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+***
+
+### Laura Franca
+- Photo: https://avatars0.githubusercontent.com/u/9975882?s=400&u=76d96925769b7dc397d989af24fd1c67ef778563&v=4
+- Location: Reykjavik, Iceland
+- Bio: 💻 Web Developer, 🎮 Gamer, 🎨 Graphic Design Enthusiast & ⭐ Computer Science Aficionada
+- Github: https://github.com/laurar14
+***
