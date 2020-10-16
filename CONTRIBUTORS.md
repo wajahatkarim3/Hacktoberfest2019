@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Saahil Rachh
+- Photo: https://avatars3.githubusercontent.com/u/60090957?s=400&v=4
+- Location: Mumbai, India
+- Bio: AI enthusiast
+- Github: https://github.com/SAL778
+***
