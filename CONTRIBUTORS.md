@@ -1,5 +1,11 @@
 # Awesome Contributors of Hacktoberfest 2019
 
+### Vivek Khandelwal
+-Photo
+-Location Jaipur,Rajasthan
+-Bio: Android Developer and Web Developer 💻 Open Source Contributor
+-github: https://github.com/vivekdusad
+***
 ### Wajahat Karim
 - Photo: https://avatars1.githubusercontent.com/u/8867121?s=460&v=4
 - Location: Karachi, Pakistan
