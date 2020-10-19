@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Raffael Morais
+- Photo: https://avatars1.githubusercontent.com/u/48894081?s=460&u=335e0e31a68d196212917ca2e78421094957c5e9&v=4
+- Location: Rio Grande Do Norte, Brazil
+- Bio: BackEnd Developer and programming enthusiast.
+- Github: https://github.com/Raffae2679
