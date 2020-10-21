@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Andres Arrieta
+- Photo: N/A
+- Location: Medellin, Colombia
+- Bio: Aspiring Fullstack dev 
+- Github: https://github.com/lsomacruzl
