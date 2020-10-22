@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Hermansyah
+- Photo: N/A
+- Location: Medan, Indonesia
+- Bio: one mistake can make your crazy!
+- Github: https://github.com/0dayherman
