@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Rajat Sharda
+- Photo: https://avatars1.githubusercontent.com/u/72014316?s=460&v=4
+- Location: New Delhi, India
+- Bio: Aspiring Software Developer
+- Github: https://github.com/rajatsharda23
+***
