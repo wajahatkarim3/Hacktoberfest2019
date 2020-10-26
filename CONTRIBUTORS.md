@@ -7,6 +7,13 @@
 - Github: https://github.com/wajahatkarim3
 ***
 
+### Tushar Kumar
+- Photo: https://p.kindpng.com/picc/s/725-7258067_ndg-gaming-logo-no-copyright-png-transparent-png.png
+- Location: India
+- Bio: 💻 Python, HTML programmer, 📷 Photography
+- Github: https://github.com/tushar-kumar
+***
+
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
@@ -415,3 +422,4 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
