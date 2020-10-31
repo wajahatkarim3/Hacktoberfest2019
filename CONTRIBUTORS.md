@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### dimonalek
+- Photo: n/a
+- Location: Kyiv, Ukraine
+- Bio: IT Support Engineer
+- Github: https://github.com/dimonalek
