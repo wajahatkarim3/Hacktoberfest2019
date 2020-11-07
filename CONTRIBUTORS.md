@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+### Pravesh Pandey
+- Photo:
+- Location: renukoot, india
+- Bio:
+- Github:  https://github.com/pravesh-pandey
+***
