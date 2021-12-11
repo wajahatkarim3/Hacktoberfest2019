@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sudipto Chakraborty
+- Photo: 
+- Location: Mumbai, India
+- Bio: Software enthusiast/engineer | Open Source Contributor 
+- Github: https://github.com/web-dot
