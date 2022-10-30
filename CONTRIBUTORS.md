@@ -14,6 +14,13 @@
 - Github: http://github.com/Mystes-CS
 ***
 
+### grithik4U
+- Photo: 
+- Location: Hyderabad,india
+- Bio: solidity
+- Github: [http://github.com/Mystes-CS](https://github.com/grithik4U)
+***
+
 ### Christian Torres
 - Photo: https://media.licdn.com/dms/image/C4E03AQH7xBPTadPPlg/profile-displayphoto-shrink_100_100/0?e=1575504000&v=beta&t=tLe4Jz-zCt7FQCySRX_vW0rK-oFfwjk8-NAjMxbuFXg
 - Location: Connecticut, United States
